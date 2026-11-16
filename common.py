@@ -8,7 +8,10 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, "data")
 KST = timezone(timedelta(hours=9))
 MIN_PRICE = 30000                 # 3만원 미만 제외
-COMPARE_TTL_HOURS = 3             # 비교 결과 유효 시간 (지나면 다시 비교)
+COMPARE_TTL_HOURS = 5             # 비교 결과를 다시 확인하는 주기
+COUPANG_VALID_H = 3              # 골드박스 가격 유효 시간
+WATCH_VALID_H = 12               # 관심 모델 가격 유효 시간 (5개씩 순환 확인)
+MAX_COMPARE_PER_RUN = 25         # 한 번에 비교할 최대 상품 수
 OUTLIER_RATIO = 0.85              # 다른 대형몰 중간값의 85% 미만이면 가격 오류 의심
 
 # 비교에 인정하는 대형몰 (다나와 shop_name 기준, 부분 일치)
@@ -45,7 +48,7 @@ def is_major(shop_name):
 
 
 # ───────── 같은 상품인지 판정 ─────────
-UNIT_RE = re.compile(r"(\d+(?:\.\d+)?)\s*(ml|l|g|kg|매|개입|개|입|팩|병|롤|정|포|캔|봉)(?![a-z])", re.I)
+UNIT_RE = re.compile(r"(\d+(?:\.\d+)?)\s*(ml|l|g|kg|매|개입|개|입|팩|병|롤|정|포|캔|봉|hz|w|인치|만화소|mah|gb|tb)(?![a-z])", re.I)
 MODEL_RE = re.compile(r"\b([A-Z]{1,5}-?\d{2,}[A-Z0-9/-]*)\b")
 NOISE_RE = re.compile(r"\[.*?\]|\(.*?\)|[^\w\s./-]")
 
@@ -89,7 +92,7 @@ def match_confidence(a, b):
     if sa and sb and sa != sb:
         return "낮음", 0.15
     if sa and sa == sb and jac >= 0.3:
-        return "높음", round(0.6 + jac / 2, 2)
+        return "높음", min(1.0, round(0.6 + jac / 2, 2))
     if jac >= 0.5:
         return "보통", round(jac, 2)
     return "낮음", round(jac, 2)

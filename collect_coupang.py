@@ -13,8 +13,9 @@ import os
 import time
 import urllib.parse
 import urllib.request
+from datetime import timedelta
 
-from common import BASE, MIN_PRICE, append_obs, config_of, load, now, save
+from common import BASE, MIN_PRICE, WATCH_VALID_H, append_obs, config_of, load, now, save
 
 HOST = "https://api-gateway.coupang.com"
 API = "/v2/providers/affiliate_open_api/apis/openapi"
@@ -60,18 +61,35 @@ def main():
         p = normalize(it, "골드박스")
         items[p["id"]] = p
 
+    # 관심 모델 키워드: 매 회차 5개씩 돌아가며 검색 (쿠팡 검색 API 호출 제한 대응)
     wl = os.path.join(BASE, "watchlist.txt")
     if os.path.exists(wl):
-        kws = [l.strip() for l in open(wl, encoding="utf-8") if l.strip() and not l.startswith("#")]
-        for kw in kws[:10]:                       # 검색 API 호출 제한을 고려해 최대 10개
+        kws, pcodes = [], {}
+        for line in open(wl, encoding="utf-8"):
+            line = line.split("#")[0].strip()
+            if not line:
+                continue
+            kw, _, pc = (s.strip() for s in line.partition("|"))
+            kws.append(kw)
+            pcodes[kw] = pc
+        st = load("watch_state.json", {"next": 0})
+        start = st["next"] % len(kws) if kws else 0
+        batch = [kws[(start + i) % len(kws)] for i in range(min(5, len(kws)))]
+        for kw in batch:
             try:
-                data = get(f"{API}/products/search", {"keyword": kw, "limit": 5, "subId": SUB_ID})
+                data = get(f"{API}/products/search", {"keyword": kw, "limit": 3, "subId": SUB_ID})
                 for it in (data or {}).get("productData", []):
                     p = normalize(it, f"관심:{kw}")
-                    items.setdefault(p["id"], p)
+                    # 검색 결과 중 상품명에 모델명이 실제로 들어간 것만 추적
+                    if kw.split()[-1].lower().replace("-", "") in p["name"].lower().replace("-", ""):
+                        p["danawa_pcode"] = pcodes.get(kw) or None
+                        p["model"] = kw.split()[-1]
+                        items.setdefault(p["id"], p)
             except Exception as e:
                 print(f"  검색 실패 {kw}: {e}")
-            time.sleep(1)
+            time.sleep(2)
+        st["next"] = start + len(batch)
+        save("watch_state.json", st)
 
     # 여행·티켓(국내투어 등)은 다른 몰과 비교할 수 없어 제외
     skip_cat = ("투어", "여행", "티켓", "항공", "숙박", "렌터카")
@@ -79,11 +97,19 @@ def main():
              if v["price"] >= MIN_PRICE and v["url"]
              and not any(s in v["category"] for s in skip_cat) and "AFFTDP" not in v["url"]}
     ts = now().isoformat(timespec="minutes")
+    for p in items.values():
+        p["checked_at"] = ts
+    # 이번 회차에 검색하지 않은 관심 모델은 12시간까지 직전 확인값 유지
+    prev = load("coupang.json", {"items": []})["items"]
+    cutoff = (now() - timedelta(hours=WATCH_VALID_H)).isoformat(timespec="minutes")
+    for p in prev:
+        if p["id"] not in items and p.get("source", "").startswith("관심:") and p.get("checked_at", "") >= cutoff:
+            items[p["id"]] = p
 
     # 상품 상태: 같은 상품은 새로 만들지 않고 갱신 (쿠팡 상품ID 기준)
     products = load("products.json", {})
     obs = []
-    for p in items.values():
+    for p in [x for x in items.values() if x["checked_at"] == ts]:
         old = products.get(p["id"], {})
         products[p["id"]] = {**old, **p,
                              "config": config_of(p["name"]),

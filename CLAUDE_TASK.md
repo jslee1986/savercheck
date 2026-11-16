@@ -5,8 +5,10 @@
 1. 저장소 최신화: `git pull`
 2. `python compare_todo.py` → `todo.json` (비교가 필요한 상품만. 0개면 여기서 끝)
 3. `todo.json`의 상품마다:
-   - `danawa_hint`가 있으면 그 `pcode`·`cate`로 바로 `get_mall_price_list`
-   - 없으면 다나와 `search_products`(query·search_keyword = `search_keyword`, limit 5)로 찾는다.
+   - `danawa_pcode`가 있으면(관심 모델): `search_products`(search_keyword = `model`)로 검색해서
+     **pcode가 `danawa_pcode`와 같은 결과**의 product_ref로 `get_mall_price_list`. 같은 번호가 안 나오면 `danawa: null`.
+   - `danawa_hint`가 있으면 그 상품명·모델로 다시 검색해 같은 pcode를 찾는다 (product_ref는 매번 새로 받아야 함)
+   - 둘 다 없으면 다나와 `search_products`(query·search_keyword = `search_keyword`, limit 5)로 찾는다.
      쿠팡 상품명과 **브랜드·모델명·용량·수량이 같은 것**만 고른다. 확신이 없으면 `danawa: null`, `malls: []`.
    - 고른 상품의 `product_ref`·카테고리로 `get_mall_price_list` 호출
    - 응답 `company` 목록을 그대로 옮긴다 (판단·필터는 compare_save.py가 함):

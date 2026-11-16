@@ -12,12 +12,12 @@ from collections import defaultdict
 from datetime import datetime, timedelta
 from html import escape as e
 
-from common import BASE, KST, load, now, read_obs, save
+from common import BASE, COUPANG_VALID_H, WATCH_VALID_H, load, now, read_obs, save
 
 OUT = os.path.join(BASE, "site")
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 NAME = "세이버체크"
-COUPANG_STALE_H = 3
+COUPANG_STALE_H = 3   # 수집 자체가 이 시간 넘게 멈추면 '확인 지연'
 COMPARE_STALE_H = 8
 MIN_DAYS_FOR_PERIOD = 14      # 기간 최저가 배지를 붙이기 위한 최소 기록 일수
 DISCLOSURE = "이 사이트는 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
@@ -139,7 +139,10 @@ def evaluate():
     today = t.strftime("%Y-%m-%d")
     cj = load("coupang.json", {"collected_at": None, "items": []})
     coupang_ok = bool(cj["collected_at"]) and (t - datetime.fromisoformat(cj["collected_at"])) < timedelta(hours=COUPANG_STALE_H)
-    current = {p["id"]: p for p in cj["items"]} if coupang_ok else {}
+    def fresh(p):
+        lim = WATCH_VALID_H if p.get("source", "").startswith("관심:") else COUPANG_VALID_H
+        return (t - datetime.fromisoformat(p.get("checked_at") or cj["collected_at"])) < timedelta(hours=lim)
+    current = {p["id"]: p for p in cj["items"] if fresh(p)} if coupang_ok else {}
     products = load("products.json", {})
     compare = load("compare.json", {})
     deals = load("deals.json", {})
