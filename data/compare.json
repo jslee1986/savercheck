@@ -43,5 +43,246 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "9494361908": {
+  "checked_at": "2026-11-17T07:55+09:00",
+  "coupang_price_at_check": 151900,
+  "danawa": {
+   "pcode": "124568601",
+   "name": "필립스 NA230/10",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "옥션",
+    "price": 128310,
+    "delivery": 0,
+    "total": 128310,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 128320,
+    "delivery": 0,
+    "total": 128320,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 133620,
+    "delivery": 0,
+    "total": 133620,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[필립스] 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 134460,
+    "delivery": 0,
+    "total": 134460,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 134460,
+    "delivery": 0,
+    "total": 134460,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 134460,
+    "delivery": 0,
+    "total": 134460,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 136190,
+    "delivery": 0,
+    "total": 136190,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 140140,
+    "delivery": 0,
+    "total": 140140,
+    "card_price": 130340,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   }
+  ],
+  "dropped": 2,
+  "other_min": 128310,
+  "other_min_shop": "옥션"
+ },
+ "9795251783": {
+  "checked_at": "2026-11-17T07:55+09:00",
+  "coupang_price_at_check": 181000,
+  "danawa": {
+   "pcode": "32156642",
+   "name": "쿠쿠전자 CAF-E0810TW",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "옥션",
+    "price": 116490,
+    "delivery": 0,
+    "total": 116490,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 재고보유 CUCKOO CAF-E0810TW 8L 터치디스플레이 에어프라이기 미개봉새상품/택배발송 CUCKOO",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 116490,
+    "delivery": 0,
+    "total": 116490,
+    "card_price": 114490,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "쿠쿠 재고보유 CUCKOO CAF-E0810TW 8L 터치디스플레이 에어프라이기 미개봉새상품/택배발송",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 118480,
+    "delivery": 0,
+    "total": 118480,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "CUCKOO CAF-E0810TW 8L 터치디스플레이 에어프라이기",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 118580,
+    "delivery": 0,
+    "total": 118580,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "에어프라이어 8L CAF-E0810TW",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 120000,
+    "delivery": 0,
+    "total": 120000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 투명 대용량 에어프라이어 8L CAF-E0810TW",
+    "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 124320,
+    "delivery": 0,
+    "total": 124320,
+    "card_price": 118110,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "본사직영) 쿠쿠 에어프라이어 8L CAF-E0810TW",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 135000,
+    "delivery": 0,
+    "total": 135000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "에어프라이어 8L CAF-E0810TW",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 135000,
+    "delivery": 0,
+    "total": 135000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "에어프라이어 8L CAF-E0810TW",
+    "match": "높음"
+   }
+  ],
+  "dropped": 3,
+  "other_min": 116490,
+  "other_min_shop": "옥션"
+ },
+ "6344348969": {
+  "checked_at": "2026-11-17T07:55+09:00",
+  "coupang_price_at_check": 127000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8565816072": {
+  "checked_at": "2026-11-17T07:55+09:00",
+  "coupang_price_at_check": 309000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8974056437": {
+  "checked_at": "2026-11-17T07:55+09:00",
+  "coupang_price_at_check": 113900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
