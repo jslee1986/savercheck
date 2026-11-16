@@ -73,7 +73,11 @@ def main():
                 print(f"  검색 실패 {kw}: {e}")
             time.sleep(1)
 
-    items = {k: v for k, v in items.items() if v["price"] >= MIN_PRICE and v["url"]}
+    # 여행·티켓(국내투어 등)은 다른 몰과 비교할 수 없어 제외
+    skip_cat = ("투어", "여행", "티켓", "항공", "숙박", "렌터카")
+    items = {k: v for k, v in items.items()
+             if v["price"] >= MIN_PRICE and v["url"]
+             and not any(s in v["category"] for s in skip_cat) and "AFFTDP" not in v["url"]}
     ts = now().isoformat(timespec="minutes")
 
     # 상품 상태: 같은 상품은 새로 만들지 않고 갱신 (쿠팡 상품ID 기준)
