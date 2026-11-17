@@ -286,7 +286,7 @@
   "other_min_shop": null
  },
  "7855749856": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 328400,
   "danawa": {
    "pcode": "108365732",
@@ -378,9 +378,9 @@
    },
    {
     "shop": "롯데ON",
-    "price": 370530,
+    "price": 375390,
     "delivery": 0,
-    "total": 370530,
+    "total": 375390,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -393,7 +393,7 @@
   "other_min_shop": "GS SHOP"
  },
  "9753794706": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 119000,
   "danawa": {
    "pcode": "124469402",
@@ -440,17 +440,6 @@
     "match": "높음"
    },
    {
-    "shop": "옥션",
-    "price": 139000,
-    "delivery": 0,
-    "total": 139000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
-    "match": "높음"
-   },
-   {
     "shop": "11번가",
     "price": 139000,
     "delivery": 0,
@@ -462,7 +451,18 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "옥션",
+    "price": 139000,
+    "delivery": 0,
+    "total": 139000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
     "price": 150420,
     "delivery": 0,
     "total": 150420,
@@ -473,7 +473,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 150420,
     "delivery": 0,
     "total": 150420,
@@ -500,7 +500,7 @@
   "other_min_shop": "오늘의집"
  },
  "9801631057": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 593100,
   "danawa": {
    "pcode": "123774957",
@@ -515,13 +515,35 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 559710,
+    "price": 549200,
     "delivery": 0,
-    "total": 559710,
+    "total": 549200,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[LG] S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[LG] (11/26이후 순차배송) S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 549259,
+    "delivery": 0,
+    "total": 549259,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 564259,
+    "delivery": 0,
+    "total": 564259,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -532,29 +554,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 569174,
-    "delivery": 0,
-    "total": 569174,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 584174,
-    "delivery": 0,
-    "total": 584174,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "(11/26이후 순차배송) S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -570,24 +570,24 @@
    },
    {
     "shop": "G마켓",
-    "price": 622000,
+    "price": 616510,
     "delivery": 0,
-    "total": 622000,
-    "card_price": 578460,
-    "card_name": "삼성카드",
+    "total": 616510,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "LG전자 혜택가 57만원대) LG 코드제로 오브제컬렉션 A7 올인원타워 무선청소기 A720WA",
+    "product_name": "[신세계백화점]LG전자 (LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
     "shop": "옥션",
-    "price": 622000,
+    "price": 616510,
     "delivery": 0,
-    "total": 622000,
-    "card_price": 578460,
-    "card_name": "삼성카드",
+    "total": 616510,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "LG전자 혜택가 57만원대) LG 코드제로 오브제컬렉션 A7 올인원타워 무선청소기 A720WA",
+    "product_name": "[신세계백화점](LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -603,11 +603,11 @@
    }
   ],
   "dropped": 1,
-  "other_min": 559710,
+  "other_min": 549200,
   "other_min_shop": "11번가"
  },
  "9787523527": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 41200,
   "danawa": null,
   "malls": [],
@@ -625,7 +625,7 @@
   "other_min_shop": null
  },
  "8327575463": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 121900,
   "danawa": null,
   "malls": [],
@@ -634,7 +634,7 @@
   "other_min_shop": null
  },
  "9793755524": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 198000,
   "danawa": null,
   "malls": [],
@@ -643,7 +643,7 @@
   "other_min_shop": null
  },
  "8608656696": {
-  "checked_at": "2026-11-17T10:56+09:00",
+  "checked_at": "2026-11-17T16:56+09:00",
   "coupang_price_at_check": 35350,
   "danawa": null,
   "malls": [],
