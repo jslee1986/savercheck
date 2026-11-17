@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-17T13:47+09:00",
+ "collected_at": "2026-11-17T18:09+09:00",
  "items": [
   {
    "id": "8327575463",
@@ -8,22 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c10d/b9490c40be8a599a8485f80fcb33f0d1661de48960d1573391a453923ddc.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8327575463&itemId=24040659695&vendorItemId=91060893075&traceid=V0-143-c917cc132b6ee31a&pt=0&slot=9",
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c10d/b9490c40be8a599a8485f80fcb33f0d1661de48960d1573391a453923ddc.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8327575463&itemId=24040659695&vendorItemId=91060893075&traceid=V0-143-c917cc132b6ee31a&pt=0&slot=8",
    "source": "골드박스",
-   "checked_at": "2026-11-17T13:47+09:00"
-  },
-  {
-   "id": "8608656696",
-   "name": "숨37도 타임 에너지 브라이트 멀티 브라이트닝 기초 화장품 세트",
-   "price": 35350,
-   "rocket": true,
-   "free_ship": false,
-   "category": "뷰티",
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/02/20/10/0/a5503c9e-b14e-4792-97a7-f3d94a25f9ef.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8608656696&itemId=24967033191&vendorItemId=91972691255&traceid=V0-143-cffa1d1050632f44&pt=0&slot=13",
-   "source": "골드박스",
-   "checked_at": "2026-11-17T13:47+09:00"
+   "checked_at": "2026-11-17T18:09+09:00"
   },
   {
    "id": "6646249078",
@@ -32,22 +20,22 @@
    "rocket": true,
    "free_ship": false,
    "category": "가구/홈인테리어",
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62646058604626-b7d1fc09-15e6-4590-b4b0-d5fad7ce7a31.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6646249078&itemId=15211110632&vendorItemId=82432136760&traceid=V0-143-ad7d31c6791d7365&pt=0&slot=17",
+   "image": "https://t3a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/62646058604626-b7d1fc09-15e6-4590-b4b0-d5fad7ce7a31.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6646249078&itemId=15211110632&vendorItemId=82432136760&traceid=V0-143-ad7d31c6791d7365&pt=0&slot=12",
    "source": "골드박스",
-   "checked_at": "2026-11-17T13:47+09:00"
+   "checked_at": "2026-11-17T18:09+09:00"
   },
   {
-   "id": "9793755524",
-   "name": "마르디메크르디 여성용 WOOL MIDI SINGLE COAT",
-   "price": 198000,
+   "id": "148610843",
+   "name": "디유 굿럭투유 합격기원 초콜릿 25구 + 쇼핑백 세트",
+   "price": 31900,
    "rocket": true,
    "free_ship": false,
-   "category": "패션의류",
-   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/he7zcffw/a15ad76ffa6b44bbb2422b59ff8a702e.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793755524&itemId=29323404587&vendorItemId=96237877813&traceid=V0-143-6efb4ba71e949d92&pt=0&slot=18",
+   "category": "식품",
+   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/458a/4d480ea9ea078d3ada115caffe0c3a79d784630e417f8c896a6412d81822.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=148610843&itemId=429752569&vendorItemId=4059534876&traceid=V0-143-a954b245dee19414&pt=0&slot=20",
    "source": "골드박스",
-   "checked_at": "2026-11-17T13:47+09:00"
+   "checked_at": "2026-11-17T18:09+09:00"
   },
   {
    "id": "9535854247",
@@ -56,10 +44,76 @@
    "rocket": true,
    "free_ship": false,
    "category": "주방용품",
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1002756717936421-a75ecd86-2b83-4e42-9a58-3e9ddee2e2d3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9535854247&itemId=28441203397&vendorItemId=94199124152&traceid=V0-143-a2b5050c01cf6d8d&pt=0&slot=25",
+   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1002756717936421-a75ecd86-2b83-4e42-9a58-3e9ddee2e2d3.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9535854247&itemId=28441203397&vendorItemId=94199124152&traceid=V0-143-a2b5050c01cf6d8d&pt=0&slot=23",
    "source": "골드박스",
-   "checked_at": "2026-11-17T13:47+09:00"
+   "checked_at": "2026-11-17T18:09+09:00"
+  },
+  {
+   "id": "9793755524",
+   "name": "마르디메크르디 여성용 WOOL MIDI SINGLE COAT",
+   "price": 198000,
+   "rocket": true,
+   "free_ship": false,
+   "category": "패션의류",
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/owmdd1gl/83674c9ee1544a8eb7eaab2281ba5651.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793755524&itemId=29323404588&vendorItemId=96237877815&traceid=V0-143-6efb4ba71e949d92&pt=0&slot=24",
+   "source": "골드박스",
+   "checked_at": "2026-11-17T18:09+09:00"
+  },
+  {
+   "id": "9414837375",
+   "name": "타포 2K QHD 회전형 스마트 홈 WiFi 카메라 실내용",
+   "price": 57900,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/411701226798307-ca5dceeb-9112-464e-b1bb-d2ed39da4abf.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9414837375&itemId=25937444896&vendorItemId=86940439815&traceid=V0-143-703e1324069e6d96&pt=0&slot=26",
+   "source": "골드박스",
+   "checked_at": "2026-11-17T18:09+09:00"
+  },
+  {
+   "id": "9072150510",
+   "name": "실시간통역 우애스크 익스펜션 에어팟4 번역기 (MXP63KH/A) AI 동시통역 이어폰",
+   "price": 262200,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/U38jejz8s6n2XDRZU1Uw9A19zCqJzUjjivkGxox5gVIdbiheAb5E2v6xzv4av5rPCbfTPH7M5ivnRiZBxkFAwJZI-FUPtwBlcJHCR9iUWjA19SfcVNzRwVMfetI3ckD3f6OxhFYkaYXJxOQECFbGxgsv9JOoop4tTil2A3LVtidcsE5tRh2l-5ukogfxiBDaFqWCPQ5wIwUj2O027Csc0M8jtJvNMY0D5wenEsnaq6dfKL8nCaySxdJPEL9MRI3cwvgJOp0jj_8rkC8WBMIgdDSALc6cHWM6vUj5LFTrLBHsyTZDjk7sBq4_vJ5bN7dKrhEpaZt6jMNi1gg6veZihcHoRV0ZmXAOibWpmoFTloNFqo6cHuDDJPyHdCUk92eWPrUEENbTVHgAgayY1rtol0vS2r3e_TB46FWesEq-iceuQtLnGvu8ng1Sv8kM3McISXUDDj05-IbJLFBfVQLwy0XNe2UarNx37cOyQVS2ip_aNnPZ1wzP7jlBZh1XmnBEAC_RzoURKDzBJlAOyb1_UltyxTk4YYdzJTMUai-akS6Z9UmExlfUZ789",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9072150510&itemId=26643948017&vendorItemId=93616600880&traceid=V0-153-626f5f41a4469e2d&requestid=20261117180901351226131915&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:에어팟4 MXP63KH/A",
+   "danawa_pcode": "65920016",
+   "model": "MXP63KH/A",
+   "checked_at": "2026-11-17T18:09+09:00"
+  },
+  {
+   "id": "9724226088",
+   "name": "삼성 갤럭시 버즈4프로 무선 블루투스 이어폰 노이즈캔슬링 SM-R640",
+   "price": 359000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/lzGXuhdQGQeONgfgl2Yb_KQmWfScW4hrgcLefQhu3htvufHhG1zgpP1knhDSgSMfiQQNQIRF1Nhi8YLRANkvlPX8YHLKHPhcKefPJlhVCReZyZANYkYeUfybI7XDu0UJMjjWjdXDbcYiMiD--MAjSzjJ0t4J0V-HlyBMMoyzL4e9DiJYvJzpshfhhXEKxSlJ4Yn-NEn_cJiKRLAnAe7-qhvIRX3dNk278jES4bAknZjtzWYYyb1Y4BNHj8X6WioyF1V0sM0rjp273xnH7_aOOCYBhAZENV5joebrfnMWq59AuKLTYTN2oCxPSFFWgdqbyZzymtDcJrNReXKnnN03BdMdx6Nj-T3QhKOMj0A-X1QMuG46S3k1C7x4ktJ2fpNoMKV_5K4nYpw2qD-KsALH574wggcWlVwNn0vgdJGrGiPw6hY55nmpcDBda43HetYGT4qYz7zDllJ5riRIvc0jQseCDEkJbU1VEPWcnDUZe_0W5Ek3G8-Z7i5m6jkyFpusDlDmhXnRSXaMBlwG6HRjvt7iJWT2aMliwqPcpZMyO3c3UQH-1HX8yJg=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9724226088&itemId=29100140933&vendorItemId=96025340372&traceid=V0-153-6c8c7934ad4b3c3f&requestid=20261117180908434097095039&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:갤럭시 버즈4 프로 SM-R640",
+   "danawa_pcode": "106702589",
+   "model": "SM-R640",
+   "checked_at": "2026-11-17T18:09+09:00"
+  },
+  {
+   "id": "9796584807",
+   "name": "삼성정품 Galaxy 버즈4프로 블랙 (SM-R640) 이어폰 단품 낱개판매",
+   "price": 96000,
+   "rocket": false,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/HAj8oCgrCzGlbg99HADl2s4dIuPhPcfxm6z_FbUEX1qPQ8vYByzh9BHNggSdJlhLhqxa06Qhp4_QDOKYddzT8I5KJAfK9Mplp2K1Sn-wDsYmonS2iLt-eWtQXoWrhBKZRFp8m2Ou_J3_prp26ceEfBtmPYiBNgvGSmlog9NZx5VJgBe0yekKS-Mzv-LYKNV5F-oXIa29wEobHpHePhIxjbrQIYzjVoW-6psZeoJKb8oHfmthVZBIGKq81LbuxvJ9-9TlZhqXkTjOn6BRxgyh4J5bSzo-cM2NrCLGYdHJGCcXB-RPX7OjL3h2y34HnmLNE1NQK9c6qlC171x7v2qpXyOKPioDOAvKebqbFeGz0iioMXSciZr3vW0xcwpE1wkOc-WZcxO9qH8pbJi68Jlw3GknHiilvBPhnl04RBAdmkCnK9RBQs-tvkIHnynjnf_SA6PxK_e7Mn0lrYxTeOxanfpn9dvNkLWFB0pWMxrRqZ1cZqxmnr2GlqLOAtzXcmPwzWH7t0sUBA57AU0wkuwLnAmhg7ESVohpdpY_q9IO41859U8Z59CEgO3L",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9796584807&itemId=29333715347&vendorItemId=96168610981&traceid=V0-153-906abc1994960678&requestid=20261117180908434097095039&token=31850C%7CGM&pt=0&slot=2",
+   "source": "관심:갤럭시 버즈4 프로 SM-R640",
+   "danawa_pcode": "106702589",
+   "model": "SM-R640",
+   "checked_at": "2026-11-17T18:09+09:00"
   },
   {
    "id": "9724972673",
@@ -186,34 +240,6 @@
    "danawa_pcode": "123774957",
    "model": "A720WA",
    "checked_at": "2026-11-17T09:47+09:00"
-  },
-  {
-   "id": "9494361908",
-   "name": "에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-   "price": 151900,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/Pz2MmaLwtIgSSur-P0xe5cxsNdfqDKvBbkem8LEoY4aMBsgoZt9MRPQok7m0E_xIZATIeHYkje54AYwN973UDPGg79awu8MIkFmOLgiYPUF1i9HJLTfp3dGy5PJuwBGhQjgLyusq8DSayfMEjLCOsmeYeVsIHJ3iX2aWQgmGiXxiCx0cS0Wvw1dSkw_BUo97GLh5lXzG-9TMNTXToS9M3togRmf0_pqvBuE49DhIItNKSqgS0je1xubIdRIpbM0tU602VHeTwOiwcD4MwCmSLSNMEMn28nM9cSNwtT9Vfgjid66PWqPVLY4cydsQfi_vm3lvJDm34ODLXHz152RwDV-7Cg4RXQh9NIgwpI5E-3sxkNm3pfjV_IHwZnRrK-bPEToJXrMyj2XnAl5ZK7nZTtU-hoLPSN_Lysm9o54xCzldTLkNfrdud3m3guFhI8Z4C74o8z88vKUvG0oYVVD2zxwwWNOKZcIO6JJb8b7ijljl_w1wLLsV9lv6z56ixvxEDZKX5oL94pUvCB6Lfg4YEhb3yT_bhPWofuJQs9OT9NI42_UDpkTya38=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9494361908&itemId=28279796926&vendorItemId=95232821342&traceid=V0-153-c8b1cb23a9ba7cf2&requestid=20261117015752474003640804&token=31850C%7CGM&pt=0&slot=2",
-   "source": "관심:필립스 NA230/10",
-   "danawa_pcode": "124568601",
-   "model": "NA230/10",
-   "checked_at": "2026-11-17T01:58+09:00"
-  },
-  {
-   "id": "9795251783",
-   "name": "쿠쿠 에어프라이어 CAF-E0810TW / 8리터 AIR FRYER / 8L 대용량 바스켓",
-   "price": 181000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/SMy0fcf7nfbyYaVsSJhK2vmt9oh97StnFCBfoiigkAGwX4TiM888NvdTBbBlvQYNNzo2h62HTj6wCQRUxcPfsdNG_Ti0ZLPRXHAaiMsMoAl_mon6c70473UVo9jq_UdsF8cjOUhlh3ArxFq6rB47PMgfRlb-Ji9QYV7DAnN0nTzwy8ZuGYygU17C-Ipsn2WPmdape56GgD7nMARIehKGVGD1UVWswZxdycEDfAVtqJbjf95dE3Hgct4vKGPaY64am34R56jpy6gFXnzbCBch1dT-b4Jq5VQX871XUiQQY42Etn4d_SE_IjgLyUMPVgW6Asnb4lF5qgA_UpFvKbqk3AzrgXYn8CBl-sK4MRXkvxGcdzDq21DEaXhMH4dv4MzTgAnFECjRYvr7Uy-XRdLJUiLEDx5Y6ORLSMDaiDWccBWqNe8h1q2BxnM0KgFWM8J9e_ee1KpA-LRlD4GApt5FAS1tk7xFKfEKp6Moie-nUMKabC1ih0OXgNsMoDeFYk1tN3FPGKWYvyV7bEp4ckR7ZnDcWpSH3rGgL6s4fLX2_mwC5N5kpFlfESxc",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9795251783&itemId=29328888326&vendorItemId=96243105352&traceid=V0-153-dde0de068f1f1f4d&requestid=20261117015757300303766294&token=31850C%7CGM&pt=0&slot=2",
-   "source": "관심:에어프라이어 CAF-E0810TW",
-   "danawa_pcode": "32156642",
-   "model": "CAF-E0810TW",
-   "checked_at": "2026-11-17T01:58+09:00"
   }
  ]
 }
