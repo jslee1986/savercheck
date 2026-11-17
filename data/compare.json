@@ -284,5 +284,371 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "7855749856": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 328400,
+  "danawa": {
+   "pcode": "108365732",
+   "name": "스팀쿡 마스터 듀얼스팀 AV20F11",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "GS SHOP",
+    "price": 338530,
+    "delivery": 0,
+    "total": 338530,
+    "card_price": 304680,
+    "card_name": "신한카드",
+    "member_price": null,
+    "product_name": "풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 338530,
+    "delivery": 0,
+    "total": 338530,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 339000,
+    "delivery": 0,
+    "total": 339000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원건강생활 풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 339000,
+    "delivery": 0,
+    "total": 339000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원건강생활 풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 352698,
+    "delivery": 0,
+    "total": 352698,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 356260,
+    "delivery": 0,
+    "total": 356260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 356260,
+    "delivery": 0,
+    "total": 356260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 370530,
+    "delivery": 0,
+    "total": 370530,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원건강생활 풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   }
+  ],
+  "dropped": 2,
+  "other_min": 338530,
+  "other_min_shop": "GS SHOP"
+ },
+ "9753794706": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 119000,
+  "danawa": {
+   "pcode": "124469402",
+   "name": "KAEK-ST0604S",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "오늘의집",
+    "price": 119000,
+    "delivery": 0,
+    "total": 119000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 대용량 에어프라이어 6L + 4L 2in1 글라스볼 KAEK-ST0604S",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 138140,
+    "delivery": 0,
+    "total": 138140,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 139000,
+    "delivery": 0,
+    "total": 139000,
+    "card_price": 137000,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 139000,
+    "delivery": 0,
+    "total": 139000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 139000,
+    "delivery": 0,
+    "total": 139000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 150420,
+    "delivery": 0,
+    "total": 150420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 150420,
+    "delivery": 0,
+    "total": 150420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 150420,
+    "delivery": 0,
+    "total": 150420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 119000,
+  "other_min_shop": "오늘의집"
+ },
+ "9801631057": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 593100,
+  "danawa": {
+   "pcode": "123774957",
+   "name": "코드 제로 A7 Core A720WA",
+   "cate": [
+    72,
+    80,
+    81,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 559710,
+    "delivery": 0,
+    "total": 559710,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG] S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 566660,
+    "delivery": 0,
+    "total": 566660,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 569174,
+    "delivery": 0,
+    "total": 569174,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 584174,
+    "delivery": 0,
+    "total": 584174,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 587592,
+    "delivery": 0,
+    "total": 587592,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 오브제컬렉션 A7 Core 청소기 A720WA",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 622000,
+    "delivery": 0,
+    "total": 622000,
+    "card_price": 578460,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "LG전자 혜택가 57만원대) LG 코드제로 오브제컬렉션 A7 올인원타워 무선청소기 A720WA",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 622000,
+    "delivery": 0,
+    "total": 622000,
+    "card_price": 578460,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "LG전자 혜택가 57만원대) LG 코드제로 오브제컬렉션 A7 올인원타워 무선청소기 A720WA",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데백화점",
+    "price": 633600,
+    "delivery": 0,
+    "total": 633600,
+    "card_price": 544900,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "[롯데백화점] LG전자 [LG전자 직영] LG 코드제로 오브제컬렉션 A7 Core 청소기 A720WA",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 559710,
+  "other_min_shop": "11번가"
+ },
+ "9787523527": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 41200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7047286046": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 1620700,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8327575463": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 121900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9793755524": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 198000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8608656696": {
+  "checked_at": "2026-11-17T10:56+09:00",
+  "coupang_price_at_check": 35350,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
