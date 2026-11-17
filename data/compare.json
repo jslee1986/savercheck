@@ -625,7 +625,7 @@
   "other_min_shop": null
  },
  "8327575463": {
-  "checked_at": "2026-11-17T16:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 121900,
   "danawa": null,
   "malls": [],
@@ -634,7 +634,7 @@
   "other_min_shop": null
  },
  "9793755524": {
-  "checked_at": "2026-11-17T16:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 198000,
   "danawa": null,
   "malls": [],
@@ -661,8 +661,8 @@
   "other_min_shop": null
  },
  "9535854247": {
-  "checked_at": "2026-11-17T19:56+09:00",
-  "coupang_price_at_check": 43900,
+  "checked_at": "2026-11-18T07:56+09:00",
+  "coupang_price_at_check": 47900,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1009,7 +1009,7 @@
   "other_min_shop": null
  },
  "148610843": {
-  "checked_at": "2026-11-17T19:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 31900,
   "danawa": null,
   "malls": [],
@@ -1027,7 +1027,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-17T19:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -1036,7 +1036,7 @@
   "other_min_shop": null
  },
  "9724226088": {
-  "checked_at": "2026-11-17T19:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 359000,
   "danawa": {
    "pcode": "106702589",
@@ -1055,7 +1055,7 @@
     "delivery": 0,
     "total": 341050,
     "card_price": 324000,
-    "card_name": "KB국민카드",
+    "card_name": "롯데카드",
     "member_price": null,
     "product_name": "삼성전자 삼성전자 갤럭시 버즈4 프로 ANC 무선 블루투스 이어폰 SM-R640",
     "match": "높음"
@@ -1066,19 +1066,55 @@
     "delivery": 0,
     "total": 349000,
     "card_price": 324570,
-    "card_name": "롯데카드",
+    "card_name": "현대카드",
     "member_price": null,
     "product_name": "갤럭시 버즈4 프로 완전 무선 노이즈캔슬링 블루투스 이어폰 SM-R640",
     "match": "높음"
    }
   ],
-  "dropped": 11,
+  "dropped": 12,
   "other_min": 341050,
   "other_min_shop": "롯데홈쇼핑"
  },
  "9796584807": {
-  "checked_at": "2026-11-17T19:56+09:00",
+  "checked_at": "2026-11-18T07:56+09:00",
   "coupang_price_at_check": 96000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9309807813": {
+  "checked_at": "2026-11-18T07:56+09:00",
+  "coupang_price_at_check": 211790,
+  "danawa": {
+   "pcode": "106702613",
+   "name": "삼성전자 갤럭시 버즈4 SM-R540",
+   "cate": [
+    224,
+    49729,
+    49740,
+    0
+   ]
+  },
+  "malls": [],
+  "dropped": 12,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9218185667": {
+  "checked_at": "2026-11-18T07:56+09:00",
+  "coupang_price_at_check": 32900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9769362134": {
+  "checked_at": "2026-11-18T07:56+09:00",
+  "coupang_price_at_check": 82900,
   "danawa": null,
   "malls": [],
   "dropped": 0,
