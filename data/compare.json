@@ -652,7 +652,7 @@
   "other_min_shop": null
  },
  "6646249078": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 40720,
   "danawa": null,
   "malls": [],
@@ -661,7 +661,7 @@
   "other_min_shop": null
  },
  "9535854247": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 43900,
   "danawa": null,
   "malls": [],
@@ -670,7 +670,7 @@
   "other_min_shop": null
  },
  "9724972673": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 569000,
   "danawa": {
    "pcode": "124298640",
@@ -685,9 +685,9 @@
   "malls": [
    {
     "shop": "옥션",
-    "price": 494890,
+    "price": 494750,
     "delivery": 0,
-    "total": 494890,
+    "total": 494750,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -696,20 +696,31 @@
    },
    {
     "shop": "G마켓",
-    "price": 494890,
+    "price": 494750,
     "delivery": 0,
-    "total": 494890,
-    "card_price": 492890,
+    "total": 494750,
+    "card_price": 493250,
     "card_name": "삼성카드",
     "member_price": null,
-    "product_name": "LG 코드제로 A5 청소기 A520HC 에센스화이트 (백점)",
+    "product_name": "LG전자 LG전자 코드제로 A5 흡입전용 A520HC P.H",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 494760,
+    "delivery": 0,
+    "total": 494760,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 코드제로 A5 흡입전용 A520HC P.H",
     "match": "높음"
    },
    {
     "shop": "롯데ON",
-    "price": 517410,
+    "price": 512190,
     "delivery": 0,
-    "total": 517410,
+    "total": 512190,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -724,33 +735,22 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(K)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
+    "product_name": "(H)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
     "match": "높음"
    },
    {
-    "shop": "11번가",
-    "price": 528000,
-    "delivery": 0,
-    "total": 528000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[LG]전자 코드제로 A5 흡입전용 A520HC P.H",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 539560,
     "delivery": 0,
     "total": 539560,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(K)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
+    "product_name": "(H)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 539560,
     "delivery": 0,
     "total": 539560,
@@ -773,11 +773,11 @@
    }
   ],
   "dropped": 2,
-  "other_min": 494890,
+  "other_min": 494750,
   "other_min_shop": "옥션"
  },
  "9783076381": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 33600,
   "danawa": null,
   "malls": [],
@@ -786,7 +786,7 @@
   "other_min_shop": null
  },
  "9794843855": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 1689900,
   "danawa": {
    "pcode": "108229415",
@@ -800,10 +800,32 @@
   },
   "malls": [
    {
-    "shop": "11번가",
-    "price": 1493800,
+    "shop": "옥션",
+    "price": 1493770,
     "delivery": 0,
-    "total": 1493800,
+    "total": 1493770,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 1493770,
+    "delivery": 0,
+    "total": 1493770,
+    "card_price": 1492270,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 1493780,
+    "delivery": 0,
+    "total": 1493780,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -811,32 +833,10 @@
     "match": "높음"
    },
    {
-    "shop": "G마켓",
-    "price": 1493810,
-    "delivery": 0,
-    "total": 1493810,
-    "card_price": 1491810,
-    "card_name": "삼성카드",
-    "member_price": null,
-    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 1493810,
-    "delivery": 0,
-    "total": 1493810,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
-    "match": "높음"
-   },
-   {
     "shop": "SSG.COM",
-    "price": 1505200,
+    "price": 1513310,
     "delivery": 0,
-    "total": 1505200,
+    "total": 1513310,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -845,9 +845,9 @@
    },
    {
     "shop": "이마트몰",
-    "price": 1520200,
+    "price": 1528310,
     "delivery": 0,
-    "total": 1520200,
+    "total": 1528310,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -856,9 +856,9 @@
    },
    {
     "shop": "신세계몰",
-    "price": 1520200,
+    "price": 1528310,
     "delivery": 0,
-    "total": 1520200,
+    "total": 1528310,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -867,9 +867,9 @@
    },
    {
     "shop": "롯데ON",
-    "price": 1561620,
+    "price": 1561420,
     "delivery": 0,
-    "total": 1561620,
+    "total": 1561420,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -889,11 +889,11 @@
    }
   ],
   "dropped": 2,
-  "other_min": 1493800,
-  "other_min_shop": "11번가"
+  "other_min": 1493770,
+  "other_min_shop": "옥션"
  },
  "9609807293": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 1830000,
   "danawa": {
    "pcode": "108367196",
@@ -922,10 +922,10 @@
     "price": 1589330,
     "delivery": 0,
     "total": 1589330,
-    "card_price": 1587330,
+    "card_price": 1587830,
     "card_name": "삼성카드",
     "member_price": null,
-    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
     "match": "높음"
    },
    {
@@ -951,18 +951,18 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 1625640,
     "delivery": 0,
     "total": 1625640,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 1625640,
     "delivery": 0,
     "total": 1625640,
@@ -1000,8 +1000,85 @@
   "other_min_shop": "옥션"
  },
  "9445151005": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-17T19:56+09:00",
   "coupang_price_at_check": 2900000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "148610843": {
+  "checked_at": "2026-11-17T19:56+09:00",
+  "coupang_price_at_check": 31900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9414837375": {
+  "checked_at": "2026-11-17T19:56+09:00",
+  "coupang_price_at_check": 57900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9072150510": {
+  "checked_at": "2026-11-17T19:56+09:00",
+  "coupang_price_at_check": 262200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9724226088": {
+  "checked_at": "2026-11-17T19:56+09:00",
+  "coupang_price_at_check": 359000,
+  "danawa": {
+   "pcode": "106702589",
+   "name": "삼성전자 갤럭시 버즈4 프로 SM-R640",
+   "cate": [
+    224,
+    49729,
+    49740,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 341050,
+    "delivery": 0,
+    "total": 341050,
+    "card_price": 324000,
+    "card_name": "KB국민카드",
+    "member_price": null,
+    "product_name": "삼성전자 삼성전자 갤럭시 버즈4 프로 ANC 무선 블루투스 이어폰 SM-R640",
+    "match": "높음"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 349000,
+    "delivery": 0,
+    "total": 349000,
+    "card_price": 324570,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "갤럭시 버즈4 프로 완전 무선 노이즈캔슬링 블루투스 이어폰 SM-R640",
+    "match": "높음"
+   }
+  ],
+  "dropped": 11,
+  "other_min": 341050,
+  "other_min_shop": "롯데홈쇼핑"
+ },
+ "9796584807": {
+  "checked_at": "2026-11-17T19:56+09:00",
+  "coupang_price_at_check": 96000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
