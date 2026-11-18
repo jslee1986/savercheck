@@ -1340,7 +1340,7 @@
   "other_min_shop": null
  },
  "1063848597": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 31000,
   "danawa": null,
   "malls": [],
@@ -1349,7 +1349,7 @@
   "other_min_shop": null
  },
  "261120257": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 128110,
   "danawa": null,
   "malls": [],
@@ -1358,7 +1358,7 @@
   "other_min_shop": null
  },
  "9822044011": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 175000,
   "danawa": null,
   "malls": [],
@@ -1367,7 +1367,7 @@
   "other_min_shop": null
  },
  "9822060020": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 175000,
   "danawa": null,
   "malls": [],
@@ -1376,7 +1376,7 @@
   "other_min_shop": null
  },
  "9800440813": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 30400,
   "danawa": null,
   "malls": [],
@@ -1385,7 +1385,7 @@
   "other_min_shop": null
  },
  "7442148926": {
-  "checked_at": "2026-11-18T13:57+09:00",
+  "checked_at": "2026-11-18T19:56+09:00",
   "coupang_price_at_check": 354960,
   "danawa": {
    "pcode": "9401703",
@@ -1400,24 +1400,35 @@
   "malls": [
    {
     "shop": "G마켓",
-    "price": 315090,
+    "price": 299680,
     "delivery": 0,
-    "total": 315090,
-    "card_price": 313090,
-    "card_name": "하나카드",
+    "total": 299680,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 쿠쿠 CRP-LHTR0610FW 6인용 트윈프레셔 IH압력밥솥 화이트",
+    "product_name": "쿠쿠 (LG)쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥 T",
     "match": "높음"
    },
    {
     "shop": "옥션",
-    "price": 315090,
+    "price": 308670,
     "delivery": 0,
-    "total": 315090,
+    "total": 308670,
     "card_price": null,
     "card_name": "",
     "member_price": null,
     "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 308680,
+    "delivery": 0,
+    "total": 308680,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG]쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
     "match": "높음"
    },
    {
@@ -1432,6 +1443,17 @@
     "match": "높음"
    },
    {
+    "shop": "SSG.COM",
+    "price": 321839,
+    "delivery": 0,
+    "total": 321839,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
+    "match": "높음"
+   },
+   {
     "shop": "롯데백화점",
     "price": 328060,
     "delivery": 0,
@@ -1443,52 +1465,131 @@
     "match": "높음"
    },
    {
-    "shop": "11번가",
-    "price": 338530,
+    "shop": "이마트몰",
+    "price": 331792,
     "delivery": 0,
-    "total": 338530,
+    "total": 331792,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[하이마트] [고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥 CRP-LHTR0610FW",
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
     "match": "높음"
    },
    {
-    "shop": "롯데홈쇼핑",
-    "price": 342020,
+    "shop": "신세계몰",
+    "price": 331792,
     "delivery": 0,
-    "total": 342020,
-    "card_price": 324920,
-    "card_name": "롯데카드",
-    "member_price": null,
-    "product_name": "쿠쿠 [하이마트] [1등급 가전] [고효율가전]6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
-    "match": "높음"
-   },
-   {
-    "shop": "홈&쇼핑",
-    "price": 342020,
-    "delivery": 0,
-    "total": 342020,
+    "total": 331792,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 343990,
-    "delivery": 0,
-    "total": 343990,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /D",
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
     "match": "높음"
    }
   ],
   "dropped": 3,
-  "other_min": 315090,
+  "other_min": 299680,
+  "other_min_shop": "G마켓"
+ },
+ "9774007596": {
+  "checked_at": "2026-11-18T19:56+09:00",
+  "coupang_price_at_check": 51900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9254886289": {
+  "checked_at": "2026-11-18T19:56+09:00",
+  "coupang_price_at_check": 47900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9447629043": {
+  "checked_at": "2026-11-18T19:56+09:00",
+  "coupang_price_at_check": 37200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9425919826": {
+  "checked_at": "2026-11-18T19:56+09:00",
+  "coupang_price_at_check": 303830,
+  "danawa": {
+   "pcode": "123436549",
+   "name": "LG전자 퓨리케어360˚ Hit AS156HWWC",
+   "cate": [
+    118,
+    11420,
+    37175,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 290000,
+    "delivery": 0,
+    "total": 290000,
+    "card_price": 269700,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "LG전자 혜택가 26만원대) LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 290000,
+    "delivery": 0,
+    "total": 290000,
+    "card_price": 269700,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "퓨리케어 혜택가 26만원대) LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 301710,
+    "delivery": 0,
+    "total": 301710,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 혜택가 27만원대 LG 퓨리케어 360도 공기청정기 HIT AS156HWWC 슬림 15평형",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 306520,
+    "delivery": 0,
+    "total": 306520,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "혜택가 28만 LG 퓨리케어 360도 공기청정기 Hit AS156HWWC 15평형",
+    "match": "높음"
+   },
+   {
+    "shop": "LG전자인증점 경남",
+    "price": 323000,
+    "delivery": 0,
+    "total": 323000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG 공기청정기 AS156HWWC 퓨리케어 15평형",
+    "match": "높음"
+   }
+  ],
+  "dropped": 0,
+  "other_min": 290000,
   "other_min_shop": "G마켓"
  }
 }
