@@ -1120,5 +1120,223 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "7821881474": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 118100,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8744681903": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 179100,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9745066943": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 32500,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9699566700": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 79900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9470477103": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 246860,
+  "danawa": {
+   "pcode": "122625383",
+   "name": "풀무원건강생활 스팀 쿡 프라임 AV15F11",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 249000,
+    "delivery": 0,
+    "total": 249000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(편백찜기 증정+11pay point) 풀무원 NEW 스팀쿡 프라임 에어프라이어 15L 소이코튼 AV15F11VV",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 269000,
+    "delivery": 0,
+    "total": 269000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 15L 프라임 간편스팀세척 에어프라이어 소이코튼",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 287556,
+    "delivery": 0,
+    "total": 287556,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 프라임 에어프라이어 15L 소이코튼 AV15F11VV",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 288810,
+    "delivery": 0,
+    "total": 288810,
+    "card_price": 268590,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "스팀쿡 카드할인 24만+편백찜기 증정) 풀무원 스팀쿡 15L 프라임 간편스팀세척 에어프라이어 소이코튼 AV15F11VV",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 288820,
+    "delivery": 0,
+    "total": 288820,
+    "card_price": 268610,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "스팀쿡 카드할인 24만+편백찜기 증정) 풀무원 스팀쿡 15L 프라임 간편스팀세척 에어프라이어 소이코튼 AV15F11VV",
+    "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 289060,
+    "delivery": 0,
+    "total": 289060,
+    "card_price": 260160,
+    "card_name": "신한카드",
+    "member_price": null,
+    "product_name": "풀무원 NEW 스팀쿡 프라임 에어프라이어 15L AV15F11VV[소이코튼]",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 290460,
+    "delivery": 0,
+    "total": 290460,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 프라임 에어프라이어 15L 소이코튼 AV15F11VV",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 290460,
+    "delivery": 0,
+    "total": 290460,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 프라임 에어프라이어 15L 소이코튼 AV15F11VV",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 249000,
+  "other_min_shop": "11번가"
+ },
+ "9673782597": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 119000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9015937556": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 52380,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9720959145": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 397600,
+  "danawa": {
+   "pcode": "91560128",
+   "name": "DELL 에일리언웨어 AW2725DM",
+   "cate": [
+    860,
+    13735,
+    14883,
+    58972
+   ]
+  },
+  "malls": [],
+  "dropped": 11,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9811283353": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 332000,
+  "danawa": {
+   "pcode": "97307420",
+   "name": "LG전자 울트라기어 27G 610A",
+   "cate": [
+    860,
+    13735,
+    14883,
+    58972
+   ]
+  },
+  "malls": [
+   {
+    "shop": "하이마트",
+    "price": 361860,
+    "delivery": 0,
+    "total": 361860,
+    "card_price": 325670,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "LG 울트라기어 27G610A 27인치 IPS QHD 200Hz 게이밍 모니터",
+    "match": "높음"
+   }
+  ],
+  "dropped": 9,
+  "other_min": 361860,
+  "other_min_shop": "하이마트"
+ },
+ "9823963170": {
+  "checked_at": "2026-11-18T10:56+09:00",
+  "coupang_price_at_check": 170000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
