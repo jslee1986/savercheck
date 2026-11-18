@@ -1122,7 +1122,7 @@
   "other_min_shop": null
  },
  "7821881474": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 118100,
   "danawa": null,
   "malls": [],
@@ -1140,7 +1140,7 @@
   "other_min_shop": null
  },
  "9745066943": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 32500,
   "danawa": null,
   "malls": [],
@@ -1149,7 +1149,7 @@
   "other_min_shop": null
  },
  "9699566700": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 79900,
   "danawa": null,
   "malls": [],
@@ -1158,8 +1158,8 @@
   "other_min_shop": null
  },
  "9470477103": {
-  "checked_at": "2026-11-18T10:56+09:00",
-  "coupang_price_at_check": 246860,
+  "checked_at": "2026-11-18T16:56+09:00",
+  "coupang_price_at_check": 246890,
   "danawa": {
    "pcode": "122625383",
    "name": "풀무원건강생활 스팀 쿡 프라임 AV15F11",
@@ -1238,7 +1238,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 290460,
     "delivery": 0,
     "total": 290460,
@@ -1249,7 +1249,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 290460,
     "delivery": 0,
     "total": 290460,
@@ -1265,8 +1265,8 @@
   "other_min_shop": "11번가"
  },
  "9673782597": {
-  "checked_at": "2026-11-18T10:56+09:00",
-  "coupang_price_at_check": 119000,
+  "checked_at": "2026-11-18T16:56+09:00",
+  "coupang_price_at_check": 110670,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1274,7 +1274,7 @@
   "other_min_shop": null
  },
  "9015937556": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 52380,
   "danawa": null,
   "malls": [],
@@ -1283,7 +1283,7 @@
   "other_min_shop": null
  },
  "9720959145": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 397600,
   "danawa": {
    "pcode": "91560128",
@@ -1331,7 +1331,7 @@
   "other_min_shop": "하이마트"
  },
  "9823963170": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-18T16:56+09:00",
   "coupang_price_at_check": 170000,
   "danawa": null,
   "malls": [],
