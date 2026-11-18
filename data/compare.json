@@ -1086,7 +1086,7 @@
   "other_min_shop": null
  },
  "9309807813": {
-  "checked_at": "2026-11-18T07:56+09:00",
+  "checked_at": "2026-11-18T13:57+09:00",
   "coupang_price_at_check": 211790,
   "danawa": {
    "pcode": "106702613",
@@ -1099,7 +1099,7 @@
    ]
   },
   "malls": [],
-  "dropped": 12,
+  "dropped": 14,
   "other_min": null,
   "other_min_shop": null
  },
@@ -1113,7 +1113,7 @@
   "other_min_shop": null
  },
  "9769362134": {
-  "checked_at": "2026-11-18T07:56+09:00",
+  "checked_at": "2026-11-18T13:57+09:00",
   "coupang_price_at_check": 82900,
   "danawa": null,
   "malls": [],
@@ -1338,5 +1338,157 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "1063848597": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 31000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "261120257": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 128110,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9822044011": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 175000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9822060020": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 175000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9800440813": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 30400,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7442148926": {
+  "checked_at": "2026-11-18T13:57+09:00",
+  "coupang_price_at_check": 354960,
+  "danawa": {
+   "pcode": "9401703",
+   "name": "쿠쿠전자 CRP-LHTR0610FW",
+   "cate": [
+    1,
+    46,
+    48,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 315090,
+    "delivery": 0,
+    "total": 315090,
+    "card_price": 313090,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 CRP-LHTR0610FW 6인용 트윈프레셔 IH압력밥솥 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 315090,
+    "delivery": 0,
+    "total": 315090,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 318910,
+    "delivery": 0,
+    "total": 318910,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데백화점",
+    "price": 328060,
+    "delivery": 0,
+    "total": 328060,
+    "card_price": 311660,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 338530,
+    "delivery": 0,
+    "total": 338530,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[하이마트] [고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥 CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 342020,
+    "delivery": 0,
+    "total": 342020,
+    "card_price": 324920,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "쿠쿠 [하이마트] [1등급 가전] [고효율가전]6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "홈&쇼핑",
+    "price": 342020,
+    "delivery": 0,
+    "total": 342020,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 343990,
+    "delivery": 0,
+    "total": 343990,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /D",
+    "match": "높음"
+   }
+  ],
+  "dropped": 3,
+  "other_min": 315090,
+  "other_min_shop": "G마켓"
  }
 }
