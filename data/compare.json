@@ -1122,7 +1122,7 @@
   "other_min_shop": null
  },
  "7821881474": {
-  "checked_at": "2026-11-18T16:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 118100,
   "danawa": null,
   "malls": [],
@@ -1265,8 +1265,8 @@
   "other_min_shop": "11번가"
  },
  "9673782597": {
-  "checked_at": "2026-11-18T16:56+09:00",
-  "coupang_price_at_check": 110670,
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 119000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1340,7 +1340,7 @@
   "other_min_shop": null
  },
  "1063848597": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 31000,
   "danawa": null,
   "malls": [],
@@ -1492,7 +1492,7 @@
   "other_min_shop": "G마켓"
  },
  "9774007596": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 51900,
   "danawa": null,
   "malls": [],
@@ -1501,7 +1501,7 @@
   "other_min_shop": null
  },
  "9254886289": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 47900,
   "danawa": null,
   "malls": [],
@@ -1510,7 +1510,7 @@
   "other_min_shop": null
  },
  "9447629043": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 37200,
   "danawa": null,
   "malls": [],
@@ -1519,7 +1519,7 @@
   "other_min_shop": null
  },
  "9425919826": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 303830,
   "danawa": {
    "pcode": "123436549",
@@ -1591,5 +1591,282 @@
   "dropped": 0,
   "other_min": 290000,
   "other_min_shop": "G마켓"
+ },
+ "9716350572": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 35100,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9680432735": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 97900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9027063483": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 64900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9786915907": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 112000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9781659423": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 353300,
+  "danawa": {
+   "pcode": "3521947",
+   "name": "LG전자 퓨리케어 HW500DAS",
+   "cate": [
+    118,
+    11420,
+    37199,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 248310,
+    "delivery": 0,
+    "total": 248310,
+    "card_price": 246310,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 HW500DAS (세븐-운송료상이)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 248749,
+    "delivery": 0,
+    "total": 248749,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 퓨리케어 자연기화식 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 248750,
+    "delivery": 0,
+    "total": 248750,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "퓨리케어 LG전자 퓨리케어 자연식가습기 5L(HW500DAS) 전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 256442,
+    "delivery": 0,
+    "total": 256442,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG 퓨리케어 가습기 HW500DAS 스카이블루",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 256442,
+    "delivery": 0,
+    "total": 256442,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 퓨리케어 에어워셔 가습기 HW500DAS 스카이블루",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 257090,
+    "delivery": 0,
+    "total": 257090,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG](SSG.COM) LG 퓨리케어 자연기화 가습기 HW500DAS 스카이 블루",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 257670,
+    "delivery": 0,
+    "total": 257670,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG 퓨리케어 프리미엄 에어워셔 자연식 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 262310,
+    "delivery": 0,
+    "total": 262310,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG 가습기 HW500DAS 배송무료",
+    "match": "높음"
+   }
+  ],
+  "dropped": 4,
+  "other_min": 248310,
+  "other_min_shop": "G마켓"
+ },
+ "7045581898": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 134200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "6714055840": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 509000,
+  "danawa": {
+   "pcode": "4808917",
+   "name": "드롱기 마그니피카 S ECAM22.110.B",
+   "cate": [
+    1,
+    10901,
+    10904,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 524260,
+    "delivery": 3000,
+    "total": 527260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 드롱기 ECAM22.110.B 에스프레소 커피머신 마크니피카S 국내정품 Ss",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 531330,
+    "delivery": 3000,
+    "total": 534330,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 Ss",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 538360,
+    "delivery": 3000,
+    "total": 541360,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 Ss",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 539790,
+    "delivery": 3000,
+    "total": 542790,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 Ss",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 552420,
+    "delivery": 0,
+    "total": 552420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "Magnifica S 전자동 에스프레소 커피머신 ECAM22.110.B",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 555950,
+    "delivery": 0,
+    "total": 555950,
+    "card_price": 528150,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "드롱기 [드롱기] 마그니피카S 에스프레소 전자동커피머신 ECAM22.110.B",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 567420,
+    "delivery": 0,
+    "total": 567420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "Magnifica S 전자동 에스프레소 커피머신 ECAM22.110.B",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 567420,
+    "delivery": 0,
+    "total": 567420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "Magnifica S 전자동 에스프레소 커피머신 ECAM22.110.B",
+    "match": "높음"
+   }
+  ],
+  "dropped": 3,
+  "other_min": 527260,
+  "other_min_shop": "G마켓"
+ },
+ "7298125487": {
+  "checked_at": "2026-11-19T07:57+09:00",
+  "coupang_price_at_check": 379000,
+  "danawa": {
+   "pcode": "123436887",
+   "name": "LG전자 퓨리케어360˚ Hit AS186HWWL",
+   "cate": [
+    118,
+    11420,
+    37175,
+    0
+   ]
+  },
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
