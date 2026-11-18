@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-18T12:52+09:00",
+ "collected_at": "2026-11-18T19:04+09:00",
  "items": [
   {
    "id": "7821881474",
@@ -8,22 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션잡화",
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/c0c91f5c8059dafa823074fa46de528980d4b422219f615e169b2fed24aa_1793326182937.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7821881474&itemId=24700181394&vendorItemId=93311002850&traceid=V0-143-08f7bf259de5c314&pt=0&slot=1",
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/dc33/c0c91f5c8059dafa823074fa46de528980d4b422219f615e169b2fed24aa.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7821881474&itemId=24700181371&vendorItemId=93311002842&traceid=V0-143-08f7bf259de5c314&pt=0&slot=2",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
-  },
-  {
-   "id": "9470477103",
-   "name": "풀무원건강생활 스팀쿡 프라임 에어프라이어 15L",
-   "price": 246890,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/531782297110477-0f0f5e65-ed93-4fea-9ffb-6e214f1b5657.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9470477103&itemId=28187834905&vendorItemId=95142299786&traceid=V0-143-f6120572f8c1fc84&pt=0&slot=7",
-   "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
    "id": "9699566700",
@@ -32,10 +20,22 @@
    "rocket": true,
    "free_ship": false,
    "category": "생활용품",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/04ee/dde009b85adb60ad80ac5aa0ef9a21fd7957243b3cf04ab571331be87653.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9699566700&itemId=29014828795&vendorItemId=95942851871&traceid=V0-143-9192498285df344e&pt=0&slot=8",
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/04ee/dde009b85adb60ad80ac5aa0ef9a21fd7957243b3cf04ab571331be87653.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9699566700&itemId=29014828795&vendorItemId=95942851871&traceid=V0-143-9192498285df344e&pt=0&slot=6",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
+  },
+  {
+   "id": "261120257",
+   "name": "엑사이더 접이식 실내자전거",
+   "price": 128110,
+   "rocket": true,
+   "free_ship": false,
+   "category": "스포츠/레저용품",
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239874189428390-40e21657-f87e-4db2-98ea-24a1e8a3ec40.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=261120257&itemId=816500447&vendorItemId=3216352170&traceid=V0-143-d1a3d85db24660a3&pt=0&slot=10",
+   "source": "골드박스",
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
    "id": "9745066943",
@@ -45,9 +45,21 @@
    "free_ship": false,
    "category": "생활용품",
    "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/6c32/72590eb52493c10308bea15315b3a09260ba3ab4af7aaf647a632e5660c5.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9745066943&itemId=29172159129&vendorItemId=96093685987&traceid=V0-143-d3daab1f8c18d3a8&pt=0&slot=10",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9745066943&itemId=29172159129&vendorItemId=96093685987&traceid=V0-143-d3daab1f8c18d3a8&pt=0&slot=13",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
+  },
+  {
+   "id": "9673782597",
+   "name": "스케쳐스 여성용 밥스 비 플렉스 슬립인스 부츠 117398",
+   "price": 119000,
+   "rocket": true,
+   "free_ship": false,
+   "category": "패션잡화",
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/30/17/9/422d6e5f-109d-4673-a691-903a66fc37a0.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9673782597&itemId=28924820287&vendorItemId=95856359039&traceid=V0-143-84b5cbbb11cc57b6&pt=0&slot=19",
+   "source": "골드박스",
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
    "id": "1063848597",
@@ -56,46 +68,76 @@
    "rocket": true,
    "free_ship": false,
    "category": "생활용품",
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/60294418557610-c972eb4e-9499-4dc4-892e-6f08ea439b44.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=1063848597&itemId=18741312614&vendorItemId=70009572646&traceid=V0-143-3a5cb3055bb0ec32&pt=0&slot=16",
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/60294418557610-c972eb4e-9499-4dc4-892e-6f08ea439b44.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=1063848597&itemId=18741312614&vendorItemId=70009572646&traceid=V0-143-3a5cb3055bb0ec32&pt=0&slot=22",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
-   "id": "9673782597",
-   "name": "스케쳐스 여성용 밥스 비 플렉스 슬립인스 부츠 117398",
-   "price": 110670,
+   "id": "9774007596",
+   "name": "엘쏘 프렌치 스타일 핸드메이드 연예인 숄더백",
+   "price": 51900,
    "rocket": true,
    "free_ship": false,
    "category": "패션잡화",
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/30/17/9/273cbb52-1f57-434e-b47e-e868ef1f20d2.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9673782597&itemId=28924820271&vendorItemId=95856359048&traceid=V0-143-84b5cbbb11cc57b6&pt=0&slot=18",
+   "image": "https://t1a.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/8y5dvjz7/e65febbe6cf84cd5bec9bda6c6ec3949.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9774007596&itemId=29258082681&vendorItemId=96176021653&traceid=V0-143-8d65c839345ac466&pt=0&slot=23",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
-   "id": "261120257",
-   "name": "엑사이더 접이식 실내자전거",
-   "price": 128110,
+   "id": "9254886289",
+   "name": "아띠래빗 까꿍놀이 아기 병풍 + 토끼 거울 세트",
+   "price": 47900,
    "rocket": true,
    "free_ship": false,
-   "category": "스포츠/레저용품",
-   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/239874189428390-40e21657-f87e-4db2-98ea-24a1e8a3ec40.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=261120257&itemId=816500447&vendorItemId=3216352170&traceid=V0-143-d1a3d85db24660a3&pt=0&slot=20",
+   "category": "도서/음반",
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/162414178562436-0e62ca33-4b51-4a9a-ad54-4bed159cbdc9.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9254886289&itemId=27376948827&vendorItemId=94372002258&traceid=V0-143-62e33b1530d759db&pt=0&slot=27",
    "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
-   "id": "9015937556",
-   "name": "뉴에라 아동용 MLB 베이직 로고 맨투맨 샌프란시스코 자이언츠",
-   "price": 52380,
-   "rocket": true,
-   "free_ship": false,
-   "category": "패션의류",
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/08/25/11/3/332b3c8b-51d4-43b3-a7bb-8f5d2f726d1c.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9015937556&itemId=26431487126&vendorItemId=93407256015&traceid=V0-143-25864c304f314f49&pt=0&slot=23",
-   "source": "골드박스",
-   "checked_at": "2026-11-18T12:52+09:00"
+   "id": "9447629043",
+   "name": "국내산 LG 퓨리케어360 AS305DWWA 으뜸 호환 필터, 1개, AS305DWWA 필터",
+   "price": 37200,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/I9Y63fnHu_-8qPysIy3lcKhZNJYUJLw73SYLoIhHHFSrW2jcvji0R04wl_NAu3mT_tUvl38CAOtEjxdhMRvBkC8fe7jC3x8lQkdAtxzR99fcgwnCDuysFEcIJ_C7qRx7Jf6yHUPvxsn_1iihxVWEqOTGMZG_scuqgdCPpsKdvttvXSkGyHYpOsOnm_KrFSO_3AMutfxouvHbb2P2wV8SMhgKrUunHS4LJ2SCEkRU6kG2RvzVcdWpLWH7vK3B3DVxN0yTHfrIFnTZzFJkJxvS3FJH1bo_bApFsw75QbgzjLMrVEqY2VrbreZu1QnGPvlwhNNVKA0JVCVkWm2YoftDa9uxDzlQtQqGQBbXhVtUgp67GRVzl8SV7V6QLkfJ2h7MbfNYvvGxjKgjSdIqmjRNMS2rvH_zdZbo3lWfJ8-qmxZGlYoeBP5HwDOXMp4xXXmVkrMGB_1-h211ZxCWJq5-DAhgaZUdjgHTrVOfSUBhMInZvyWCLiwVPlW_Riqbr6x4bXPrVBr3q93ivQ-kp50rv7P8XyDbsaaU77JkCdrnC2g=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9447629043&itemId=28018835503&vendorItemId=94976024225&traceid=V0-153-3f879dc1aaaa13cf&clickBeacon=5ba9b0f0-e337-11f1-942e-1b1aa944f059%7E3&requestid=20261118190352453010995291&token=31850C%7CMIXED&pt=1&slot=1",
+   "source": "관심:LG 퓨리케어 AS305DWWA",
+   "danawa_pcode": "123436513",
+   "model": "AS305DWWA",
+   "checked_at": "2026-11-18T19:04+09:00"
+  },
+  {
+   "id": "9425919826",
+   "name": "LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+   "price": 303830,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/e4sbHO5BMM9vF29dewBIPUUlipecFLG_Nqz0tlAVedfQyW2FDC4LWC5bNXTus_cVeC8em2mtdjxj83udcpwiCWptV8cAJyraUGE-aZ8zh0A5uRaX1Az3m7ZDIcqyN3xujbojEQ1empKiSzFUV8fKiwBF4zn2MJPLZQ9nZYl0UpaP67wvWu5mSNJOWK9cvl0xtAKJmZf3A7INJW3FmR84S7C0fMYdXHhNCPykLZ3G6uRkLnBwbeGuev65TqYGheZUbrE08YQPhIFtsBsorZXvE8LRJ7MBRoEYVLgbgf-o466lZThC0VnpGQkShVbD_dFzX-6x6S6o2utGXTJL7iz_CfNEXiSPvMFXWw5CipB_ZsAs2cMQ5uQos_u-_wXk5THUqZa4I3xjzTcA6TwYKJmz4_s0lkET-jTjxhyJ0JUOQRRXZx3MDyKjrQM__b5qLmnKQpozXlFCEIBVGa4DEcZoqZchUe6JHWlZMZevCVmAvC1_EsQr36LdgK87mf6qNO4xCj7-rzYVfiZPzq5WBwzl_wExvZi9nvJxUfbsdOCZ_bN66w7Pz15eN3NvXWc=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9425919826&itemId=28953913656&vendorItemId=95283512304&traceid=V0-153-c2947ea3fcd8eb1b&requestid=20261118190354961000928604&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:LG 퓨리케어 AS156HWWC",
+   "danawa_pcode": "123436549",
+   "model": "AS156HWWC",
+   "checked_at": "2026-11-18T19:04+09:00"
+  },
+  {
+   "id": "7298125487",
+   "name": "LG전자 퓨리케어 360 공기청정기 AS186HWWL",
+   "price": 379000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/U6vgKrP8nbh0ZfdYU_ZUluQiR7Fl5ZT2JpIiassKBazat47dGt1avkZIHzkAgFkPV_rO_TPr3XzEzDE4mVx3Ah8u1R2q_PHzJJ5kinaedjXYwnMWZNi95maztbh3dHSqFqeYGZTPFpdMvNzUZl9NcYZeZgDNJyTKvJBkBfwKNPz4i_4O2NsQU0yMXbru_5FXWuS916g0fIIPNMwEpJUXGNFsv8VL_5OYMl5gwP-ocYAcmzYIvniIzMvqV0KCAKJY9Waz9DTM8t10nYtETzzVT0CTetN_DztQIV5IDDBqXpo418ng7BrNZ6WQdr26U61rrGre5HxJA9ehhy_umVeUUwotyhVvVz5KITNNaONjvHtg6QZ7_nGqFwx_lhsDMNXT4U0yzAXpxVeltx3RVrG6VrDET92PFcrPP2jaWaaAOn-qTN6g-DDsTR7Zo2WnZ95akCKDs6Y5mI8IXFoAXOMP0MPTpGCq8ZUfVOR2d-Hk_ABt-toHJhic2kiyEhgPfUA58H6LhIBcH3ywDXR0E_G4X69zQPxm3Uw13i4Z8_evaRa53-oxFBbwl0QGrns=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7298125487&itemId=29298681196&vendorItemId=96227711874&traceid=V0-153-18e29e0ce2b36ab3&requestid=20261118190357460203381881&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:LG 퓨리케어 AS186HWWL",
+   "danawa_pcode": "123436887",
+   "model": "AS186HWWL",
+   "checked_at": "2026-11-18T19:04+09:00"
   },
   {
    "id": "9822044011",
@@ -194,34 +236,6 @@
    "danawa_pcode": "123670007",
    "model": "CRP-DHASNL0615FGW",
    "checked_at": "2026-11-18T10:35+09:00"
-  },
-  {
-   "id": "9309807813",
-   "name": "삼성전자 갤럭시 버즈4, SM-R540N, 화이트",
-   "price": 211790,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/1LEw_lq5ZnsMCmkr1OpQi6uuuMgBdcKLnbBW6m2bX5qTOu7bO8dw3fYRoG5grU10ZRBbYcdx0JpVjk4TVVb6sXyvZf7I8xkb6vTDoCCd2oH-OJ8q9aB3R9HQhs-Lb3mYs4O4EmhA7OncoiGxD_h_aqsmHQUEGRQpqvZmmXB2YbOJjExero_vjFbgPpqD_UQa0c6_YI4avx-zwpUAM65ie9y8DnHdJdH9HkFn6xuYEs873eRec7EzWqFI7M05X8Lx7Ntd21nd8jPzzeFoIb0hmRLlvLi2aMzozWZ2v5Qt_L-ykwgYNM7ajtvRZ5U0XqBxJ-ld3u1bHX1xJQGRmIxMp3Vzg3gzx20v_vrF8pFCOSfDSFDm7qh9DzLNwgo0VpSnN0KDsbtb51uBb1JzvKXeiZXQVbryi47pKzkACRiQIeOOTM-RKhcaYFlHKB9UDsqx2rfYR1hpZnLqFfAT76BKVYyVhvCPF_7znSYgZrvHaOpHOKUMnH1FjMcyMmxqCrfCfu21D0WN6uYls4ToTJfGlAeInEZKGPc8the5e6Mssx2PEbcFL04P7UraeNkZwBGFH_6rq_uf50E_Rkp-LGg0",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9309807813&itemId=27585107822&vendorItemId=94548723291&traceid=V0-153-2e7cd668ebe88b03&clickBeacon=3ed5e840-e2b5-11f1-915f-971a2fb96498%7E3&requestid=20261118033229572077149023&token=31850C%7CMIXED&pt=1&slot=2",
-   "source": "관심:갤럭시 버즈4 SM-R540",
-   "danawa_pcode": "106702613",
-   "model": "SM-R540",
-   "checked_at": "2026-11-18T03:32+09:00"
-  },
-  {
-   "id": "9769362134",
-   "name": "삼성 Galaxy 버즈4 이어버드 낱개 본체 충전 케이스 정품 중고 SM-R540",
-   "price": 82900,
-   "rocket": false,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/BVUemwKLr3Czb37FBQWcOzCevM4wnadoOHnaVyGJkyIs0pce9V-j8pTLAMD7qQJ7-FRysn-cA61jqpGZUFWT-aW4xKTkwsgaAyBWFpbYufcpCsyAvgwLOFaF1YjR1DhUpsrDggYnToqDNZqfEPY9Ud6S_vkb2pWpxGxpbSRWCVlD7hJ4lOJ-NQbDQVvM3YYdZFuc4C54spwlOJbjVZC21WchAamhW1M70ppYIbs_xGmMwosORS2_9noExEBnJQhAyV5-BY5SMcS-zZ_NkBU5Dj0YSJCQDisdCXj4gFkHm64oHa9FVwHZLhz1CYcS5oEXRExP3IKH_iPLeFf36eG8HiPV_ootBaJ8MySlUn09Wh_3zfjKKe0bAEfy0Zw46FpuFv0KFs0whyAEG50bdFEh1Xlj_SE0Izcq2-qrV41OHyF2ofOFwPMLRQ11poX7jFv3rklgEpPYx5rnnl-QZnYgYdSdoci9yLJmhkxgezhwURdQjuxFZYYejmbnoe0uTz50K4P3sJpV6gERcOdnBuPR_GLk_GvkUfWfDWPAxDjkr3_f6EoxnMM4WI9WLlYVS7T3PqrYC__leERIhITOXSqBdZHac9HaId-xyj0PGZgjLvHgkHm0Zsk5Hkoq",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9769362134&itemId=29241140827&vendorItemId=96159653532&traceid=V0-153-f3c119df4c9076b4&requestid=20261118033229572077149023&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:갤럭시 버즈4 SM-R540",
-   "danawa_pcode": "106702613",
-   "model": "SM-R540",
-   "checked_at": "2026-11-18T03:32+09:00"
   }
  ]
 }
