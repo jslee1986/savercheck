@@ -45,7 +45,7 @@
   "other_min_shop": null
  },
  "9494361908": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 151900,
   "danawa": {
    "pcode": "124568601",
@@ -59,7 +59,7 @@
   },
   "malls": [
    {
-    "shop": "옥션",
+    "shop": "G마켓",
     "price": 122320,
     "delivery": 0,
     "total": 122320,
@@ -70,12 +70,12 @@
     "match": "높음"
    },
    {
-    "shop": "G마켓",
+    "shop": "옥션",
     "price": 122320,
     "delivery": 0,
     "total": 122320,
-    "card_price": 120320,
-    "card_name": "하나카드",
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
     "match": "높음"
@@ -149,7 +149,7 @@
   ],
   "dropped": 4,
   "other_min": 122320,
-  "other_min_shop": "옥션"
+  "other_min_shop": "G마켓"
  },
  "9795251783": {
   "checked_at": "2026-11-17T13:57+09:00",
@@ -1870,7 +1870,7 @@
   "other_min_shop": null
  },
  "8771465367": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 55090,
   "danawa": null,
   "malls": [],
@@ -1879,7 +1879,7 @@
   "other_min_shop": null
  },
  "9359843992": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 44450,
   "danawa": null,
   "malls": [],
@@ -1888,7 +1888,7 @@
   "other_min_shop": null
  },
  "1262092126": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 41830,
   "danawa": null,
   "malls": [],
@@ -1897,7 +1897,7 @@
   "other_min_shop": null
  },
  "9721533704": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 119270,
   "danawa": null,
   "malls": [],
@@ -1906,8 +1906,8 @@
   "other_min_shop": null
  },
  "8473796022": {
-  "checked_at": "2026-11-19T10:56+09:00",
-  "coupang_price_at_check": 69000,
+  "checked_at": "2026-11-19T16:56+09:00",
+  "coupang_price_at_check": 79000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1915,7 +1915,7 @@
   "other_min_shop": null
  },
  "9797526416": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 695000,
   "danawa": {
    "pcode": "99837338",
@@ -1929,22 +1929,11 @@
   },
   "malls": [
    {
-    "shop": "11번가",
-    "price": 339840,
-    "delivery": 0,
-    "total": 339840,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 1200 전자동 에스프레소 커피머신 밀크스팀봉 매트블랙 EP1220/19 /더가전",
-    "match": "높음"
-   },
-   {
     "shop": "G마켓",
-    "price": 339850,
+    "price": 339590,
     "delivery": 0,
-    "total": 339850,
-    "card_price": 337850,
+    "total": 339590,
+    "card_price": 337590,
     "card_name": "하나카드",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
@@ -1952,13 +1941,24 @@
    },
    {
     "shop": "옥션",
-    "price": 339850,
+    "price": 339590,
     "delivery": 0,
-    "total": 339850,
+    "total": 339590,
     "card_price": null,
     "card_name": "",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 339600,
+    "delivery": 0,
+    "total": 339600,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 1200 전자동 에스프레소 커피머신 밀크스팀봉 매트블랙 EP1220/19 /더가전",
     "match": "높음"
    },
    {
@@ -1970,6 +1970,17 @@
     "card_name": "",
     "member_price": null,
     "product_name": "[온누리상품] 필립스 전자동 원두 커피머신 가정용 에스프레소머신 라떼클래식 EP1220/19",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 367970,
+    "delivery": 0,
+    "total": 367970,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
     "match": "높음"
    },
    {
@@ -1995,17 +2006,6 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
-    "price": 367970,
-    "delivery": 0,
-    "total": 367970,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
-    "match": "높음"
-   },
-   {
     "shop": "홈&쇼핑",
     "price": 382700,
     "delivery": 0,
@@ -2018,11 +2018,11 @@
    }
   ],
   "dropped": 3,
-  "other_min": 339840,
-  "other_min_shop": "11번가"
+  "other_min": 339590,
+  "other_min_shop": "G마켓"
  },
  "9452921570": {
-  "checked_at": "2026-11-19T10:56+09:00",
+  "checked_at": "2026-11-19T16:56+09:00",
   "coupang_price_at_check": 679000,
   "danawa": {
    "pcode": "18155051",
@@ -2080,7 +2080,7 @@
     "match": "보통"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 913360,
     "delivery": 0,
     "total": 913360,
@@ -2091,7 +2091,7 @@
     "match": "보통"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 913360,
     "delivery": 0,
     "total": 913360,
