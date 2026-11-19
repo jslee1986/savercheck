@@ -500,11 +500,11 @@
   "other_min_shop": "오늘의집"
  },
  "9801631057": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 593100,
   "danawa": {
    "pcode": "123774957",
-   "name": "코드 제로 A7 Core A720WA",
+   "name": "LG전자 코드 제로 A7 Core A720WA",
    "cate": [
     72,
     80,
@@ -570,9 +570,9 @@
    },
    {
     "shop": "이마트몰",
-    "price": 587592,
+    "price": 594937,
     "delivery": 0,
-    "total": 587592,
+    "total": 594937,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -596,7 +596,7 @@
     "delivery": 0,
     "total": 630000,
     "card_price": 598500,
-    "card_name": "삼성카드",
+    "card_name": "롯데카드",
     "member_price": null,
     "product_name": "LG 코드제로 오브제 A7 Core 청소기 카밍베이지 [A720WA]",
     "match": "높음"
@@ -670,11 +670,11 @@
   "other_min_shop": null
  },
  "9724972673": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 569000,
   "danawa": {
    "pcode": "124298640",
-   "name": "코드 제로 A5 A520HC",
+   "name": "LG전자 코드 제로 A5 A520HC",
    "cate": [
     72,
     80,
@@ -685,13 +685,24 @@
   "malls": [
    {
     "shop": "SSG.COM",
-    "price": 486500,
+    "price": 486490,
     "delivery": 0,
-    "total": 486500,
+    "total": 486490,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "LG전자 코드제로 A5 A520HC (SF) 택배발송",
+    "product_name": "(H)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 488640,
+    "delivery": 0,
+    "total": 488640,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(LG)엘지전자 코드제로 A5 A520HC 청소기 (컴팩트타워포함) 에센스화이트 (Y)",
     "match": "높음"
    },
    {
@@ -706,36 +717,25 @@
     "match": "높음"
    },
    {
-    "shop": "G마켓",
-    "price": 490770,
-    "delivery": 0,
-    "total": 490770,
-    "card_price": 488770,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "LG전자 코드제로 무선청소기 A5 A520HC 링고몰",
-    "match": "높음"
-   },
-   {
     "shop": "신세계몰",
-    "price": 501500,
+    "price": 501490,
     "delivery": 0,
-    "total": 501500,
+    "total": 501490,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "LG전자 코드제로 A5 A520HC (SF) 택배발송",
+    "product_name": "(H)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
     "match": "높음"
    },
    {
     "shop": "이마트몰",
-    "price": 501500,
+    "price": 501490,
     "delivery": 0,
-    "total": 501500,
+    "total": 501490,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "LG전자 코드제로 A5 A520HC (SF) 택배발송",
+    "product_name": "(H)LG 코드제로 A5 무선청소기 A520HC 흡입전용 컴팩트타워포함 에센스화이트",
     "match": "높음"
    },
    {
@@ -772,8 +772,8 @@
     "match": "높음"
    }
   ],
-  "dropped": 1,
-  "other_min": 486500,
+  "dropped": 2,
+  "other_min": 486490,
   "other_min_shop": "SSG.COM"
  },
  "9783076381": {
@@ -786,11 +786,11 @@
   "other_min_shop": null
  },
  "9794843855": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 1689900,
   "danawa": {
    "pcode": "108229415",
-   "name": "AI 스팀 울트라 VR90F01AAG",
+   "name": "삼성전자 AI 스팀 울트라 VR90F01AAG",
    "cate": [
     72,
     80,
@@ -801,33 +801,33 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 1493620,
+    "price": 1493580,
     "delivery": 0,
-    "total": 1493620,
+    "total": 1493580,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성전자 VR90F01AAG Bespoke AI 스팀 울트라 새틴그레이지 택배 K",
+    "product_name": "|B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
     "match": "높음"
    },
    {
-    "shop": "G마켓",
-    "price": 1493630,
+    "shop": "옥션",
+    "price": 1493590,
     "delivery": 0,
-    "total": 1493630,
-    "card_price": 1491630,
-    "card_name": "하나카드",
+    "total": 1493590,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
     "match": "높음"
    },
    {
-    "shop": "옥션",
-    "price": 1493630,
+    "shop": "G마켓",
+    "price": 1493590,
     "delivery": 0,
-    "total": 1493630,
-    "card_price": null,
-    "card_name": "",
+    "total": 1493590,
+    "card_price": 1491590,
+    "card_name": "하나카드",
     "member_price": null,
     "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
     "match": "높음"
@@ -889,12 +889,12 @@
    }
   ],
   "dropped": 2,
-  "other_min": 1493620,
+  "other_min": 1493580,
   "other_min_shop": "11번가"
  },
  "9609807293": {
-  "checked_at": "2026-11-17T19:56+09:00",
-  "coupang_price_at_check": 1830000,
+  "checked_at": "2026-11-20T07:57+09:00",
+  "coupang_price_at_check": 1690000,
   "danawa": {
    "pcode": "108367196",
    "name": "삼성전자 AI 스팀 울트라 직배수 VR90F01SAG",
@@ -907,10 +907,21 @@
   },
   "malls": [
    {
-    "shop": "옥션",
-    "price": 1589320,
+    "shop": "11번가",
+    "price": 1610410,
     "delivery": 0,
-    "total": 1589320,
+    "total": 1610410,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "|B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 1610420,
+    "delivery": 0,
+    "total": 1610420,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -919,13 +930,13 @@
    },
    {
     "shop": "G마켓",
-    "price": 1589330,
+    "price": 1610420,
     "delivery": 0,
-    "total": 1589330,
-    "card_price": 1587830,
-    "card_name": "삼성카드",
+    "total": 1610420,
+    "card_price": 1608420,
+    "card_name": "하나카드",
     "member_price": null,
-    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "product_name": "삼성전자 삼성 AI 스팀 울트라 자동급배수 로봇청소기 VR90F01SAG (전국삼성물류설치)",
     "match": "높음"
    },
    {
@@ -936,7 +947,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
     "match": "높음"
    },
    {
@@ -969,18 +980,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 1641210,
-    "delivery": 0,
-    "total": 1641210,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[삼성] 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
     "match": "높음"
    },
    {
@@ -996,11 +996,11 @@
    }
   ],
   "dropped": 2,
-  "other_min": 1589320,
-  "other_min_shop": "옥션"
+  "other_min": 1610410,
+  "other_min_shop": "11번가"
  },
  "9445151005": {
-  "checked_at": "2026-11-17T19:56+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 2900000,
   "danawa": null,
   "malls": [],
@@ -1027,7 +1027,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-18T07:56+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -1870,8 +1870,8 @@
   "other_min_shop": null
  },
  "8771465367": {
-  "checked_at": "2026-11-19T16:56+09:00",
-  "coupang_price_at_check": 55090,
+  "checked_at": "2026-11-20T07:57+09:00",
+  "coupang_price_at_check": 64190,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1897,7 +1897,7 @@
   "other_min_shop": null
  },
  "9721533704": {
-  "checked_at": "2026-11-19T16:56+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 119270,
   "danawa": null,
   "malls": [],
@@ -2125,7 +2125,7 @@
   "other_min_shop": null
  },
  "9580820581": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 88700,
   "danawa": null,
   "malls": [],
@@ -2134,7 +2134,7 @@
   "other_min_shop": null
  },
  "9804487301": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 39300,
   "danawa": null,
   "malls": [],
@@ -2143,11 +2143,11 @@
   "other_min_shop": null
  },
  "9807871048": {
-  "checked_at": "2026-11-19T19:57+09:00",
+  "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 469000,
   "danawa": {
    "pcode": "123803664",
-   "name": "코드 제로 A5 AS520HA",
+   "name": "LG전자 코드 제로 A5 AS520HA",
    "cate": [
     72,
     80,
@@ -2157,6 +2157,65 @@
   },
   "malls": [],
   "dropped": 16,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "6344480058": {
+  "checked_at": "2026-11-20T07:57+09:00",
+  "coupang_price_at_check": 71580,
+  "danawa": {
+   "pcode": "13155924",
+   "name": "보국전자 에어셀 오트밀라떼 전기요 BKB-1625",
+   "cate": [
+    118,
+    11104,
+    11105,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 71570,
+    "delivery": 0,
+    "total": 71570,
+    "card_price": 70070,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "보국 보국 에어셀 워셔블 오트밀 전기요 침대 전기장판 BKB-1625S 싱글사이즈 알러지인증",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 71570,
+    "delivery": 0,
+    "total": 71570,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "보국 보국 에어셀 워셔블 오트밀 전기요 침대 전기장판 BKB-1625S 싱글사이즈 알러지인증",
+    "match": "높음"
+   }
+  ],
+  "dropped": 7,
+  "other_min": 71570,
+  "other_min_shop": "G마켓"
+ },
+ "8583164804": {
+  "checked_at": "2026-11-20T07:57+09:00",
+  "coupang_price_at_check": 189000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9728359198": {
+  "checked_at": "2026-11-20T07:57+09:00",
+  "coupang_price_at_check": 103200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
   "other_min": null,
   "other_min_shop": null
  }
