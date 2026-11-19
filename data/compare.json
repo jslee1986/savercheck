@@ -45,7 +45,7 @@
   "other_min_shop": null
  },
  "9494361908": {
-  "checked_at": "2026-11-17T13:57+09:00",
+  "checked_at": "2026-11-19T10:56+09:00",
   "coupang_price_at_check": 151900,
   "danawa": {
    "pcode": "124568601",
@@ -60,64 +60,42 @@
   "malls": [
    {
     "shop": "옥션",
-    "price": 128310,
+    "price": 122320,
     "delivery": 0,
-    "total": 128310,
+    "total": 122320,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "G마켓",
-    "price": 128320,
+    "price": 122320,
     "delivery": 0,
-    "total": 128320,
-    "card_price": null,
-    "card_name": "",
+    "total": 122320,
+    "card_price": 120320,
+    "card_name": "하나카드",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 133620,
-    "delivery": 0,
-    "total": 133620,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[필립스] 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 134460,
-    "delivery": 0,
-    "total": 134460,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 134460,
-    "delivery": 0,
-    "total": 134460,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "신세계몰",
-    "price": 134460,
+    "price": 133130,
     "delivery": 0,
-    "total": 134460,
+    "total": 133130,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 135000,
+    "delivery": 0,
+    "total": 135000,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -140,15 +118,37 @@
     "price": 140140,
     "delivery": 0,
     "total": 140140,
-    "card_price": 130340,
-    "card_name": "롯데카드",
+    "card_price": 133140,
+    "card_name": "삼성카드",
     "member_price": null,
     "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 144530,
+    "delivery": 0,
+    "total": 144530,
+    "card_price": 134420,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 156000,
+    "delivery": 0,
+    "total": 156000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 (현대Hmall) 필립스 에어프라이어  NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
    }
   ],
-  "dropped": 2,
-  "other_min": 128310,
+  "dropped": 4,
+  "other_min": 122320,
   "other_min_shop": "옥션"
  },
  "9795251783": {
@@ -1868,5 +1868,242 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "8771465367": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 55090,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9359843992": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 44450,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "1262092126": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 41830,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9721533704": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 119270,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8473796022": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 69000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9797526416": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 695000,
+  "danawa": {
+   "pcode": "99837338",
+   "name": "필립스 라떼클래식 EP1220/19",
+   "cate": [
+    1,
+    10901,
+    10904,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 339840,
+    "delivery": 0,
+    "total": 339840,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 1200 전자동 에스프레소 커피머신 밀크스팀봉 매트블랙 EP1220/19 /더가전",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 339850,
+    "delivery": 0,
+    "total": 339850,
+    "card_price": 337850,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 339850,
+    "delivery": 0,
+    "total": 339850,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 366590,
+    "delivery": 0,
+    "total": 366590,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[온누리상품] 필립스 전자동 원두 커피머신 가정용 에스프레소머신 라떼클래식 EP1220/19",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 367970,
+    "delivery": 0,
+    "total": 367970,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 367970,
+    "delivery": 0,
+    "total": 367970,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 367970,
+    "delivery": 0,
+    "total": 367970,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
+    "match": "높음"
+   },
+   {
+    "shop": "홈&쇼핑",
+    "price": 382700,
+    "delivery": 0,
+    "total": 382700,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙 H",
+    "match": "높음"
+   }
+  ],
+  "dropped": 3,
+  "other_min": 339840,
+  "other_min_shop": "11번가"
+ },
+ "9452921570": {
+  "checked_at": "2026-11-19T10:56+09:00",
+  "coupang_price_at_check": 679000,
+  "danawa": {
+   "pcode": "18155051",
+   "name": "드롱기 ECAM350.15.B",
+   "cate": [
+    1,
+    10901,
+    10904,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 854670,
+    "delivery": 0,
+    "total": 854670,
+    "card_price": 811940,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "드롱기 드롱기 디나미카 터치패널 전자동 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 881100,
+    "delivery": 0,
+    "total": 881100,
+    "card_price": 819430,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "[드롱기] 디나미카 터치패널 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 898360,
+    "delivery": 0,
+    "total": 898360,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[원두 증정] 디나미카 터치패널 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 905350,
+    "delivery": 0,
+    "total": 905350,
+    "card_price": 860090,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "[드롱기공식정품] 디나미카 터치패널 전자동 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 913360,
+    "delivery": 0,
+    "total": 913360,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[원두 증정] 디나미카 터치패널 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 913360,
+    "delivery": 0,
+    "total": 913360,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[원두 증정] 디나미카 터치패널 커피머신 KRECAM350.15.B",
+    "match": "보통"
+   }
+  ],
+  "dropped": 5,
+  "other_min": 854670,
+  "other_min_shop": "롯데홈쇼핑"
  }
 }
