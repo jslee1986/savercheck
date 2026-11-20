@@ -1367,7 +1367,7 @@
   "other_min_shop": null
  },
  "9800440813": {
-  "checked_at": "2026-11-20T19:56+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 30400,
   "danawa": null,
   "malls": [],
@@ -1376,7 +1376,7 @@
   "other_min_shop": null
  },
  "7442148926": {
-  "checked_at": "2026-11-20T19:56+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 354960,
   "danawa": {
    "pcode": "9401703",
@@ -1390,58 +1390,36 @@
   },
   "malls": [
    {
-    "shop": "옥션",
-    "price": 299670,
+    "shop": "G마켓",
+    "price": 308060,
     "delivery": 0,
-    "total": 299670,
+    "total": 308060,
+    "card_price": 306060,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 308060,
+    "delivery": 0,
+    "total": 308060,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(LG)쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥 T",
+    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
     "match": "높음"
    },
    {
     "shop": "SSG.COM",
-    "price": 305856,
+    "price": 321729,
     "delivery": 0,
-    "total": 305856,
+    "total": 321729,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 307860,
-    "delivery": 0,
-    "total": 307860,
-    "card_price": 305860,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "쿠쿠 쿠쿠 CRP-LHTR0610FW 6인용 트윈프레셔 IH압력밥솥 화이트",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 315315,
-    "delivery": 0,
-    "total": 315315,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 315315,
-    "delivery": 0,
-    "total": 315315,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
     "match": "높음"
    },
    {
@@ -1467,6 +1445,28 @@
     "match": "높음"
    },
    {
+    "shop": "신세계몰",
+    "price": 331679,
+    "delivery": 0,
+    "total": 331679,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 331679,
+    "delivery": 0,
+    "total": 331679,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
+    "match": "높음"
+   },
+   {
     "shop": "11번가",
     "price": 338530,
     "delivery": 0,
@@ -1478,9 +1478,9 @@
     "match": "높음"
    }
   ],
-  "dropped": 3,
-  "other_min": 299670,
-  "other_min_shop": "옥션"
+  "dropped": 4,
+  "other_min": 308060,
+  "other_min_shop": "G마켓"
  },
  "9774007596": {
   "checked_at": "2026-11-19T07:57+09:00",
@@ -1510,7 +1510,7 @@
   "other_min_shop": null
  },
  "9425919826": {
-  "checked_at": "2026-11-19T07:57+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 303830,
   "danawa": {
    "pcode": "123436549",
@@ -1523,28 +1523,6 @@
    ]
   },
   "malls": [
-   {
-    "shop": "G마켓",
-    "price": 290000,
-    "delivery": 0,
-    "total": 290000,
-    "card_price": 269700,
-    "card_name": "삼성카드",
-    "member_price": null,
-    "product_name": "LG전자 혜택가 26만원대) LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 290000,
-    "delivery": 0,
-    "total": 290000,
-    "card_price": 269700,
-    "card_name": "삼성카드",
-    "member_price": null,
-    "product_name": "퓨리케어 혜택가 26만원대) LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
-    "match": "높음"
-   },
    {
     "shop": "오늘의집",
     "price": 301710,
@@ -1568,10 +1546,32 @@
     "match": "높음"
    },
    {
-    "shop": "LG전자인증점 경남",
-    "price": 323000,
+    "shop": "옥션",
+    "price": 337000,
     "delivery": 0,
-    "total": 323000,
+    "total": 337000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "퓨리케어 LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 337000,
+    "delivery": 0,
+    "total": 337000,
+    "card_price": 335000,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "LG전자 LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+    "match": "높음"
+   },
+   {
+    "shop": "LG전자인증점 경남",
+    "price": 341000,
+    "delivery": 0,
+    "total": 341000,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -1580,8 +1580,8 @@
    }
   ],
   "dropped": 0,
-  "other_min": 290000,
-  "other_min_shop": "G마켓"
+  "other_min": 301710,
+  "other_min_shop": "오늘의집"
  },
  "9716350572": {
   "checked_at": "2026-11-19T07:57+09:00",
@@ -1843,8 +1843,8 @@
   "other_min_shop": "G마켓"
  },
  "7298125487": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 379000,
+  "checked_at": "2026-11-21T07:57+09:00",
+  "coupang_price_at_check": 384000,
   "danawa": {
    "pcode": "123436887",
    "name": "LG전자 퓨리케어360˚ Hit AS186HWWL",
@@ -2256,7 +2256,7 @@
   "other_min_shop": null
  },
  "8431298730": {
-  "checked_at": "2026-11-20T16:57+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 109900,
   "danawa": null,
   "malls": [],
@@ -2265,7 +2265,7 @@
   "other_min_shop": null
  },
  "9750833082": {
-  "checked_at": "2026-11-20T16:57+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 41000,
   "danawa": null,
   "malls": [],
@@ -2274,7 +2274,7 @@
   "other_min_shop": null
  },
  "9640908860": {
-  "checked_at": "2026-11-20T16:57+09:00",
+  "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 37830,
   "danawa": null,
   "malls": [],
@@ -2344,5 +2344,226 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "9711509586": {
+  "checked_at": "2026-11-21T07:57+09:00",
+  "coupang_price_at_check": 483430,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7614352984": {
+  "checked_at": "2026-11-21T07:57+09:00",
+  "coupang_price_at_check": 43120,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9740282154": {
+  "checked_at": "2026-11-21T07:57+09:00",
+  "coupang_price_at_check": 173000,
+  "danawa": {
+   "pcode": "19638758",
+   "name": "CRP-CHP1010FD 내솥 + 패킹",
+   "cate": [
+    1,
+    46,
+    25882,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 164040,
+    "delivery": 2500,
+    "total": 166540,
+    "card_price": 162040,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 정품내솥 CRP-CHP1010FD 내솥 패킹 세트",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 164040,
+    "delivery": 2500,
+    "total": 166540,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 정품 CRP-CHP1010FD 내솥+패킹",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 166550,
+    "delivery": 0,
+    "total": 166550,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 CRP-CHP1010FD 내솥+패킹",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 174690,
+    "delivery": 0,
+    "total": 174690,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 내솥 패킹 세트 10인용 CRP-CHP1010FD 에코 스테인리스 와이드 앤 플랫 광버핑",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 230622,
+    "delivery": 0,
+    "total": 230622,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠내솥 CRP-CHP1010FD 내솥+패킹포함",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 247980,
+    "delivery": 0,
+    "total": 247980,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠내솥 CRP-CHP1010FD 내솥+패킹포함",
+    "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 274610,
+    "delivery": 0,
+    "total": 274610,
+    "card_price": 260880,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "쿠쿠 CRP-CHP1010FD 내솥+패킹",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 166540,
+  "other_min_shop": "G마켓"
+ },
+ "9725502428": {
+  "checked_at": "2026-11-21T07:57+09:00",
+  "coupang_price_at_check": 410000,
+  "danawa": {
+   "pcode": "7280086",
+   "name": "CRP-CHP1010FD",
+   "cate": [
+    1,
+    46,
+    48,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 252230,
+    "delivery": 0,
+    "total": 252230,
+    "card_price": 250230,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 CUCKOO IH전기압력밥솥 CRP-CHP1010FD 10인용 올스텐 다크실버",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 257570,
+    "delivery": 0,
+    "total": 257570,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 10인용 IH전기압력밥솥 CRP-CHP1010FD /L",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 271220,
+    "delivery": 0,
+    "total": 271220,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 CUCKOO IH전기압력밥솥 CRP-CHP1010FD 10인용 올스텐 다크실버",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 281943,
+    "delivery": 0,
+    "total": 281943,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 밥솥 CRP-CHP1010FD 배송무료",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 282840,
+    "delivery": 0,
+    "total": 282840,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 본사직영 10인용 IH전기압력 밥솥 CRP-CHP1010FD",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 284790,
+    "delivery": 0,
+    "total": 284790,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 밥솥 CRP-CHP1010FD 배송무료",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 284790,
+    "delivery": 0,
+    "total": 284790,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 밥솥 CRP-CHP1010FD 배송무료",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 296840,
+    "delivery": 5000,
+    "total": 301840,
+    "card_price": 282000,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "셀러허브(하프클럽) [하프클럽/셀러허브 가전]CRP-CHP1010FD 쿠쿠 IH압력밥솥 10인용",
+    "match": "높음"
+   }
+  ],
+  "dropped": 4,
+  "other_min": 252230,
+  "other_min_shop": "G마켓"
  }
 }
