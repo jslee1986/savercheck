@@ -1283,25 +1283,16 @@
   "other_min_shop": null
  },
  "9720959145": {
-  "checked_at": "2026-11-20T13:56+09:00",
+  "checked_at": "2026-11-20T19:56+09:00",
   "coupang_price_at_check": 397600,
-  "danawa": {
-   "pcode": "91560128",
-   "name": "DELL 에일리언웨어 AW2725DM",
-   "cate": [
-    860,
-    13735,
-    14883,
-    58972
-   ]
-  },
+  "danawa": null,
   "malls": [],
-  "dropped": 11,
+  "dropped": 0,
   "other_min": null,
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-20T13:56+09:00",
+  "checked_at": "2026-11-20T19:56+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -1331,7 +1322,7 @@
   "other_min_shop": "하이마트"
  },
  "9823963170": {
-  "checked_at": "2026-11-20T13:56+09:00",
+  "checked_at": "2026-11-20T19:56+09:00",
   "coupang_price_at_check": 170000,
   "danawa": null,
   "malls": [],
@@ -1376,7 +1367,7 @@
   "other_min_shop": null
  },
  "9800440813": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-20T19:56+09:00",
   "coupang_price_at_check": 30400,
   "danawa": null,
   "malls": [],
@@ -1385,7 +1376,7 @@
   "other_min_shop": null
  },
  "7442148926": {
-  "checked_at": "2026-11-18T19:56+09:00",
+  "checked_at": "2026-11-20T19:56+09:00",
   "coupang_price_at_check": 354960,
   "danawa": {
    "pcode": "9401703",
@@ -1399,58 +1390,58 @@
   },
   "malls": [
    {
-    "shop": "G마켓",
-    "price": 299680,
-    "delivery": 0,
-    "total": 299680,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 (LG)쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥 T",
-    "match": "높음"
-   },
-   {
     "shop": "옥션",
-    "price": 308670,
+    "price": 299670,
     "delivery": 0,
-    "total": 308670,
+    "total": 299670,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 308680,
-    "delivery": 0,
-    "total": 308680,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[LG]쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
-    "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 318910,
-    "delivery": 0,
-    "total": 318910,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
+    "product_name": "(LG)쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥 T",
     "match": "높음"
    },
    {
     "shop": "SSG.COM",
-    "price": 321839,
+    "price": 305856,
     "delivery": 0,
-    "total": 321839,
+    "total": 305856,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
+    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 307860,
+    "delivery": 0,
+    "total": 307860,
+    "card_price": 305860,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 CRP-LHTR0610FW 6인용 트윈프레셔 IH압력밥솥 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 315315,
+    "delivery": 0,
+    "total": 315315,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 315315,
+    "delivery": 0,
+    "total": 315315,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 트윈프레셔 CRP-LHTR0610FW 압력밥솥",
     "match": "높음"
    },
    {
@@ -1465,31 +1456,31 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
-    "price": 331792,
+    "shop": "롯데ON",
+    "price": 328920,
     "delivery": 0,
-    "total": 331792,
+    "total": 328920,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
-    "price": 331792,
+    "shop": "11번가",
+    "price": 338530,
     "delivery": 0,
-    "total": 331792,
+    "total": 338530,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "product_name": "[하이마트] [고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥 CRP-LHTR0610FW",
     "match": "높음"
    }
   ],
   "dropped": 3,
-  "other_min": 299680,
-  "other_min_shop": "G마켓"
+  "other_min": 299670,
+  "other_min_shop": "옥션"
  },
  "9774007596": {
   "checked_at": "2026-11-19T07:57+09:00",
@@ -2330,6 +2321,24 @@
  "7621724421": {
   "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 227050,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "1826522566": {
+  "checked_at": "2026-11-20T19:56+09:00",
+  "coupang_price_at_check": 36900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9259964173": {
+  "checked_at": "2026-11-20T19:56+09:00",
+  "coupang_price_at_check": 37000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
