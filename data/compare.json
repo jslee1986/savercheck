@@ -1036,7 +1036,7 @@
   "other_min_shop": null
  },
  "9724226088": {
-  "checked_at": "2026-11-18T07:56+09:00",
+  "checked_at": "2026-11-20T10:56+09:00",
   "coupang_price_at_check": 359000,
   "danawa": {
    "pcode": "106702589",
@@ -1055,7 +1055,7 @@
     "delivery": 0,
     "total": 341050,
     "card_price": 324000,
-    "card_name": "롯데카드",
+    "card_name": "KB국민카드",
     "member_price": null,
     "product_name": "삼성전자 삼성전자 갤럭시 버즈4 프로 ANC 무선 블루투스 이어폰 SM-R640",
     "match": "높음"
@@ -1065,8 +1065,8 @@
     "price": 349000,
     "delivery": 0,
     "total": 349000,
-    "card_price": 324570,
-    "card_name": "현대카드",
+    "card_price": 331550,
+    "card_name": "롯데카드",
     "member_price": null,
     "product_name": "갤럭시 버즈4 프로 완전 무선 노이즈캔슬링 블루투스 이어폰 SM-R640",
     "match": "높음"
@@ -1086,8 +1086,8 @@
   "other_min_shop": null
  },
  "9309807813": {
-  "checked_at": "2026-11-18T13:57+09:00",
-  "coupang_price_at_check": 211790,
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 211770,
   "danawa": {
    "pcode": "106702613",
    "name": "삼성전자 갤럭시 버즈4 SM-R540",
@@ -2213,6 +2213,114 @@
  "9728359198": {
   "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 103200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9309807812": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 295000,
+  "danawa": {
+   "pcode": "106702589",
+   "name": "삼성전자 갤럭시 버즈4 프로 SM-R640",
+   "cate": [
+    224,
+    49729,
+    49740,
+    0
+   ]
+  },
+  "malls": [],
+  "dropped": 14,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9779817165": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 299000,
+  "danawa": {
+   "pcode": "124480907",
+   "name": "삼성전자 갤럭시 버즈 온 SM-U600",
+   "cate": [
+    224,
+    49729,
+    49740,
+    0
+   ]
+  },
+  "malls": [],
+  "dropped": 5,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9632198428": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 122600,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8431298730": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 119900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9750833082": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 41000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9640908860": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 37830,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8882805356": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 489150,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7074592247": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 141300,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9634243031": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 113750,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9815750126": {
+  "checked_at": "2026-11-20T10:56+09:00",
+  "coupang_price_at_check": 71600,
   "danawa": null,
   "malls": [],
   "dropped": 0,
