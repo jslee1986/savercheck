@@ -893,7 +893,7 @@
   "other_min_shop": "11번가"
  },
  "9609807293": {
-  "checked_at": "2026-11-20T07:57+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 1690000,
   "danawa": {
    "pcode": "108367196",
@@ -908,42 +908,42 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 1610410,
+    "price": 1610370,
     "delivery": 0,
-    "total": 1610410,
+    "total": 1610370,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "|B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 1610420,
-    "delivery": 0,
-    "total": 1610420,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "product_name": "삼성 AI 스팀 울트라 자동급배수 로봇청소기 VR90F01SAG (전국삼성물류설치)",
     "match": "높음"
    },
    {
     "shop": "G마켓",
-    "price": 1610420,
+    "price": 1610380,
     "delivery": 0,
-    "total": 1610420,
-    "card_price": 1608420,
+    "total": 1610380,
+    "card_price": 1608380,
     "card_name": "하나카드",
     "member_price": null,
-    "product_name": "삼성전자 삼성 AI 스팀 울트라 자동급배수 로봇청소기 VR90F01SAG (전국삼성물류설치)",
+    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 1610380,
+    "delivery": 0,
+    "total": 1610380,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
     "match": "높음"
    },
    {
     "shop": "SSG.COM",
-    "price": 1610640,
+    "price": 1610650,
     "delivery": 0,
-    "total": 1610640,
+    "total": 1610650,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -962,10 +962,10 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
-    "price": 1625640,
+    "shop": "이마트몰",
+    "price": 1625650,
     "delivery": 0,
-    "total": 1625640,
+    "total": 1625650,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -973,14 +973,14 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
-    "price": 1625640,
+    "shop": "신세계몰",
+    "price": 1625650,
     "delivery": 0,
-    "total": 1625640,
+    "total": 1625650,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
     "match": "높음"
    },
    {
@@ -996,11 +996,11 @@
    }
   ],
   "dropped": 2,
-  "other_min": 1610410,
+  "other_min": 1610370,
   "other_min_shop": "11번가"
  },
  "9445151005": {
-  "checked_at": "2026-11-20T07:57+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 2900000,
   "danawa": null,
   "malls": [],
@@ -1027,7 +1027,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-20T07:57+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -1283,7 +1283,7 @@
   "other_min_shop": null
  },
  "9720959145": {
-  "checked_at": "2026-11-18T16:56+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 397600,
   "danawa": {
    "pcode": "91560128",
@@ -1301,7 +1301,7 @@
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-18T10:56+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -1316,10 +1316,10 @@
   "malls": [
    {
     "shop": "하이마트",
-    "price": 361860,
+    "price": 353950,
     "delivery": 0,
-    "total": 361860,
-    "card_price": 325670,
+    "total": 353950,
+    "card_price": 318550,
     "card_name": "삼성카드",
     "member_price": null,
     "product_name": "LG 울트라기어 27G610A 27인치 IPS QHD 200Hz 게이밍 모니터",
@@ -1327,11 +1327,11 @@
    }
   ],
   "dropped": 9,
-  "other_min": 361860,
+  "other_min": 353950,
   "other_min_shop": "하이마트"
  },
  "9823963170": {
-  "checked_at": "2026-11-18T16:56+09:00",
+  "checked_at": "2026-11-20T13:56+09:00",
   "coupang_price_at_check": 170000,
   "danawa": null,
   "malls": [],
@@ -2321,6 +2321,15 @@
  "9815750126": {
   "checked_at": "2026-11-20T10:56+09:00",
   "coupang_price_at_check": 71600,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7621724421": {
+  "checked_at": "2026-11-20T13:56+09:00",
+  "coupang_price_at_check": 227050,
   "danawa": null,
   "malls": [],
   "dropped": 0,
