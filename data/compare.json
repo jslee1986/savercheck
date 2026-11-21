@@ -1736,7 +1736,7 @@
   "other_min_shop": null
  },
  "6714055840": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 509000,
   "danawa": {
    "pcode": "4808917",
@@ -1816,7 +1816,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 567420,
     "delivery": 0,
     "total": 567420,
@@ -1827,7 +1827,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 567420,
     "delivery": 0,
     "total": 567420,
@@ -2013,7 +2013,7 @@
   "other_min_shop": "옥션"
  },
  "9452921570": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 679000,
   "danawa": {
    "pcode": "18155051",
@@ -2567,8 +2567,8 @@
   "other_min_shop": "G마켓"
  },
  "6945179990": {
-  "checked_at": "2026-11-21T10:56+09:00",
-  "coupang_price_at_check": 31900,
+  "checked_at": "2026-11-21T16:56+09:00",
+  "coupang_price_at_check": 31580,
   "danawa": {
    "pcode": "117633386",
    "name": "착한구두 컬리지 퍼 안감 숏 어그 부츠 WTSDR4d250",
@@ -2619,7 +2619,7 @@
   "other_min_shop": "롯데ON"
  },
  "8391180879": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 41320,
   "danawa": null,
   "malls": [],
@@ -2628,7 +2628,7 @@
   "other_min_shop": null
  },
  "8248049594": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 101000,
   "danawa": null,
   "malls": [],
@@ -2637,8 +2637,8 @@
   "other_min_shop": null
  },
  "9702486996": {
-  "checked_at": "2026-11-21T10:56+09:00",
-  "coupang_price_at_check": 111800,
+  "checked_at": "2026-11-21T16:56+09:00",
+  "coupang_price_at_check": 125300,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -2655,7 +2655,7 @@
   "other_min_shop": null
  },
  "7289669384": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 33900,
   "danawa": null,
   "malls": [],
@@ -2664,7 +2664,7 @@
   "other_min_shop": null
  },
  "7707207391": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 31910,
   "danawa": null,
   "malls": [],
@@ -2673,7 +2673,7 @@
   "other_min_shop": null
  },
  "9103835441": {
-  "checked_at": "2026-11-21T10:56+09:00",
+  "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 800850,
   "danawa": null,
   "malls": [],
