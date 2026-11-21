@@ -1736,7 +1736,7 @@
   "other_min_shop": null
  },
  "6714055840": {
-  "checked_at": "2026-11-19T13:56+09:00",
+  "checked_at": "2026-11-21T10:56+09:00",
   "coupang_price_at_check": 509000,
   "danawa": {
    "pcode": "4808917",
@@ -1750,6 +1750,28 @@
   },
   "malls": [
    {
+    "shop": "11번가",
+    "price": 524250,
+    "delivery": 0,
+    "total": 524250,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 전자동 커피머신 마그니피카 S ECAM22.110.B 커피머신 블랙",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 524250,
+    "delivery": 0,
+    "total": 524250,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 So",
+    "match": "높음"
+   },
+   {
     "shop": "G마켓",
     "price": 524260,
     "delivery": 3000,
@@ -1761,32 +1783,10 @@
     "match": "높음"
    },
    {
-    "shop": "롯데ON",
-    "price": 531330,
-    "delivery": 3000,
-    "total": 534330,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 Ss",
-    "match": "높음"
-   },
-   {
     "shop": "옥션",
     "price": 538360,
     "delivery": 3000,
     "total": 541360,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "드롱기 ECAM22.110.B  마그니피카S 전자동 에스프레소 커피머신 국내정품 Ss",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 539790,
-    "delivery": 3000,
-    "total": 542790,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -1816,7 +1816,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 567420,
     "delivery": 0,
     "total": 567420,
@@ -1827,7 +1827,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 567420,
     "delivery": 0,
     "total": 567420,
@@ -1839,8 +1839,8 @@
    }
   ],
   "dropped": 3,
-  "other_min": 527260,
-  "other_min_shop": "G마켓"
+  "other_min": 524250,
+  "other_min_shop": "11번가"
  },
  "7298125487": {
   "checked_at": "2026-11-21T07:57+09:00",
@@ -2013,7 +2013,7 @@
   "other_min_shop": "G마켓"
  },
  "9452921570": {
-  "checked_at": "2026-11-19T16:56+09:00",
+  "checked_at": "2026-11-21T10:56+09:00",
   "coupang_price_at_check": 679000,
   "danawa": {
    "pcode": "18155051",
@@ -2042,7 +2042,7 @@
     "price": 881100,
     "delivery": 0,
     "total": 881100,
-    "card_price": 819430,
+    "card_price": 837050,
     "card_name": "삼성카드",
     "member_price": null,
     "product_name": "[드롱기] 디나미카 터치패널 커피머신 KRECAM350.15.B",
@@ -2065,7 +2065,7 @@
     "delivery": 0,
     "total": 905350,
     "card_price": 860090,
-    "card_name": "삼성카드",
+    "card_name": "현대카드",
     "member_price": null,
     "product_name": "[드롱기공식정품] 디나미카 터치패널 전자동 커피머신 KRECAM350.15.B",
     "match": "보통"
@@ -2565,5 +2565,120 @@
   "dropped": 4,
   "other_min": 252230,
   "other_min_shop": "G마켓"
+ },
+ "6945179990": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 31900,
+  "danawa": {
+   "pcode": "117633386",
+   "name": "착한구두 컬리지 퍼 안감 숏 어그 부츠 WTSDR4d250",
+   "cate": [
+    1824,
+    228112,
+    228823,
+    231727
+   ]
+  },
+  "malls": [
+   {
+    "shop": "롯데ON",
+    "price": 58310,
+    "delivery": 0,
+    "total": 58310,
+    "card_price": 53650,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "착한구두 컬리지 퍼안감 어그부츠 WTSDR4d250",
+    "match": "보통"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 67797,
+    "delivery": 0,
+    "total": 67797,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "컬리지 퍼안감 어그부츠 WTSDR4d250",
+    "match": "보통"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 72900,
+    "delivery": 0,
+    "total": 72900,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "컬리지 퍼안감 어그부츠 WTSDR4d250",
+    "match": "보통"
+   }
+  ],
+  "dropped": 0,
+  "other_min": 58310,
+  "other_min_shop": "롯데ON"
+ },
+ "8391180879": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 41320,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8248049594": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 101000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9702486996": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 111800,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8398157812": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 139000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7289669384": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 33900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7707207391": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 31910,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9103835441": {
+  "checked_at": "2026-11-21T10:56+09:00",
+  "coupang_price_at_check": 800850,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
