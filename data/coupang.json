@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-21T12:29+09:00",
+ "collected_at": "2026-11-21T17:14+09:00",
  "items": [
   {
    "id": "8391180879",
@@ -8,10 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "식품",
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8391180879&itemId=24963749598&vendorItemId=91994723799&traceid=V0-143-448691e2b5dbc33a&pt=0&slot=1",
    "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
+   "checked_at": "2026-11-21T17:14+09:00"
   },
   {
    "id": "8248049594",
@@ -20,10 +20,22 @@
    "rocket": true,
    "free_ship": false,
    "category": "생활용품",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/01/16/4/13a37a4d-d69f-4727-b8b1-c96f29693f9b.jpg",
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/01/16/4/13a37a4d-d69f-4727-b8b1-c96f29693f9b.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8248049594&itemId=24387609392&vendorItemId=91402616619&traceid=V0-143-ff3c3bef4143bc56&pt=0&slot=2",
    "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
+   "checked_at": "2026-11-21T17:14+09:00"
+  },
+  {
+   "id": "6945179990",
+   "name": "착한구두 여성용 컬리지 퍼안감 숏 어그부츠 WTSDR4d250",
+   "price": 31900,
+   "rocket": true,
+   "free_ship": false,
+   "category": "패션잡화",
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/rxywwfvc/df58260a50824e1faa39eebbcf7db2e6.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6945179990&itemId=16854761867&vendorItemId=84033672306&traceid=V0-143-c4d9163cb7562aa2&pt=0&slot=3",
+   "source": "골드박스",
+   "checked_at": "2026-11-21T17:14+09:00"
   },
   {
    "id": "9702486996",
@@ -33,33 +45,9 @@
    "free_ship": false,
    "category": "가전디지털",
    "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/706b/377f03410fe959355f5ad347dba63219efb60fdc947b78154653ab55bcb3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9702486996&itemId=29025061638&vendorItemId=95952658981&traceid=V0-143-a3e18d466cd6d42b&pt=0&slot=3",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9702486996&itemId=29025061638&vendorItemId=95952658981&traceid=V0-143-a3e18d466cd6d42b&pt=0&slot=8",
    "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "7289669384",
-   "name": "테팔 인덕션 스테인리스 스틸 이지쿡 편수냄비",
-   "price": 33900,
-   "rocket": true,
-   "free_ship": false,
-   "category": "주방용품",
-   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/345439422339710-b9b74bcc-865d-4308-b171-2687e2b658e0.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7289669384&itemId=18628674097&vendorItemId=85764022608&traceid=V0-143-f01c812f7bfa2ad8&pt=0&slot=8",
-   "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "6945179990",
-   "name": "착한구두 여성용 컬리지 퍼안감 숏 어그부츠 WTSDR4d250",
-   "price": 31580,
-   "rocket": true,
-   "free_ship": false,
-   "category": "패션잡화",
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/tm1erxs9/6000fafbbf7c4dd88622e840aee28c65.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6945179990&itemId=16854761905&vendorItemId=84033672515&traceid=V0-143-c4d9163cb7562aa2&pt=0&slot=13",
-   "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
+   "checked_at": "2026-11-21T17:14+09:00"
   },
   {
    "id": "9103835441",
@@ -68,22 +56,38 @@
    "rocket": true,
    "free_ship": true,
    "category": "가전디지털",
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/157326128054389-71fe8a31-00ef-4fb1-8f28-90e357efc9f3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9103835441&itemId=26764627248&vendorItemId=93735460470&traceid=V0-143-905ca070603cf64a&pt=0&slot=14",
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/157326128054389-71fe8a31-00ef-4fb1-8f28-90e357efc9f3.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9103835441&itemId=26764627248&vendorItemId=93735460470&traceid=V0-143-905ca070603cf64a&pt=0&slot=20",
    "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
+   "checked_at": "2026-11-21T17:14+09:00"
   },
   {
-   "id": "7707207391",
-   "name": "제나벨 PDRN 리쥬비네이팅 크림",
-   "price": 31910,
+   "id": "9795251783",
+   "name": "쿠쿠 에어프라이어 CAF-E0810TW / 8리터 AIR FRYER / 8L 대용량 바스켓",
+   "price": 176470,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/SODXty715ycfpDwVSD528AUOgpXlLqGZcmuOHJnamaVndqDJMrmlqKuhDUk3dKRbuZi1IqrertJEuVb1b9pMkIqp6NGZv6-DuhRsOLH0A02XP9J50jeONQWBaYEtSgZjFmCB4Pg3jiNgnEj2FNbo5TOyJfXhbYKtIAuNhqR_rg849gbP_hHOukCjD781LLBIypq7cmdvPpN6W2r_W5-7iU396XlHF_l1FQVRa8e6f5rb7218cdVBi8PNsNDnApXUJcQ2K7KJLuEDosDukt7maWjcOaywAeVfl8JlDhEf7q2RehNihbJBwAMh-8vH85Z5ZVRwnHK3W5wOg_77zg-v1DYQVt8QvAfqWeKSnH8-RnHQAMKSTbNX6dOYNz-U9qEOyRTCx-IcP56ZDuq1CKrzftFE9uINQHwu7zpXV_-13UzBNX5V24ZVAVJnHiJumbe7ibE4qHKV5SzcFq6ScB1Dr8dtNzSetEHvEQGlXHsfwtd-ZXm1dHiL_lwuEHlMoPXkVvUvSG2fw-WeA4myuMCjOHKlCec6AegnCOB_LK84kP3ATKGPwcSsQnYFvD4G7fOOfsVLJiR-b7EGxAeB5_G1bowcKH67OA6denyi0YfL2jAxDuaHc6Y=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9795251783&itemId=29328888326&vendorItemId=96356034038&traceid=V0-153-dde0de068f1f1f4d&requestid=20261121171437079174003429&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:에어프라이어 CAF-E0810TW",
+   "danawa_pcode": "32156642",
+   "model": "CAF-E0810TW",
+   "checked_at": "2026-11-21T17:14+09:00"
+  },
+  {
+   "id": "7855749856",
+   "name": "풀무원건강생활 스팀쿡 마스터 플러스 듀얼스팀 오븐 20L, AV20F11WG, 소이코튼",
+   "price": 328390,
    "rocket": true,
    "free_ship": false,
-   "category": "뷰티",
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/ff3b/eaf246c35c88f3d72544ceac0411f3b9337a97655802cd61ada83bc109f4.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7707207391&itemId=24117801135&vendorItemId=95378072755&traceid=V0-143-94c71c2d455deb25&pt=0&slot=27",
-   "source": "골드박스",
-   "checked_at": "2026-11-21T12:29+09:00"
+   "category": "주방용품",
+   "image": "https://ads-partners.coupang.com/image1/KfbMTfacR7SQAHmHKb8Ax_VlL0V-MwudXgzYtvx2KvxiUylGatvrbaQM33_d7N9aHpK-DQRrmeC-e9pZPAEclHTFbHK3hwun0iIIw4bWGiAFyr8MKHFlYnUQknKDK91In563lfz0ys_DPUt7ThbckTIdYOnSP9oYqpPfsZOlKVdH76DycCY1EYKGLvCJmT7DnLse23LE4St8CRvPvZ0qElFSvKe-8jtmVD7X1InSAavU-MJhAAQgET0kMObylj6zbQHMKO0ah5QsmIIUpFTniHIrCkpoaok9oJV9cXzNItN8mZ0MahB-EQ4PNHvWuU3DNB63WpIzIII3VgspIwyC1sIu8qenH0vEOS59SJqfcrNRm7soCJ5kZ4m-R4WsxjRgFOPt7KvON4GlPcYi5pnj6pdqv3QXK1XxrHythythAIEei3KC3HjHmaxqftOJJLY2DiKDT5pdjAGgQUTzkvbbWS8ZXAxwEyKR2qly2DB-4isjqbB7dOpXh0AK0PR5uORwvWjPnP_I2MtUfMo9FyUYj3c=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7855749856&itemId=27937040994&vendorItemId=94895379358&traceid=V0-153-8dc8929a01f7e6ee&clickBeacon=9a5feb90-e583-11f1-a3be-e719038eb299%7E3&requestid=20261121171441822299206909&token=31850C%7CMIXED&pt=1&slot=1",
+   "source": "관심:스팀쿡 AV20F11",
+   "danawa_pcode": "108365732",
+   "model": "AV20F11",
+   "checked_at": "2026-11-21T17:14+09:00"
   },
   {
    "id": "9831004676",
@@ -168,62 +172,6 @@
    "danawa_pcode": "18155051",
    "model": "ECAM350.15.B",
    "checked_at": "2026-11-21T09:46+09:00"
-  },
-  {
-   "id": "9740282154",
-   "name": "쿠쿠 내솥 패킹 세트 10인용 CRP-CHP1010FD 에코 스테인리스 와이드 앤 플랫 광버핑, 1개, 단일모델명/품번",
-   "price": 173000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/4mkLSTSBLPUEtF8o4ijWHHWXnUAXd5F6TG7OsXMCv25f7JnChzh043OOy2cIcvLygYdmccDkKtDM7zYgAfHjSJ-JLFixDvJsbPLboK_qd6YmwuQNseU-OxqlWgFlqvfL7rUktZ2K6WLlSZVxa6Q4DLFX8mbqwZgxNr-X-jvNPztP9wrZw9bGXjaQOSaPmWSJtcCxvvnnLEH4yeAQOsGE7DqQoO9rv_mnIn55G0F9o5onEsHfoteFO7C1zQAsShxDjcrXGecXK64GQ6NrcV6ERCH4NOoygmvDu6W4QKuPYXg9yG92hi2tZyA6IxkhNzmdRGFo7WmN0ioPaed25TakFXhkTdZ9NBMM3d5onGIKG6kEfjYNQ6AcDzugeO-0JjEtbh3lGSleZ7k70JLFXayybWeP_L0a5jsMlAIGsWmLHU5p-TDSGeivHlLUK_TO3GZhF91JJff3PQM2zs4Ze-yy4ht12eJ_lf0Upc1Oyaav38rJ-Pv87nrjKUpjT20jBc8w-72_4kjjo35rSqvJLovNQwwHcSxezSvM__pOnyEanUnIjA==",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9740282154&itemId=29152996164&vendorItemId=96075675899&traceid=V0-153-f8f2190a86d673bf&clickBeacon=10649cf0-e511-11f1-a880-48434fe2572f%7E3&requestid=20261121033447682073195433&token=31850C%7CMIXED&pt=1&slot=2",
-   "source": "관심:쿠쿠 CRP-CHP1010FD",
-   "danawa_pcode": "7280086",
-   "model": "CRP-CHP1010FD",
-   "checked_at": "2026-11-21T03:34+09:00"
-  },
-  {
-   "id": "9725502428",
-   "name": "온세상 [셀러허브][쿠쿠] 쿠쿠 본사직영 CRP-CHP1010FD 10인용 IH전기압력 밥솥 (S38284976)",
-   "price": 410000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "주방용품",
-   "image": "https://ads-partners.coupang.com/image1/1LK-ejbMbGDbhExe1CYYdc4BcnXa7r216kz-SoLVRI2Q7ygNFGi-sNzj6UPEMmK9TAUjj5U9LfOuHA2T88KR076Oq0IV5T79goPqzhvGF3Bfqi-zZu86wvx4_lXWATiepMK5aRYhdL62UrOe2aeXWAh63DNYWroRNdMGLxtX172FoShgApfCa2iqVNdAoRNF38nE7IKXr_xx3ffcQiRaQKoZcm4i2t3F6E6IQ8xYQQSGXf3EY_dAzVPvFr9rXnf7fFs77mACtm3JCIsBDibVYbHKLlyiqBCLsgbaPekK8PEnSs3142cukjox2-ADWYVP84zGTu5px7-ZeoZKHYbQs5psH-ut3mKl-eJ7fbIqHMCPCIWYThuvwg5l4LIrb4mgZbrep6PPz_muY7dgcpA1W1byLzl687PLy5ynUhTMu-jZ9vTlCQeRc4NHHMuD8-Ps6A0Ro8pATVx4oM2f2EWkY-s4yH4FIexMEGep56c5nNBJ8Vkivu3CIWRIKXWAurAFCc3KGWvSOkOnVt5T3KIZOh_87pKeeQmwqsif4OWehIJnOyK7gHNP7k_lZY0=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9725502428&itemId=29103740339&vendorItemId=96213684528&traceid=V0-153-07db07b135d6093a&requestid=20261121033447682073195433&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:쿠쿠 CRP-CHP1010FD",
-   "danawa_pcode": "7280086",
-   "model": "CRP-CHP1010FD",
-   "checked_at": "2026-11-21T03:34+09:00"
-  },
-  {
-   "id": "9425919826",
-   "name": "LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
-   "price": 303830,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/4qC11DA1rwe0Adhc4hm-b6-DSfJ0v6_txK4aGQH0kUij8oaoWOC4SO49JquwCXOb0bALOJb6wSgoCh5nyDAYwsHmN0crN6shhf_TnMYjXWLEdRn0VSQybjMQ6e5gMI9FJRZE4ZFXid5xFvsdImOd9VbH-s-hIxIF3IJ5ghc22IMS436JTrOoEgzUnmov_nVnT44RXetTwcT0VLWRATbGBT7YN0TcifHsMO7ZRIjj3XYcilzcmM8z_HMDgv-_QE7SGTJVM5iTZTYjXyurBXHheNEnFDhF_t2aThtgJLDGQx_iQYEjsrUyif-agmSyzLK0Od-TV2z_xZRGIeRYmv2s64Nroi2gBIm5Hu_kn2VbqiixwD8zbcEQa3WuRSblL1lgDKc86OpSFzcPTLR6L6SmEjspCA3isvWeRZw9kQHFEaMEPTqIHqaX566NZyiTD9hNU8HKRQ3TXRAnH9Y0JNluDh3yWGEEojVwC27PkG0hqgRAFmHUSkUHlbYE2hCEru4hGp84y8c9MSea-4OEUsGA5HDhaXUo2wtOd8jRNol0seJ2FPQkz6AF2dPN0WA=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9425919826&itemId=28953913656&vendorItemId=95283512304&traceid=V0-153-c2947ea3fcd8eb1b&requestid=20261121033452512058017208&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:LG 퓨리케어 AS156HWWC",
-   "danawa_pcode": "123436549",
-   "model": "AS156HWWC",
-   "checked_at": "2026-11-21T03:34+09:00"
-  },
-  {
-   "id": "7298125487",
-   "name": "LG전자 퓨리케어 360 공기청정기 AS186HWWL",
-   "price": 384000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/AbDSB2JWS1DK0JkBAa0GdqSgqnrHu_QHDFykiGhY2rOv6LZiJNlH7ley1jNIjB0nUcjLITO8q0TnZPwbbGcY1-Zr_wVsqmj0dNg0u3rILr6zYNeCK3W-uiy_onwiPXpql2TDhG-PsQkoodTloPUa4MOAYgF-eYOi5Pmk-xRdtjR96caziyxtdw6gZpizVZ5lb6-PUjPbImpeFzieGmGQaaabsFrUF4ebW1QEWGe7tHfBrgEVmb7O2UJxbmpERtPgFSmf4Xk7LZUEtDqVn-wDscEnoY2h5EDbRfIQoOYKwWU1J46ycdekPHykOlIDbT9LHrwBYBwWDxkPa84xbC0bgtQFQWAcORAaEXkdvKswoKnmluTFLuTNLXJh4p0vCgnUYpMyRa_tGeu_tDwvaxI3ADEB53eYoydj9jf2fJpnTX1XedDj7au1XF94NJlEzXNLD35oei9v5NGBGE2_xg5goDxh8fIFDaUSD4eDmv3aYhXYPRPkrU0_A0YzmsqqjjrqNlqR0-hA9Q0viaeq3ArNuHE_BxQf8ZwMG0ECgQHlwS3mckxH3W2SqjKgir-h",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7298125487&itemId=29298681196&vendorItemId=96227711874&traceid=V0-153-18e29e0ce2b36ab3&requestid=20261121033454915147312453&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:LG 퓨리케어 AS186HWWL",
-   "danawa_pcode": "123436887",
-   "model": "AS186HWWL",
-   "checked_at": "2026-11-21T03:34+09:00"
   }
  ]
 }
