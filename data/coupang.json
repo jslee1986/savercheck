@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-21T17:14+09:00",
+ "collected_at": "2026-11-22T01:44+09:00",
  "items": [
   {
    "id": "8391180879",
@@ -8,10 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "식품",
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
+   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8391180879&itemId=24963749598&vendorItemId=91994723799&traceid=V0-143-448691e2b5dbc33a&pt=0&slot=1",
    "source": "골드박스",
-   "checked_at": "2026-11-21T17:14+09:00"
+   "checked_at": "2026-11-22T01:44+09:00"
   },
   {
    "id": "8248049594",
@@ -23,31 +23,7 @@
    "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/01/16/4/13a37a4d-d69f-4727-b8b1-c96f29693f9b.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8248049594&itemId=24387609392&vendorItemId=91402616619&traceid=V0-143-ff3c3bef4143bc56&pt=0&slot=2",
    "source": "골드박스",
-   "checked_at": "2026-11-21T17:14+09:00"
-  },
-  {
-   "id": "6945179990",
-   "name": "착한구두 여성용 컬리지 퍼안감 숏 어그부츠 WTSDR4d250",
-   "price": 31900,
-   "rocket": true,
-   "free_ship": false,
-   "category": "패션잡화",
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/rxywwfvc/df58260a50824e1faa39eebbcf7db2e6.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6945179990&itemId=16854761867&vendorItemId=84033672306&traceid=V0-143-c4d9163cb7562aa2&pt=0&slot=3",
-   "source": "골드박스",
-   "checked_at": "2026-11-21T17:14+09:00"
-  },
-  {
-   "id": "9702486996",
-   "name": "26년형 틴도우 가습기 10L 타워형 복합식 UV살균 AI습도조절 앱제어 거실용",
-   "price": 125300,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/706b/377f03410fe959355f5ad347dba63219efb60fdc947b78154653ab55bcb3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9702486996&itemId=29025061638&vendorItemId=95952658981&traceid=V0-143-a3e18d466cd6d42b&pt=0&slot=8",
-   "source": "골드박스",
-   "checked_at": "2026-11-21T17:14+09:00"
+   "checked_at": "2026-11-22T01:44+09:00"
   },
   {
    "id": "9103835441",
@@ -56,10 +32,76 @@
    "rocket": true,
    "free_ship": true,
    "category": "가전디지털",
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/157326128054389-71fe8a31-00ef-4fb1-8f28-90e357efc9f3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9103835441&itemId=26764627248&vendorItemId=93735460470&traceid=V0-143-905ca070603cf64a&pt=0&slot=20",
+   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/157326128054389-71fe8a31-00ef-4fb1-8f28-90e357efc9f3.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9103835441&itemId=26764627248&vendorItemId=93735460470&traceid=V0-143-905ca070603cf64a&pt=0&slot=5",
    "source": "골드박스",
-   "checked_at": "2026-11-21T17:14+09:00"
+   "checked_at": "2026-11-22T01:44+09:00"
+  },
+  {
+   "id": "6585783381",
+   "name": "스윗홈 국내생산 개별 절전 과부하차단 컬러 슬림 납작멀티탭 콘센트 5구+안전커버",
+   "price": 32900,
+   "rocket": true,
+   "free_ship": false,
+   "category": "생활용품",
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/tinvzozw/47bbe1b1eaa443f1a83dd1dfe932b279.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6585783381&itemId=28639845455&vendorItemId=95582610006&traceid=V0-143-932db5aa682bb5db&pt=0&slot=12",
+   "source": "골드박스",
+   "checked_at": "2026-11-22T01:44+09:00"
+  },
+  {
+   "id": "9392378613",
+   "name": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤",
+   "price": 37940,
+   "rocket": false,
+   "free_ship": false,
+   "category": "식품",
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b644/1ba79ee7ac43d1f92b0ac28c5ec5dba00551024b2a98ec91ec6306425752.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9392378613&itemId=12932887739&vendorItemId=70393847077&traceid=V0-143-487643acbf1706d8&pt=0&slot=17",
+   "source": "골드박스",
+   "checked_at": "2026-11-22T01:44+09:00"
+  },
+  {
+   "id": "9799386181",
+   "name": "LG 코드제로 무선청소기 올인원타워 먼지봉투 3개입 AX920BWE",
+   "price": 41200,
+   "rocket": false,
+   "free_ship": true,
+   "category": "도서/음반",
+   "image": "https://ads-partners.coupang.com/image1/VVrpPTQU2gQLsNEKVbrma7pclbKbERVySUiRJ3SG-pX7jxPudYQdLY0iWEdTmxmGMH3p0Xb0qnI5lPYEnnnO2QU-U9q-Ma_PmEsy92sB2kfRt2OBP6SFmHyWVn9DlouQf6qG8zZpYKjnBSHtZ7SsC71LA1eckyxNIzuXIiRS-vurWkoa9qdrCYBxgbFW-MUdsqMWjuF5--ydvf3a5FnOubicZYkT2eG2a262TjrG1nna9t1keJd57XKF9Ngp59R28isL8-uvVVr8sYPpVOZWfZmVAOOPho7FFZnGilUj7kfMwYerVu0Ibpy4iH61h-RC3XVJGhnbeV3E_pnHku8KBwYBGfx_Mg-_kaF9gM0T_mDGku8Uk8riiRJ5doLmrHjWF4hKAVtNQn7Wh3USpS12SQPBrgyaYy7ARw34XKwbd1h3HzLh2IROmr3IAqUTO0So6gJZkLYNaN5XQDMsONEVawMFsllbbaWATZp4ASGguMBsmKGz7cKa3zDMm8V2q4nR-9bnpWidXJyF64jYS93HzzYHOhYbLUxbCutcxo7Ygq0L8ZaibPlIGDLisoyF",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9799386181&itemId=29342882131&vendorItemId=96118998081&traceid=V0-153-bfbad550c15ca09a&requestid=20261122014434183015185253&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:LG 코드제로 AX920BWE",
+   "danawa_pcode": "123436555",
+   "model": "AX920BWE",
+   "checked_at": "2026-11-22T01:44+09:00"
+  },
+  {
+   "id": "9801631057",
+   "name": "LG 코드제로 오브제컬렉션 A720WA A7 Core 무선청소기",
+   "price": 593100,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/uM7I2L3s6MZkmTQFuIIU6eyvVngFDlpa77qcKbvZgM1-HBqzWiypKQUGR3ao8VHlKrX68vdFr460cPYN9NghaPruyQG6_3BbgV7xjWy7wb6qr_AERRPLpH4oyJNfv_nl9YtNEFcex50YvuZ3d-OoYZ8BnNf9NnB-7LvuwUHBPCjGcTzZf7MyEx9A3_KNkAH0UAklLnowY4maCOOi7-npLOksreJoxANzCsPnKbxmBEukEXBHCkOFg3vcze-jYvF9ttHrDJGbAQ65kRl2CpAdl5Ey4iPRDRBwB7FRVmWbPWyMS68d5zyhg5ALw94b0uzHsY6SJF9I3RyzlVknR8gW9HHL_ljF-KYiC5KFUS4COo8vGh4yZWFGFGmaGRYCI1imy2Jy0oppAmrYTzwHBz1nKqfPEnQug6hJhgrtMDp1DTMAUjT0-ctTiYpG6wHgsbxIyH0W-eiRs5TyIeOaSRRV94v6--JybZlJTmaXxWq1wEJsPSzAb8yHpvBxOIr_mIwTO51oPI2eT-TWFv6UgrswHszXM_cfO3Rc0F4u0UBgc6Z9DwBdirtMHDRCLn2nmA==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9801631057&itemId=29350366518&vendorItemId=96263551535&traceid=V0-153-75815c57719499d9&requestid=20261122014436528070406080&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:LG 코드제로 A720WA",
+   "danawa_pcode": "123774957",
+   "model": "A720WA",
+   "checked_at": "2026-11-22T01:44+09:00"
+  },
+  {
+   "id": "9724972673",
+   "name": "LG전자 코드제로 A5 A520HC 흡입전용+컴팩트타워포함 에센스화이트 / W",
+   "price": 569000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/aR2HZ6lSxLM7jVZTac9HobcjOITxa7rzMb7PCwnJan3N41BunjeW-JpAPZfqN_9h5jSYg-PUpEM5H8Be4t5l0YgZT9pI-T9spPw5izF9suZETL4QuDpA94EU4Cym7S0_Dx0RWDkTEkQ13_AjbGmHoAXzLHdljpxS31YksHJyu6MwWCJ44UE5CveSe_NrE5iaWyYsoKJq7ySrV1crSje1iPrwB-EGg53ABw9NAXb_lA8XcuP1dIWS-e6NIGuPe9qZQePxTBJuaQ0ejgzzupvTfxAq9Z6PAynr3m8imy1Q3z67nphvlc2wURk_pdOtjy-IJaia9MBeByNpEuKL6l4O-OQ1918mz31cbmpofGurhpInQmN0PiaazjT362f290_9JxSsrzPI8SxrwktyDuYNWFgwYPlyIhKtT5drEm0tEGe5ae1eLwss16G12Ho4dWQ9cBOcmcyf8WN9MYJvbB1HU07hifcSrQ7dozt8NbKV1ADMzrHpsmMWbm8LKokO1K1OcbYnpPOlgBd_ADZwLpF6dWRd-knQSrewza_SzIVDYjDUc3ol1J3IP7pJiAVt",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9724972673&itemId=29102321874&vendorItemId=96085517310&traceid=V0-153-36b0a187f719c7a1&requestid=20261122014441311293738257&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:LG 코드제로 A520HC",
+   "danawa_pcode": "124298640",
+   "model": "A520HC",
+   "checked_at": "2026-11-22T01:44+09:00"
   },
   {
    "id": "9795251783",
@@ -88,90 +130,6 @@
    "danawa_pcode": "108365732",
    "model": "AV20F11",
    "checked_at": "2026-11-21T17:14+09:00"
-  },
-  {
-   "id": "9831004676",
-   "name": "필립스 1000 시리즈 전자동 커피머신 EP0820/00 가정용 에스프레소 머신",
-   "price": 422400,
-   "rocket": false,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/8e1m4AM4N9CU7SIl8TZoyw5ZiX7oPhX9BcrMylurINR-K0QjOop84aBDbtR6Ucvti5pIgvv_OIMTRputWhnvcCnZy4I1esA18goNoPFUYOGzRVUYYW3nsOVYNFYfqQxO12rLscLVXSRbI5HvMOUkulU6LnybV0hC9_hhTuEuhk9fiWKUNCfhzI-CK1IsXqLjGlTUIJ7ECsFxwICjQb0vuHAipbh5meKOg4R8CxGSmmG_Sj9ZiiaawgGbMd-_aifoZYNNvEhe03Yeggn6CkuuEQjAiCavPpA085arfqRTmbLoTDT_z-ijn-n0K7iFWldQyvQjrH-LhbZKe3oKO8fQ5Ml3O6Zbr4M8z0E2XcyGu1Slgwz_O2N97EdT33H6DRFmox9h2r1hek8jNzelB3emeYYCzAa6SXeqiQBy56oQk1suZkYxJu3LLgPzFLJlJlZ97b7kXPweKB6bVOwmVUFoVOBHw3UxitDSkEBcwG4ill_Yrd_TImzSInme0-jayhtsIv_cN8h1b5SaGIDTzdPG9fLTZA44rNsPYoLaqMUE8DsCRZIpH3vphp9W7PA=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9831004676&itemId=29445887852&vendorItemId=96355244274&traceid=V0-153-a09080a5afebaa12&requestid=20261121122858075227167220&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:필립스 EP0820/00",
-   "danawa_pcode": "99745514",
-   "model": "EP0820/00",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "9797526416",
-   "name": "필립스생활가전 필립스 1200시리즈 라떼클래식 EP1220/19 매트블랙",
-   "price": 695000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/NkKia8ktrVsVOeyONlXcEmG6PlK3Rx0tkd7gpPzuNs8eXlFQgNtNZrWPfecI5AlZcgWenrJCRJNOYtC47X35QpJIJMKXkSd0e6x6WsZiHbgk697eMCsXIYTq72LeHNw52vAvAL2OenkX-LR_LGXMbBJiHw0AFHbo_Dy-Kx83tCay3kcF0feOWBjP_aXkfsgNbL9D0aSpbLckVC7f6JxxKnhdPpSZMLIvrHCgr1lQ-A-7jTGb3GdRWQHxdYOKomiZ-SFSfqvDsSmbrLSQqEGbCCd_1QtGbm6rH2itg4n1joHjWv-9S9hmclMa7KXxr_jBkn6VLWEnzCWQ_XjWmDzGVo-hKeF7s7840-X6GsH8najoJWTvy5rzJsegzjBQvVFQS_ItbL5ErR8SGWOju7esbY_U_NurR5yEdqz9VcKt77rIzRNFo6X_NVAgGwD-92V4Oc1DdXS8Qpm7N3P2OECwvawOVReT31_K1fTDRMOrR7go9F4wu2KHJe8parv8NSa-3Y5SYMiIPXzv37Fja56kmeRl67t-A7yTtS_kSgYl0JiWYkoPqp2HDvGkq6Q=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9797526416&itemId=29336912647&vendorItemId=96250522108&traceid=V0-153-0d5669cebb99256f&requestid=20261121122901272291996995&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:필립스 EP1220/19",
-   "danawa_pcode": "99837338",
-   "model": "EP1220/19",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "9494361908",
-   "name": "에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-   "price": 151900,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/PxcJaZn9G_4_Ul6_Pw6O_1wTRsJlKbBn0GWHpMzLc_NL6VxjD4rQG34JadwWw_y1NaERhhwTGG4BFAOUYEQSDY_6cCj9TvW5dApzeYYMPqWdgZ_ZdtHDg0u3ENl9bBi1KGiBJsiI-rqMimIZ_Oar0XNSDCGLMb_ZVM1vrHxm36fCK4hgpDnwhrLcorZ31km-n13vf4FqalWCm_GequyJgv_aGb-i9BY0TTy8IcK7h-lBhZJsZzQESizsf_qHQntpkdjPoqImXW31UELVRLhB13rifqA5sTQf-uR3Aq2bbLjvAiOgfP2-c7-1N-f-SKHCM00qNPJYW-r_a7k8Du_7H3dEscXjipNrHsq_MgmrHOXvG9GKt4iITyXp1Znm93XZT4TAnoVoxC9bDPdEwVqQMYdEQRDSyghgIqaAFRd_pLJZj7Ysbtqg9QPUJsmdycm0OeXLtuYf6UCOyVchshbHOe9CdHDUippf4rqshY4iJ2eLh-WlZWwU10dYrbqF5CXPRXsJoMRB1rwr6alcNdYfVo_HmtZh3skFfsWtnokKQukFKmI8jvlGCvCY",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9494361908&itemId=28279796926&vendorItemId=95232821342&traceid=V0-153-c8b1cb23a9ba7cf2&requestid=20261121122907965164034542&token=31850C%7CGM&pt=0&slot=2",
-   "source": "관심:필립스 NA230/10",
-   "danawa_pcode": "124568601",
-   "model": "NA230/10",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "9831549160",
-   "name": "에어프라이어 필립스 보이는 6.2L 대용량 투명창 NA230/10",
-   "price": 192700,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/bLXL2jGrvFfq_2ysbPC5c5LXljY5jALgmgOioNQ1R5LbWcfV5C6wYfkjgo7AGIkYw4goFtWAQKPusGwYLKBLat85WrWk1qAYr-4XsZ39Bk2X4TzAqn8tPurSrYEHzbgKU1xto2_hIBIrHtmSVFOPUKGKynxZN9UdmNJjbnSD9nA1rV34q_gqz2SmnK6jrC-eWyvxZGeNaMu6uTN-tpQNNqyq8UiJmwtySQMnNEDUg9XHrw4gRLNB8fIuQpIw9S3oWhP_FwifmsNwx_Ctpea5fCAKqIBFP8dN5xaar0CCemFT7-gQYbEo219_tAB6RA7aRH1t3g1EMf-M3M8ArHuWELt4DbkTlczRIQP1VGIr2jarvSifK8Mh-uLUnos6Gp__WU8QRjdcZ-QmafFZ9ZQyCjrisGKNGSG4n_fOIacK1VNVCLdmN4rZaMpqqy8rKGUxFkejS8ZECSZ9DYf1Ej-3zJe-7gPvcfx48GCCuv6Vmq7BwoU3THEBJ6VJ5EW03sMZgu7WUKyGLBcpvUZWCTfDasgqK9l-HSUSoepvc8Znd07TcXSNVZ6xSImM",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9831549160&itemId=29447700996&vendorItemId=96249930773&traceid=V0-153-a6ac1fe63d240fd6&requestid=20261121122907965164034542&token=31850C%7CGM&pt=0&slot=3",
-   "source": "관심:필립스 NA230/10",
-   "danawa_pcode": "124568601",
-   "model": "NA230/10",
-   "checked_at": "2026-11-21T12:29+09:00"
-  },
-  {
-   "id": "6714055840",
-   "name": "드롱기 전자동 에스프레소 커피메이커 ECAM22.110.B, ECAM22.110.B",
-   "price": 509000,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/fnqIhV3qpNmE-OS_fmzbGo5ET4sWe7Yt2BgNZZ4hHAIOmyUurZXtdtBzBhyQSBamJusBXLWhPmeP9I68oCN4SaqLba4IRwnHMW13OoVh-UG4l9YNfuss58VcKSZ4o_rynv6aL_k75FRaQyHKfrqAKx2X0wIDWljPpJgpeiFJ-aUiZjUInzAEJZ0ohk4AJeggiXvm_xVF3zK9H1zFH9QGiakJ2vP_J4_KKVQLaKcX9E_pHbafEJUdiYuiWP4qCVICDNeZmYRXOrUhvjzxsGUXlG7rNVl3M9mb3LyzmCZcJ4bwu93vBwU8nGO451yvxM6OI0YdeMrnKd1jyrUZ4CQ-yraMd1Qy-Q5MGvPDuSpKt_umC5rMyqZ7pSz7hT0nR1uzxZSR1LANHQ_D60JLThz-O2dQ8A9VQiA6rYDArdtM6yu35gT6yubSbLmhSNnEdJjgn3sFZNcizBNzIVMR6-jnGBYJNXfelDtOZfa9W3E31UQjh6zdlNWn-DH2LzPjmWkfKTXud5nsSMXY4-Kjy4jzKLxywLJsuUHRqYs=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6714055840&itemId=15596625884&vendorItemId=93446566546&traceid=V0-153-270f21b0b86d33ff&clickBeacon=f3ad8c50-e544-11f1-9d1a-28e2ca697efb%7E3&requestid=20261121094613248147311403&token=31850C%7CMIXED&pt=1&slot=1",
-   "source": "관심:드롱기 ECAM22.110.B",
-   "danawa_pcode": "4808917",
-   "model": "ECAM22.110.B",
-   "checked_at": "2026-11-21T09:46+09:00"
-  },
-  {
-   "id": "9452921570",
-   "name": "드롱기 디나미카 터치패널 에스프레소 전자동 커피머신 KRECAM350.15.B, 블랙, KRECAM350.15.B",
-   "price": 679000,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/eZ515addSdF25S4meYElVW3KUm-qAW4nrZ1UR3Fxd7cwz0FRT-kRnJ7bZuXF4r92dgIM7nTlFlAg0wFundhc3hqL1ik34u4QxG1YzgtEIFJtCFA4jOK45H0zF11qJvba0f5AvWKXU2LAwZEMLkq5fxDznXJbSDNKsmRspEYKNcH_DSqmHrYVQpm5kz5eeGYHzrOKelBEHbWj8imFa9Kkk2ThJubrjgaCKB1EehmGLL7xrj3zlTMm0BlT_glkX4kYwJZcaecAMuaBNo5lk6sByaqcon44gkSUQS7UuNfUNjLJobOK1eyron7yP_XwgX10TTf_RqK2sB7qhtfI5uggMxPH5leyuIT5nCj2knUaa7nu8iYz0-e5RdksnMOiIcBaGTDkiiHPYGkI25eU233P2qG711YkxnN6aTGYLfJXO1BXJFFM0fagexWJJkNujfvqsyVXfWes-qTaGeJgF_9-elzs6XzlYKio7EQhCt9lz8ScuL_GHicJ1pS5yJlwdE8QqhEyo5mLyLzZ8eeDx9IxLqQHHXUnx1Ekdok6TOUsRTB3FTlFVdcp4v0BCs87IqgDQF4pGvqD1IaCsXh45iJX41CGlCwh",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9452921570&itemId=28122882511&vendorItemId=95078659113&traceid=V0-153-61ea12d74227e1bb&clickBeacon=f51dbe20-e544-11f1-9575-15f5ce2abd02%7E3&requestid=20261121094615742030510575&token=31850C%7CMIXED&pt=1&slot=2",
-   "source": "관심:드롱기 ECAM350.15.B",
-   "danawa_pcode": "18155051",
-   "model": "ECAM350.15.B",
-   "checked_at": "2026-11-21T09:46+09:00"
   }
  ]
 }
