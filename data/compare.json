@@ -45,11 +45,11 @@
   "other_min_shop": null
  },
  "9494361908": {
-  "checked_at": "2026-11-21T13:56+09:00",
+  "checked_at": "2026-11-21T19:56+09:00",
   "coupang_price_at_check": 151900,
   "danawa": {
    "pcode": "124568601",
-   "name": "필립스 NA230/10",
+   "name": "NA230/10",
    "cate": [
     1,
     28320,
@@ -152,11 +152,11 @@
   "other_min_shop": "옥션"
  },
  "9795251783": {
-  "checked_at": "2026-11-17T13:57+09:00",
-  "coupang_price_at_check": 181000,
+  "checked_at": "2026-11-21T19:56+09:00",
+  "coupang_price_at_check": 176470,
   "danawa": {
    "pcode": "32156642",
-   "name": "쿠쿠전자 CAF-E0810TW",
+   "name": "CAF-E0810TW",
    "cate": [
     1,
     28320,
@@ -166,21 +166,10 @@
   },
   "malls": [
    {
-    "shop": "G마켓",
-    "price": 116490,
-    "delivery": 0,
-    "total": 116490,
-    "card_price": 114490,
-    "card_name": "삼성카드",
-    "member_price": null,
-    "product_name": "쿠쿠 재고보유 CUCKOO CAF-E0810TW 8L 터치디스플레이 에어프라이기 미개봉새상품/택배발송",
-    "match": "높음"
-   },
-   {
     "shop": "옥션",
-    "price": 116490,
+    "price": 116290,
     "delivery": 0,
-    "total": 116490,
+    "total": 116290,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -188,10 +177,21 @@
     "match": "높음"
    },
    {
-    "shop": "11번가",
-    "price": 118480,
+    "shop": "G마켓",
+    "price": 116290,
     "delivery": 0,
-    "total": 118480,
+    "total": 116290,
+    "card_price": 114290,
+    "card_name": "하나카드",
+    "member_price": null,
+    "product_name": "쿠쿠 재고보유 CUCKOO CAF-E0810TW 8L 터치디스플레이 에어프라이기 미개봉새상품/택배발송",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 116300,
+    "delivery": 0,
+    "total": 116300,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -232,7 +232,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 135000,
     "delivery": 0,
     "total": 135000,
@@ -243,7 +243,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 135000,
     "delivery": 0,
     "total": 135000,
@@ -255,8 +255,8 @@
    }
   ],
   "dropped": 3,
-  "other_min": 116490,
-  "other_min_shop": "G마켓"
+  "other_min": 116290,
+  "other_min_shop": "옥션"
  },
  "6344348969": {
   "checked_at": "2026-11-17T07:55+09:00",
@@ -286,8 +286,8 @@
   "other_min_shop": null
  },
  "7855749856": {
-  "checked_at": "2026-11-19T19:57+09:00",
-  "coupang_price_at_check": 328400,
+  "checked_at": "2026-11-21T19:56+09:00",
+  "coupang_price_at_check": 328390,
   "danawa": {
    "pcode": "108365732",
    "name": "스팀쿡 마스터 듀얼스팀 AV20F11",
@@ -300,6 +300,50 @@
   },
   "malls": [
    {
+    "shop": "SSG.COM",
+    "price": 325710,
+    "delivery": 0,
+    "total": 325710,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 329000,
+    "delivery": 0,
+    "total": 329000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 329000,
+    "delivery": 0,
+    "total": 329000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 338530,
+    "delivery": 0,
+    "total": 338530,
+    "card_price": 321610,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
+    "match": "높음"
+   },
+   {
     "shop": "11번가",
     "price": 338530,
     "delivery": 0,
@@ -308,28 +352,6 @@
     "card_name": "",
     "member_price": null,
     "product_name": "풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
-    "match": "높음"
-   },
-   {
-    "shop": "GS SHOP",
-    "price": 338530,
-    "delivery": 0,
-    "total": 338530,
-    "card_price": 314840,
-    "card_name": "삼성카드",
-    "member_price": null,
-    "product_name": "풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 349000,
-    "delivery": 0,
-    "total": 349000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "풀무원건강생활 풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
     "match": "높음"
    },
    {
@@ -344,36 +366,14 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
-    "price": 352698,
+    "shop": "옥션",
+    "price": 349000,
     "delivery": 0,
-    "total": 352698,
+    "total": 349000,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 356260,
-    "delivery": 0,
-    "total": 356260,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 356260,
-    "delivery": 0,
-    "total": 356260,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "풀무원 스팀쿡 마스터 듀얼스팀오븐 에어프라이어 20L 소이코튼 AV20F11WG",
+    "product_name": "풀무원건강생활 풀무원 NEW 스팀쿡 마스터+ 듀얼스팀 오븐 에어프라이어 20L AV20F11WG (소이 코튼)",
     "match": "높음"
    },
    {
@@ -389,8 +389,8 @@
    }
   ],
   "dropped": 2,
-  "other_min": 338530,
-  "other_min_shop": "11번가"
+  "other_min": 325710,
+  "other_min_shop": "SSG.COM"
  },
  "9753794706": {
   "checked_at": "2026-11-19T19:57+09:00",
@@ -1906,11 +1906,11 @@
   "other_min_shop": null
  },
  "9797526416": {
-  "checked_at": "2026-11-21T13:56+09:00",
+  "checked_at": "2026-11-21T19:56+09:00",
   "coupang_price_at_check": 695000,
   "danawa": {
    "pcode": "99837338",
-   "name": "필립스 라떼클래식 EP1220/19",
+   "name": "라떼클래식 EP1220/19",
    "cate": [
     1,
     10901,
@@ -1920,10 +1920,21 @@
   },
   "malls": [
    {
-    "shop": "옥션",
-    "price": 337390,
+    "shop": "11번가",
+    "price": 336420,
     "delivery": 0,
-    "total": 337390,
+    "total": 336420,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 1200 시리즈 라떼클래식 전자동 에스프레소 커피머신 + 밀크스팀봉 매트블랙 EP1220/19 /더가전",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 336430,
+    "delivery": 0,
+    "total": 336430,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -1932,24 +1943,13 @@
    },
    {
     "shop": "G마켓",
-    "price": 337390,
+    "price": 336430,
     "delivery": 0,
-    "total": 337390,
-    "card_price": 335390,
+    "total": 336430,
+    "card_price": 334430,
     "card_name": "하나카드",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 337620,
-    "delivery": 0,
-    "total": 337620,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 1200 시리즈 라떼클래식 전자동 에스프레소 커피머신 + 밀크스팀봉 매트블랙 EP1220/19 /더가전",
     "match": "높음"
    },
    {
@@ -1975,7 +1975,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 366640,
     "delivery": 0,
     "total": 366640,
@@ -1986,7 +1986,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 366640,
     "delivery": 0,
     "total": 366640,
@@ -2009,8 +2009,8 @@
    }
   ],
   "dropped": 3,
-  "other_min": 337390,
-  "other_min_shop": "옥션"
+  "other_min": 336420,
+  "other_min_shop": "11번가"
  },
  "9452921570": {
   "checked_at": "2026-11-21T16:56+09:00",
@@ -2682,11 +2682,11 @@
   "other_min_shop": null
  },
  "9831004676": {
-  "checked_at": "2026-11-21T13:56+09:00",
+  "checked_at": "2026-11-21T19:56+09:00",
   "coupang_price_at_check": 422400,
   "danawa": {
    "pcode": "99745514",
-   "name": "필립스 EP0820/00",
+   "name": "EP0820/00",
    "cate": [
     1,
     10901,
@@ -2697,9 +2697,9 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 282190,
+    "price": 282150,
     "delivery": 0,
-    "total": 282190,
+    "total": 282150,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -2708,10 +2708,10 @@
    },
    {
     "shop": "G마켓",
-    "price": 282200,
+    "price": 282160,
     "delivery": 0,
-    "total": 282200,
-    "card_price": 280200,
+    "total": 282160,
+    "card_price": 280160,
     "card_name": "하나카드",
     "member_price": null,
     "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 정품 KJ",
@@ -2719,9 +2719,9 @@
    },
    {
     "shop": "옥션",
-    "price": 282200,
+    "price": 282160,
     "delivery": 0,
-    "total": 282200,
+    "total": 282160,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -2751,7 +2751,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "SSG.COM",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2773,7 +2773,7 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "신세계몰",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2785,15 +2785,15 @@
    }
   ],
   "dropped": 1,
-  "other_min": 282190,
+  "other_min": 282150,
   "other_min_shop": "11번가"
  },
  "9831549160": {
-  "checked_at": "2026-11-21T13:56+09:00",
+  "checked_at": "2026-11-21T19:56+09:00",
   "coupang_price_at_check": 192700,
   "danawa": {
    "pcode": "124568601",
-   "name": "필립스 NA230/10",
+   "name": "NA230/10",
    "cate": [
     1,
     28320,
