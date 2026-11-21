@@ -1,65 +1,59 @@
 {
- "collected_at": "2026-11-22T01:44+09:00",
+ "collected_at": "2026-11-22T07:10+09:00",
  "items": [
   {
-   "id": "8391180879",
-   "name": "뉴케어 올프로틴 고소한맛",
-   "price": 41320,
+   "id": "9507114885",
+   "name": "뉴트리케이 파라다이스 그레인 버닝컷 6파라돌",
+   "price": 47320,
    "rocket": true,
    "free_ship": false,
    "category": "식품",
-   "image": "https://t1c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/204879581581266-6bcc48b3-9192-40d5-bab2-8daa2c5b42a6.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8391180879&itemId=24963749598&vendorItemId=91994723799&traceid=V0-143-448691e2b5dbc33a&pt=0&slot=1",
+   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f5f7/1ff5790622a51d0b9eeef918fef1c979e4d49bc1adab4a77dec7e1935e6d.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9507114885&itemId=28328574241&vendorItemId=95323261930&traceid=V0-143-cc577cd42b73b2b8&pt=0&slot=10",
    "source": "골드박스",
-   "checked_at": "2026-11-22T01:44+09:00"
+   "checked_at": "2026-11-22T07:10+09:00"
   },
   {
-   "id": "8248049594",
-   "name": "브랜든 2세대 부피순삭 의류 이불 다용도 대형 압축 파우치 2매세트",
-   "price": 101000,
-   "rocket": true,
-   "free_ship": false,
-   "category": "생활용품",
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/11/01/16/4/13a37a4d-d69f-4727-b8b1-c96f29693f9b.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8248049594&itemId=24387609392&vendorItemId=91402616619&traceid=V0-143-ff3c3bef4143bc56&pt=0&slot=2",
-   "source": "골드박스",
-   "checked_at": "2026-11-22T01:44+09:00"
-  },
-  {
-   "id": "9103835441",
-   "name": "하이얼 다용도 컨버터블 310L 스탠드형 김치냉장고 1등급 방문설치",
-   "price": 800850,
+   "id": "9609807293",
+   "name": "삼성전자 Bespoke AI 스팀 울트라 자동 급배수 로봇청소기, 새틴 그레이지, VR90F01SAG",
+   "price": 1690000,
    "rocket": true,
    "free_ship": true,
    "category": "가전디지털",
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/157326128054389-71fe8a31-00ef-4fb1-8f28-90e357efc9f3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9103835441&itemId=26764627248&vendorItemId=93735460470&traceid=V0-143-905ca070603cf64a&pt=0&slot=5",
-   "source": "골드박스",
-   "checked_at": "2026-11-22T01:44+09:00"
+   "image": "https://ads-partners.coupang.com/image1/1v-MJGpYARvasfId1lQ6TjBZYRJoAQcC89iYwv5h-uvEgd9z-XA7TZpDqRgCRKnWfW8fV1tbXypd_T6CvLD3VqIRCSMUEWF_y-zkKPqG5eBnNH-P7d8HJN6FHrHylpeUOaE4OMuwtYmbdx6cIJizB-e-GgvI6bl8QPboWtEjh09fo7y78CpSwIv3HZvuK9r276u3LHB8o3S6G664z_JkWKlezs60qjTIxIXAWvoAl3WhjHJXopEzS_yYd33jQ1NuuTpD8tsZdhlvv8mCP6f-ZYYJgWiRIrtqmLqWXh91SinBNOO7qzOEwyZ8nyu192up19JEgikMUk5YXyQsPIckEgJUeoOgGQ11GpWgZKU0_M9gkkq1qmdRD9czeZn02hWwZ9zETbZplpPobEmG9xqP5SSCJu_79yPZ0nTJDGcA2BcOGmwt8E09quj_UqxVAXseLzIrklW8hQqBoW8rcYOFiFs43NvCst_7xd0Q8k07YhpykpMinHtnugT4RjsoD-GfAGG5MhJhaTnzOMTMAZpTYtsCtQ==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9609807293&itemId=28690014584&vendorItemId=95631370073&traceid=V0-153-8ef526c99a49494e&clickBeacon=51fecfe0-e5f8-11f1-a745-f2759310284b%7E3&requestid=20261122071011496259076578&token=31850C%7CMIXED&pt=1&slot=1",
+   "source": "관심:삼성 로봇청소기 VR90F01SAG",
+   "danawa_pcode": "108367196",
+   "model": "VR90F01SAG",
+   "checked_at": "2026-11-22T07:10+09:00"
   },
   {
-   "id": "6585783381",
-   "name": "스윗홈 국내생산 개별 절전 과부하차단 컬러 슬림 납작멀티탭 콘센트 5구+안전커버",
-   "price": 32900,
-   "rocket": true,
-   "free_ship": false,
-   "category": "생활용품",
-   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/tinvzozw/47bbe1b1eaa443f1a83dd1dfe932b279.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6585783381&itemId=28639845455&vendorItemId=95582610006&traceid=V0-143-932db5aa682bb5db&pt=0&slot=12",
-   "source": "골드박스",
-   "checked_at": "2026-11-22T01:44+09:00"
-  },
-  {
-   "id": "9392378613",
-   "name": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤",
-   "price": 37940,
+   "id": "9445151005",
+   "name": "삼성전자 비스포크 스팀 로봇청소기+액세서리 키트 VR90F01SAG98AS",
+   "price": 2900000,
    "rocket": false,
-   "free_ship": false,
-   "category": "식품",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/b644/1ba79ee7ac43d1f92b0ac28c5ec5dba00551024b2a98ec91ec6306425752.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9392378613&itemId=12932887739&vendorItemId=70393847077&traceid=V0-143-487643acbf1706d8&pt=0&slot=17",
-   "source": "골드박스",
-   "checked_at": "2026-11-22T01:44+09:00"
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/iinB6AlfHd56-Cg5ioZiaMv2xGf61jVU4rM5byrB8bdJhxT2IvASk792txYfzEnlWfezTzUhspN82qVDasR8K79wfBhs3ZytDf-AEDteVr6SItFL4pZFXNeawdvVog7wH1O8CPbi9NvBNvdJrKqbUs5QzZ5YClAHixwt9ep7zuBEtddN0x-jW1iJqpJ8waY5WO3OqcnfIJ5sBxWZRv4d8nWOT_3xAMglYZ1nM5fA_DtscXu8N_Yklj39QSLYV6q5gIenbjs4imtRM1oL5L9el6Sd0lNcTWe9ipV3fgkjO4tvV2gW_dkgKRieiepVur_e_nQGTl055ArBl7Cs5toCSpR0KLNOin6Ys9ZcNqMBb-UOFAD8b_AXBsx-yet0i3OJFj4NL84yJYbJozsGIJKRUwwO4TcynlDYXjE9nVWGpON8ePFHzC61csHtDaGy6CAWa3IoY1gksJ7B4Ueln7DVT_ozRStKr1otPl0_dHcX_EzwS_8BLInwGZuFt1oDw_iCddaz3eZ2sjeMVcgu3tPewR5Mhw6UZIqKdv2Ph6qbn2lb29yQ9C_66UfDWbE=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9445151005&itemId=28094657152&vendorItemId=95050263155&traceid=V0-153-2f579b84c3dbfe51&requestid=20261122071011496259076578&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:삼성 로봇청소기 VR90F01SAG",
+   "danawa_pcode": "108367196",
+   "model": "VR90F01SAG",
+   "checked_at": "2026-11-22T07:10+09:00"
+  },
+  {
+   "id": "9072150510",
+   "name": "실시간통역 우애스크 익스펜션 에어팟4 번역기 (MXP63KH/A) AI 동시통역 이어폰",
+   "price": 262200,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/6uDza3dUAlEDW-if6gJ8Y1LlIkIPdO2buN5ZVpdW2BRDilBHxL4VHDZqWkFcizgfDeyHxK1_oPfGw8zoofSVGNe1VJB48bkvKVWk463TrBazQxmbm9AF_pebmjTSlOHQ1DNJQfrrLZ1Wf_IJ9XuW4YwiBgbsGsFqiOh3c0TzmcCSRpyZaX5VQTrpposEA4WAgVKig0CxyuIrCS3819asMo7d_s5KWPvzta1t02mQSVuDbqBskB_rqaiL4nJZuZyWueYJUqiOPwHhqNU0X6ZZk4douG2gy71M5ditX8Vzk18NKmO-sgO_F16MgkKGFtpyR1aT-HUjBjnyCdk0qBT-7QY9tAPBEURIBR-W3ew1DronZe_LGFXmKJLnh3AcwQX14ZBbIRHdH-777Nb7GpA93SWLlBBmnOwlFgec7lKfDJ7Euy5JRyXk-JGEVGsA9Xk4cHPLObecbudAcY2Bzo_q5s0nSVoRiwonYM_ZfEmf-aJk_wtXpg-qvgfbb-9Ya1jklvTVdqToO9xjqc0fRFDEWaPAfUCaEzcr8udRg-XPMLwJrN9skUhraSE=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9072150510&itemId=26643948017&vendorItemId=93616600880&traceid=V0-153-626f5f41a4469e2d&requestid=20261122071016540226948667&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:에어팟4 MXP63KH/A",
+   "danawa_pcode": "65920016",
+   "model": "MXP63KH/A",
+   "checked_at": "2026-11-22T07:10+09:00"
   },
   {
    "id": "9799386181",
@@ -102,34 +96,6 @@
    "danawa_pcode": "124298640",
    "model": "A520HC",
    "checked_at": "2026-11-22T01:44+09:00"
-  },
-  {
-   "id": "9795251783",
-   "name": "쿠쿠 에어프라이어 CAF-E0810TW / 8리터 AIR FRYER / 8L 대용량 바스켓",
-   "price": 176470,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/SODXty715ycfpDwVSD528AUOgpXlLqGZcmuOHJnamaVndqDJMrmlqKuhDUk3dKRbuZi1IqrertJEuVb1b9pMkIqp6NGZv6-DuhRsOLH0A02XP9J50jeONQWBaYEtSgZjFmCB4Pg3jiNgnEj2FNbo5TOyJfXhbYKtIAuNhqR_rg849gbP_hHOukCjD781LLBIypq7cmdvPpN6W2r_W5-7iU396XlHF_l1FQVRa8e6f5rb7218cdVBi8PNsNDnApXUJcQ2K7KJLuEDosDukt7maWjcOaywAeVfl8JlDhEf7q2RehNihbJBwAMh-8vH85Z5ZVRwnHK3W5wOg_77zg-v1DYQVt8QvAfqWeKSnH8-RnHQAMKSTbNX6dOYNz-U9qEOyRTCx-IcP56ZDuq1CKrzftFE9uINQHwu7zpXV_-13UzBNX5V24ZVAVJnHiJumbe7ibE4qHKV5SzcFq6ScB1Dr8dtNzSetEHvEQGlXHsfwtd-ZXm1dHiL_lwuEHlMoPXkVvUvSG2fw-WeA4myuMCjOHKlCec6AegnCOB_LK84kP3ATKGPwcSsQnYFvD4G7fOOfsVLJiR-b7EGxAeB5_G1bowcKH67OA6denyi0YfL2jAxDuaHc6Y=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9795251783&itemId=29328888326&vendorItemId=96356034038&traceid=V0-153-dde0de068f1f1f4d&requestid=20261121171437079174003429&token=31850C%7CGM&pt=0&slot=1",
-   "source": "관심:에어프라이어 CAF-E0810TW",
-   "danawa_pcode": "32156642",
-   "model": "CAF-E0810TW",
-   "checked_at": "2026-11-21T17:14+09:00"
-  },
-  {
-   "id": "7855749856",
-   "name": "풀무원건강생활 스팀쿡 마스터 플러스 듀얼스팀 오븐 20L, AV20F11WG, 소이코튼",
-   "price": 328390,
-   "rocket": true,
-   "free_ship": false,
-   "category": "주방용품",
-   "image": "https://ads-partners.coupang.com/image1/KfbMTfacR7SQAHmHKb8Ax_VlL0V-MwudXgzYtvx2KvxiUylGatvrbaQM33_d7N9aHpK-DQRrmeC-e9pZPAEclHTFbHK3hwun0iIIw4bWGiAFyr8MKHFlYnUQknKDK91In563lfz0ys_DPUt7ThbckTIdYOnSP9oYqpPfsZOlKVdH76DycCY1EYKGLvCJmT7DnLse23LE4St8CRvPvZ0qElFSvKe-8jtmVD7X1InSAavU-MJhAAQgET0kMObylj6zbQHMKO0ah5QsmIIUpFTniHIrCkpoaok9oJV9cXzNItN8mZ0MahB-EQ4PNHvWuU3DNB63WpIzIII3VgspIwyC1sIu8qenH0vEOS59SJqfcrNRm7soCJ5kZ4m-R4WsxjRgFOPt7KvON4GlPcYi5pnj6pdqv3QXK1XxrHythythAIEei3KC3HjHmaxqftOJJLY2DiKDT5pdjAGgQUTzkvbbWS8ZXAxwEyKR2qly2DB-4isjqbB7dOpXh0AK0PR5uORwvWjPnP_I2MtUfMo9FyUYj3c=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7855749856&itemId=27937040994&vendorItemId=94895379358&traceid=V0-153-8dc8929a01f7e6ee&clickBeacon=9a5feb90-e583-11f1-a3be-e719038eb299%7E3&requestid=20261121171441822299206909&token=31850C%7CMIXED&pt=1&slot=1",
-   "source": "관심:스팀쿡 AV20F11",
-   "danawa_pcode": "108365732",
-   "model": "AV20F11",
-   "checked_at": "2026-11-21T17:14+09:00"
   }
  ]
 }
