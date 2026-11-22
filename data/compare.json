@@ -500,7 +500,7 @@
   "other_min_shop": "오늘의집"
  },
  "9801631057": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 593100,
   "danawa": {
    "pcode": "123774957",
@@ -532,7 +532,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점](11/26이후 순차배송) S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점](11/26이후 순차배송) S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -565,18 +565,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[LG] (11/26이후 순차배송) S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 625480,
-    "delivery": 0,
-    "total": 625480,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[신세계백화점]LG전자 (LG)(11/26이후 순차배송) SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[LG] (11/26이후 순차배송) S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -587,7 +576,18 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점](LG)(11/26이후 순차배송) SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점](LG)(11/26이후 순차배송) SLG전자 직영_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 625480,
+    "delivery": 0,
+    "total": 625480,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점](LG)(11/26이후 순차배송) SLG전자 직영_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -670,7 +670,7 @@
   "other_min_shop": null
  },
  "9724972673": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 569000,
   "danawa": {
    "pcode": "124298640",
@@ -685,9 +685,9 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 482240,
+    "price": 482200,
     "delivery": 0,
-    "total": 482240,
+    "total": 482200,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -696,9 +696,9 @@
    },
    {
     "shop": "옥션",
-    "price": 482250,
+    "price": 482210,
     "delivery": 0,
-    "total": 482250,
+    "total": 482210,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -707,10 +707,10 @@
    },
    {
     "shop": "G마켓",
-    "price": 482250,
+    "price": 482210,
     "delivery": 0,
-    "total": 482250,
-    "card_price": 480250,
+    "total": 482210,
+    "card_price": 480210,
     "card_name": "하나카드",
     "member_price": null,
     "product_name": "LG 코드제로 A5 A520HC (YM)",
@@ -739,7 +739,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 498970,
     "delivery": 0,
     "total": 498970,
@@ -750,7 +750,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 498970,
     "delivery": 0,
     "total": 498970,
@@ -773,7 +773,7 @@
    }
   ],
   "dropped": 2,
-  "other_min": 482240,
+  "other_min": 482200,
   "other_min_shop": "11번가"
  },
  "9783076381": {
@@ -893,7 +893,7 @@
   "other_min_shop": "11번가"
  },
  "9609807293": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 1690000,
   "danawa": {
    "pcode": "108367196",
@@ -907,21 +907,21 @@
   },
   "malls": [
    {
-    "shop": "11번가",
-    "price": 1610130,
+    "shop": "G마켓",
+    "price": 1610080,
     "delivery": 0,
-    "total": 1610130,
-    "card_price": null,
-    "card_name": "",
+    "total": 1610080,
+    "card_price": 1608080,
+    "card_name": "하나카드",
     "member_price": null,
-    "product_name": "삼성 AI 스팀 울트라 자동급배수 로봇청소기 VR90F01SAG (전국삼성물류설치)",
+    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
     "match": "높음"
    },
    {
     "shop": "옥션",
-    "price": 1610140,
+    "price": 1610080,
     "delivery": 0,
-    "total": 1610140,
+    "total": 1610080,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -929,14 +929,14 @@
     "match": "높음"
    },
    {
-    "shop": "G마켓",
-    "price": 1610140,
+    "shop": "11번가",
+    "price": 1610100,
     "delivery": 0,
-    "total": 1610140,
-    "card_price": 1608140,
-    "card_name": "하나카드",
+    "total": 1610100,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 직배수 VR90F01SAG",
+    "product_name": "삼성 AI 스팀 울트라 자동급배수 로봇청소기 VR90F01SAG (전국삼성물류설치)",
     "match": "높음"
    },
    {
@@ -947,7 +947,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
     "match": "높음"
    },
    {
@@ -969,7 +969,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수  / KN",
+    "product_name": "삼성 비스포크 AI VR90F01SAG 로봇청소기 스팀 울트라 자동 급배수 / KN",
     "match": "높음"
    },
    {
@@ -996,11 +996,11 @@
    }
   ],
   "dropped": 2,
-  "other_min": 1610130,
-  "other_min_shop": "11번가"
+  "other_min": 1610080,
+  "other_min_shop": "G마켓"
  },
  "9445151005": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 2900000,
   "danawa": null,
   "malls": [],
@@ -1027,7 +1027,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -1036,7 +1036,7 @@
   "other_min_shop": null
  },
  "9724226088": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 359000,
   "danawa": {
    "pcode": "106702589",
@@ -1283,7 +1283,7 @@
   "other_min_shop": null
  },
  "9720959145": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 397600,
   "danawa": null,
   "malls": [],
@@ -1292,7 +1292,7 @@
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -1322,7 +1322,7 @@
   "other_min_shop": "하이마트"
  },
  "9823963170": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 170000,
   "danawa": null,
   "malls": [],
@@ -2211,7 +2211,7 @@
   "other_min_shop": null
  },
  "9309807812": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 303670,
   "danawa": {
    "pcode": "106702589",
@@ -2905,7 +2905,7 @@
   "other_min_shop": null
  },
  "9799386181": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 41200,
   "danawa": null,
   "malls": [],
@@ -2914,7 +2914,7 @@
   "other_min_shop": null
  },
  "9719475455": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 235590,
   "danawa": {
    "pcode": "124101688",
@@ -2961,6 +2961,17 @@
     "match": "높음"
    },
    {
+    "shop": "SSG.COM",
+    "price": 259000,
+    "delivery": 0,
+    "total": 259000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "알파스캔 AOC Q27G40HE 게이밍 210 QHD IPS 지싱크 AI HDR 무결점 모니터",
+    "match": "높음"
+   },
+   {
     "shop": "신세계몰",
     "price": 259000,
     "delivery": 0,
@@ -2973,17 +2984,6 @@
    },
    {
     "shop": "이마트몰",
-    "price": 259000,
-    "delivery": 0,
-    "total": 259000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "알파스캔 AOC Q27G40HE 게이밍 210 QHD IPS 지싱크 AI HDR 무결점 모니터",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
     "price": 259000,
     "delivery": 0,
     "total": 259000,
@@ -3010,7 +3010,7 @@
   "other_min_shop": "옥션"
  },
  "9620652411": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 169000,
   "danawa": {
    "pcode": "122710907",
@@ -3035,7 +3035,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 169000,
     "delivery": 0,
     "total": 169000,
@@ -3057,7 +3057,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 169000,
     "delivery": 0,
     "total": 169000,
@@ -3095,7 +3095,7 @@
   "other_min_shop": "옥션"
  },
  "9808158300": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -3125,7 +3125,7 @@
   "other_min_shop": "하이마트"
  },
  "9811394897": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -3155,7 +3155,7 @@
   "other_min_shop": "하이마트"
  },
  "9785528611": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 259000,
   "danawa": {
    "pcode": "106702613",
@@ -3207,7 +3207,7 @@
   "other_min_shop": "롯데홈쇼핑"
  },
  "9707152228": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 110000,
   "danawa": null,
   "malls": [],
@@ -3216,7 +3216,7 @@
   "other_min_shop": null
  },
  "9678600905": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 82050,
   "danawa": null,
   "malls": [],
@@ -3225,7 +3225,7 @@
   "other_min_shop": null
  },
  "9707152238": {
-  "checked_at": "2026-11-22T13:57+09:00",
+  "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 87000,
   "danawa": null,
   "malls": [],
