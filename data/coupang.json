@@ -1,29 +1,29 @@
 {
- "collected_at": "2026-11-23T12:08+09:00",
+ "collected_at": "2026-11-23T17:57+09:00",
  "items": [
   {
-   "id": "8413258839",
-   "name": "신일 세라믹 히터",
-   "price": 55280,
+   "id": "8074429608",
+   "name": "브라이튼 셀본 확장형 캐리어 20인치 24인치 28인치",
+   "price": 45900,
    "rocket": true,
    "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/c7d9/d507901c9123af27112b641ba482c68a32d3c018c5e4ef92c2b5bbaffaf8.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8413258839&itemId=24327521013&vendorItemId=91343180267&traceid=V0-143-a14bf6f3592063f3&pt=0&slot=11",
+   "category": "패션잡화",
+   "image": "https://t5c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/12/11/3/6e13318c-8a11-43fe-8798-8955fb09cb57.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8074429608&itemId=22741397673&vendorItemId=94993076933&traceid=V0-143-74b95d1136ac4b18&pt=0&slot=9",
    "source": "골드박스",
-   "checked_at": "2026-11-23T12:08+09:00"
+   "checked_at": "2026-11-23T17:57+09:00"
   },
   {
    "id": "8190498976",
-   "name": "스케쳐스 남성 메모리폼 런닝화 52811",
-   "price": 51670,
+   "name": "스케쳐스 남성 서밋 메모리 폼 런닝화 52811",
+   "price": 52570,
    "rocket": false,
    "free_ship": false,
    "category": "패션잡화",
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f1b1/46f49f7963f40ed6a162039f86cefb00d125e42de073b18c941b74462a02.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8190498976&itemId=23437820259&vendorItemId=90464701660&traceid=V0-143-c6ec27fc36a8bcd7&pt=0&slot=14",
+   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/a703/07bee6c457230fa391075363641db4ee9238df2274b0f9ba94d01603932b.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8190498976&itemId=23411306599&vendorItemId=90438392803&traceid=V0-143-c6ec27fc36a8bcd7&pt=0&slot=18",
    "source": "골드박스",
-   "checked_at": "2026-11-23T12:08+09:00"
+   "checked_at": "2026-11-23T17:57+09:00"
   },
   {
    "id": "9586673672",
@@ -32,22 +32,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "도서/음반",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/164002745218606-8a8be814-4348-4e8f-a72d-0eca182df84c.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9586673672&itemId=28617127603&vendorItemId=86184566950&traceid=V0-143-69f278d7d0a2e740&pt=0&slot=18",
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/164002745218606-8a8be814-4348-4e8f-a72d-0eca182df84c.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9586673672&itemId=28617127603&vendorItemId=86184566950&traceid=V0-143-69f278d7d0a2e740&pt=0&slot=25",
    "source": "골드박스",
-   "checked_at": "2026-11-23T12:08+09:00"
-  },
-  {
-   "id": "8074429608",
-   "name": "브라이튼 셀본 확장형 캐리어 20인치 24인치 28인치",
-   "price": 45900,
-   "rocket": true,
-   "free_ship": false,
-   "category": "패션잡화",
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/03/12/11/7/b36aa868-1921-49fd-aeba-6715bc31adab.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8074429608&itemId=22741397653&vendorItemId=94993076932&traceid=V0-143-74b95d1136ac4b18&pt=0&slot=19",
-   "source": "골드박스",
-   "checked_at": "2026-11-23T12:08+09:00"
+   "checked_at": "2026-11-23T17:57+09:00"
   },
   {
    "id": "9779860894",
@@ -56,10 +44,24 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/16/17/2/f5e997e5-62ac-4143-8c79-23066eeb703f.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9779860894&itemId=29278382189&vendorItemId=96195119019&traceid=V0-143-daf74a7cb4b67f15&pt=0&slot=24",
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/16/17/2/f5e997e5-62ac-4143-8c79-23066eeb703f.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9779860894&itemId=29278382187&vendorItemId=96195119021&traceid=V0-143-daf74a7cb4b67f15&pt=0&slot=26",
    "source": "골드박스",
-   "checked_at": "2026-11-23T12:08+09:00"
+   "checked_at": "2026-11-23T17:57+09:00"
+  },
+  {
+   "id": "7855749856",
+   "name": "풀무원건강생활 스팀쿡 마스터 플러스 듀얼스팀 오븐 20L, AV20F11WG, 소이코튼",
+   "price": 328390,
+   "rocket": true,
+   "free_ship": false,
+   "category": "주방용품",
+   "image": "https://ads-partners.coupang.com/image1/oIXmQcbzal5OIeHaoMhf3vBOAiOCXeAW1noTEwYCiIW56a_qM8A91zciktN-1_p4O5ZnAFsZ9CMsp2AbuR3YRLrSkrQAWR4hX-WTnx6IYoWbNVMjxGWQLfz9E2tF6EH-iSa1ezoPsRqCMICK--rc2w2mjhoU2mx0pO9tcgwzE31HOcwuzPZ31W7iS1LW6iPc7HLxjD0rf7Ly5f2kuQ5M0CilBzT2DcHYZLWRJJQxw69GjcElczxYfRx9KAA2hORlATYXcePPXEKy8-onjwXjQTM09fbtiuLFWUyUhvArhWrPlzX0nsYzU6xKbGChLSo4hwPujt8Xj8mzwO8HBWdHiC_4buCU8ukpqfpTa8HrlJZNowRnragmEv-grJCCNT4MxbHgnTwt0u-4g1OjGryxP8KbuGzqoi2ofvKyUbEVzNzJEw88UtYwA3qRvXBMU3sg9P47g5sN0vMU0sgiW5EPysSS0Wk-J2V0ouTUFjBcYeBJGk0fpF4XeRdu-msSiOFHu6HV5Yo1tCagOUhaSCdLXIk=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7855749856&itemId=27937040994&vendorItemId=94895379358&traceid=V0-153-8dc8929a01f7e6ee&clickBeacon=ee3c2b90-e71b-11f1-9902-b5485323f52c%7E3&requestid=20261123175737124259078824&token=31850C%7CMIXED&pt=1&slot=1",
+   "source": "관심:스팀쿡 AV20F11",
+   "danawa_pcode": "108365732",
+   "model": "AV20F11",
+   "checked_at": "2026-11-23T17:57+09:00"
   },
   {
    "id": "9831004676",
@@ -172,90 +174,6 @@
    "danawa_pcode": "18155051",
    "model": "ECAM350.15.B",
    "checked_at": "2026-11-23T09:48+09:00"
-  },
-  {
-   "id": "9800440813",
-   "name": "쿠쿠 CRP-RKE0615FBR 패킹세트 (고무손잡이+압력+분리형커버패킹)",
-   "price": 30400,
-   "rocket": false,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/TUypEdLwrEbV5YFGTY0rBmioZWBYEbTmoYEjmIMtEyIBLAYOIyQBQ-XvFXaMeO-BeCApJjEsSMD2AVUIdztKHBdkPUrPTxR_cWGWJnOxJkUMWgq6nH1Zxp-V6r_PIxyrsOV996NHDPGgU1rEucow6-fvy_0rCy3PWC8nPpGb7NIlwnbSmz5ud3vkYvEeAAAK4HQThGkqvghcjhIDLGhXg-goTn9CkiMsG8T3QQm5_T4FiaGe2JLozF0lWZjxNBBhkrIF_SJUTFzXQXWUWnDue2zbwheWKixbmgA63c-SikNebis17wDwVHfEHkSZcbYpJ1qOiKZrPRMDNcedeqpcr4gxUAd8p7_xcq8zoodSJVgCiSiQrAxXAyO4Yprr5byyvPppDqeJJFQJw5w2oZ3EkxAtC0QYvxkr_tWdsMO9mMKiZIgKMrAq894aSA9xLNRioYKGXiu9JxOVs-c74OT5ClWapRExpvVg06V6x1v9Xg_9VppkRDTV7l1YiEhSK7yjtC0sJBSt2iMZ4doWYIZCBzWoKYC9KYD4k-4tUQv441T5JAo8fYEL07l65S00",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9800440813&itemId=29346175324&vendorItemId=96259470628&traceid=V0-153-74fbdc00a377c73a&requestid=20261123043009543236112979&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:쿠쿠 CRP-RKE0615FBR",
-   "danawa_pcode": "122728347",
-   "model": "CRP-RKE0615FBR",
-   "checked_at": "2026-11-23T04:30+09:00"
-  },
-  {
-   "id": "9740294026",
-   "name": "쿠쿠 내솥 10인용 CRP-CHP1010FD 에코 스테인리스 와이드 앤 플랫 광버핑, 1개, 단일모델명/품번",
-   "price": 139000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "주방용품",
-   "image": "https://ads-partners.coupang.com/image1/rH9iPMitnU4T6cIYrLzuxfebDZC0K7-ewJlt-fNGGaZccxfZtD5z2kwBN8vq9sooVPsEKnakoGWt6FJWUbVv1oaZE28j9W4z2qVy4sk7ycbujgIZ6AVg0T2xQ1EiVXJMJkcBADZUHaHfC59wDkzIo1fLzBd-aNrcXB_FgIkkrQnKd63qyTswitt7M5Ju_yQ8DJQ60ntKSB_d2I7T5SUest2eI0l5zEO2TGqIp9dcn9mxvMn4-Cs7hwbbPAntj-vCWpbklMl4En5yp5G9vzS9oCUALeYvFWXWTmfBrwl6b-A8L_dTj8ZeyfIhMH3nN2y1sDudk9p-7RL0qUBPmhkmeNMbzw6i0bfzUly6xyGKIqfCmOARzKYxd6cVZbnZLdJj587FBsL8-ij52Kgot59xSWZIIGGqM8hp2AXL6oZYss7QD3c153H037sVn9BMX_iX1uucBfRd0Acum5y_5T0msFc7eU01ldSp26OQAojLKiY4iKpYPJx9QoKvUgBKlBZBr-E-MFgkUKI-0CN3nQYLqKxAASXnenKcOCRIFDlsGrVF",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9740294026&itemId=29153038276&vendorItemId=96075715552&traceid=V0-153-666881e1d7472bae&clickBeacon=22a68310-e6ab-11f1-b134-c582f8c924c2%7E3&requestid=20261123043011974268088344&token=31850C%7CMIXED&pt=1&slot=1",
-   "source": "관심:쿠쿠 CRP-CHP1010FD",
-   "danawa_pcode": "7280086",
-   "model": "CRP-CHP1010FD",
-   "checked_at": "2026-11-23T04:30+09:00"
-  },
-  {
-   "id": "9804821734",
-   "name": "쿠쿠 올스텐 내솥 10인용 + 주걱 CRP-CHP1010FD, 1세트, 쿠쿠내솥 + 티씨유 주걱",
-   "price": 179000,
-   "rocket": false,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/zgq_M69srM9cM_TFzhlxef2xSfBPCPoMimTo6ceiamEP3fRVoC_QUH7wUSZDUpgpxXgTxl2U9NGHtGiCCo6BabXzY5EzXEABiqFZPuW-LnQcZRdy6KNSX2lAn3wuTQwc5tCciNDg0egnvOpDK16fexpsw6mO0bOjFALLom6TpilNeFXUeSr7EQgZXGqbDKh_CZ-ORwqgTG-Y9Z6YIhIub3r8KjieryRTiE5jAvGQyYnszqtgrL_QBEbclx8FZ0W1dtdZ1DtDjHzZ8a-pqMCVvvwahooxklEUgylIUfFb4aba2aaC_afPLE1h7ymorm0CqsZB4_I2snar8E898yRtWajJZteVJdrN1zF8ZFQdEW4HRff536BHqh5S-HxovFzl9WiVKswwcdno6wAPdcttCGUPFHKcninLaQZdBCDon_yqVYqWE8_YYyMbA_xGpZUncMu9WVJUKTul-uUCCKWTlDwkV_ieyirDegucTOJxE3ISPslxIN-ohA7VT7jRv51nQ-PPTB6C3zz5PwbQTxq21jsxL5pmsAt_-WVKyiJTVNMbfgo=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9804821734&itemId=29361325721&vendorItemId=96273955403&traceid=V0-153-41c3071ede69ab8e&clickBeacon=22a6aa20-e6ab-11f1-86b8-080de1562749%7E3&requestid=20261123043011974268088344&token=31850C%7CMIXED&pt=1&slot=2",
-   "source": "관심:쿠쿠 CRP-CHP1010FD",
-   "danawa_pcode": "7280086",
-   "model": "CRP-CHP1010FD",
-   "checked_at": "2026-11-23T04:30+09:00"
-  },
-  {
-   "id": "9725502428",
-   "name": "온세상 [셀러허브][쿠쿠] 쿠쿠 본사직영 CRP-CHP1010FD 10인용 IH전기압력 밥솥 (S38284976)",
-   "price": 410000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "주방용품",
-   "image": "https://ads-partners.coupang.com/image1/oNpM3oM1opQkc839oJ5XEu7owZySYOjxVl4iAelVlbD33ZIhlhtHccMoAAiIOkascX8xobYMc4GnovRMxaqeuxxGhgFY58nKJ0Qqjyu-e0OoJsJpVmwbKS9AZxZ8y6ewJl70MW0bVhp3gMqLHHPa6KE3EsFQJVR2W3BO13Po34DPQRjTJh7wXF_0QrtiwuzRNmgwm0AzN3nRWpZtENBshnZY6Iwy-1XgvS-gXQkgUIdN5ClJSqNLYs1GOEpPE2gsoWDpDmsqFqmZreHPM4jL1U5R-fV4Z2YM-pzCG0q6IyN43CevKw4xeOCPO2K6CmjZRGs6bHO5Y7XcoCLKJZ1BaarHGdyU554O07b0lFo8y-8Opl2G0H1RcQUYbtvlnXSMfPi_BuKPsRMMLlWnuux6IWmYsCxBUK4CKo2NuU0nzueKP6kypBm_EbQaS4JV6ggF4-stM3wy-PlytLIDyL_8qBOVhru_xKpMm6ggk3giM5B9B7L1C0d6AjGG52wfUIqGr2fB4N0tt98NZ73i-Qos_6LnwIJuR9nOk63cQHNYU9PsDs5wPtqZLD-fCzw=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9725502428&itemId=29103740339&vendorItemId=96213684528&traceid=V0-153-07db07b135d6093a&requestid=20261123043011974268088344&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:쿠쿠 CRP-CHP1010FD",
-   "danawa_pcode": "7280086",
-   "model": "CRP-CHP1010FD",
-   "checked_at": "2026-11-23T04:30+09:00"
-  },
-  {
-   "id": "9425919826",
-   "name": "LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
-   "price": 303830,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/rtTh8U52zBxq0iSBrjVICW-9zLTlortH5jTvR0pfgIsXpYK2BQvSnNzgtdg-9QjF0fxOSVmPJAUGWmyH0sv0EhVT9hB9QjbqTgDsm0IcsHXhaHhEAEgQofi9kLcOMNlzArZPdu4EeBeGxUfcebObbckJiMzDSLYqRLlgU6cuP0g18JFfSa_D3tMi50R5qPxxXvfp7k7dE71KpIxWquEzTv2nGquHEzGfnMwUAZtBQ8MHo9zE1s0jkHbmfGEy-_8AAUV5DEC6pwqujN0SCp-wVoCRwAvnYwC29py3BsD0ZCfHGux44gWvBKysAfpMmDOW-_pyjdACHPgqQds-tsgPoFMkoOpWr5ZZ4BDhtpk2-2vRmycM3xDxb2fhSYPbaTJOqaMRLlulPrJVADrxlDbYRYBtrXAY16DFjiJmBLOE6svn2oDQXIaWbaNvVotzAhl6Sb-s8cc398OJUsbj__r7j15p6jrlJDVejBikcdLrUD40R4wgL0evaEwktNJ-Z-D3YiFvPKrB8cVx3E9B_2MkemDS8Job23tUcmh2Gzq0X1E8BKmrpWO0J-3mSQFU",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9425919826&itemId=28953913656&vendorItemId=95283512304&traceid=V0-153-c2947ea3fcd8eb1b&requestid=20261123043017078260613169&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:LG 퓨리케어 AS156HWWC",
-   "danawa_pcode": "123436549",
-   "model": "AS156HWWC",
-   "checked_at": "2026-11-23T04:30+09:00"
-  },
-  {
-   "id": "7298125487",
-   "name": "LG전자 퓨리케어 360 공기청정기 AS186HWWL",
-   "price": 384000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/MC7URTq8cabh2V3nMDTRNovOW9JQz7DgP0TWoQLWEWOLTEdasWeI1FClYJcmChi0DQIQ6XkBU3MBBmSS8DRu4fW7FxvaRdUf7vJn_GOIOeqoFBM3MTjwF9wPmLNDHDxdJ2DDjudv_DnzzpEqj2Pe2tIZNo9qb0ba2pXigMhBjabFdi6SIZmIdmY6AtPmdpgd0y7AijcqcyxrRsoKvZQNWGTanykwgCzAb384ZB_0Pdi_3ZdfFBKc4p3ba07HCfPshReqJFAlbkBRf6My1tzSvu9gGULsJub1hfIogX0AYo_SZWGiOUTsQJDLqARA-PTugNSNSEYTP_b-U_8XdE3nNb55dy2_CIz2qNeR7zvurFTquSZARc4hKDbuqYLyEkkmCGrxJbldZhQHILuiGT9nQWqcCkBlwg3GKwEyh4mRo1pd6WWfsis96hhXZr-v3Zu7ZxjLKPfquzo07FBG2ds-Ek7CCBT36TjkFqJSw7wCYe7wm4mc5qZN9kM9CCt4Pe2jC85ADQTVXuqsDcL7hMvFEOKBJ5Jp30jOzeujcHh_meWDsXB1zd4lpGk5oqrrCQ==",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7298125487&itemId=29298681196&vendorItemId=96227711874&traceid=V0-153-18e29e0ce2b36ab3&requestid=20261123043019903030512489&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:LG 퓨리케어 AS186HWWL",
-   "danawa_pcode": "123436887",
-   "model": "AS186HWWL",
-   "checked_at": "2026-11-23T04:30+09:00"
   }
  ]
 }
