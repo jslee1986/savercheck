@@ -1,18 +1,6 @@
 {
- "collected_at": "2026-11-24T14:57+09:00",
+ "collected_at": "2026-11-24T15:25+09:00",
  "items": [
-  {
-   "id": "8327441340",
-   "name": "오리고 플리스 블랭킷",
-   "price": 43200,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가구/홈인테리어",
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/96249928965358-815c21c1-d7d9-4e1d-b3e1-a0998bd41c66.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8327441340&itemId=26461287510&vendorItemId=93436587778&traceid=V0-143-ea88e96f13beaa67&pt=0&slot=4",
-   "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
-  },
   {
    "id": "9737537438",
    "name": "NICESUN 펫 공기청정기 반려동물 냄새/털 제거 공기질 자동 감지/풍량 조절 H13 HEPA 3중 필터 360도 전방위 흡입 음이온 아로마",
@@ -20,10 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8f72/c0238e0b0788dd0047dab3fce24ad34bef670972c945c08b039d563e12ef.jpg",
+   "image": "https://thumbnail6.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/8f72/c0238e0b0788dd0047dab3fce24ad34bef670972c945c08b039d563e12ef.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9737537438&itemId=29142452219&vendorItemId=96065967442&traceid=V0-143-59a1177fe4256af2&pt=0&slot=11",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "2202849456",
@@ -32,10 +20,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "로켓프레시",
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8947496567622-0d40bf25-6cfd-440b-9c6e-830350af82bc.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=2202849456&itemId=3745967758&vendorItemId=71731117531&traceid=V0-143-4c02c36a0fb88402&pt=0&slot=13",
+   "image": "https://thumbnail11.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/8947496567622-0d40bf25-6cfd-440b-9c6e-830350af82bc.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=2202849456&itemId=3745967758&vendorItemId=71731117531&traceid=V0-143-4c02c36a0fb88402&pt=0&slot=12",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "6872981813",
@@ -44,22 +32,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/74b97657-a67c-43f0-8194-e19875112c00_fixing_v2.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6872981813&itemId=29102384639&vendorItemId=96040189678&traceid=V0-143-27059a5a7416bacd&pt=0&slot=14",
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/74b97657-a67c-43f0-8194-e19875112c00_fixing_v2.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6872981813&itemId=29102384639&vendorItemId=96040189678&traceid=V0-143-27059a5a7416bacd&pt=0&slot=13",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
-  },
-  {
-   "id": "9793871369",
-   "name": "스파오키즈 하이브리드  베이직 푸퍼",
-   "price": 70880,
-   "rocket": true,
-   "free_ship": false,
-   "category": "패션의류",
-   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/27/11/9/5cc9be20-6f6c-4efc-8d8e-5f0067ead2dd.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793871369&itemId=29323880340&vendorItemId=96238333218&traceid=V0-143-74bdbf33b36c3daa&pt=0&slot=17",
-   "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "9512088186",
@@ -68,10 +44,22 @@
    "rocket": true,
    "free_ship": false,
    "category": "뷰티",
-   "image": "https://t2a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76093019394290-cf94afe1-0225-45e6-9de1-c469cd64bfbc.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9512088186&itemId=28346538600&vendorItemId=95298711649&traceid=V0-143-2e9cd51caf7bad80&pt=0&slot=20",
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/76093019394290-cf94afe1-0225-45e6-9de1-c469cd64bfbc.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9512088186&itemId=28346538600&vendorItemId=95298711649&traceid=V0-143-2e9cd51caf7bad80&pt=0&slot=16",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
+  },
+  {
+   "id": "9793871369",
+   "name": "스파오키즈 하이브리드  베이직 푸퍼",
+   "price": 70880,
+   "rocket": true,
+   "free_ship": false,
+   "category": "패션의류",
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/27/11/9/5cc9be20-6f6c-4efc-8d8e-5f0067ead2dd.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793871369&itemId=29323880340&vendorItemId=96238333218&traceid=V0-143-74bdbf33b36c3daa&pt=0&slot=18",
+   "source": "골드박스",
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "9770913185",
@@ -80,10 +68,22 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/09/15/0/0030391f-6b81-4125-89b9-eb2cbf51adda.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9770913185&itemId=29246426929&vendorItemId=96164691034&traceid=V0-143-9118eb6a39e87207&pt=0&slot=21",
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/09/15/0/0030391f-6b81-4125-89b9-eb2cbf51adda.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9770913185&itemId=29246426932&vendorItemId=96164691036&traceid=V0-143-9118eb6a39e87207&pt=0&slot=20",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
+  },
+  {
+   "id": "9674882300",
+   "name": "애드라벨 원박스 심플 실외 물통 배너 거치대 대형 600 x 1800",
+   "price": 51500,
+   "rocket": true,
+   "free_ship": false,
+   "category": "문구/사무용품",
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/07/31/11/9/993fe8f7-10da-4829-872e-01ee357ea44e.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9674882300&itemId=28928399700&vendorItemId=95859807773&traceid=V0-143-7d7da44dbf473a0f&pt=0&slot=21",
+   "source": "골드박스",
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "6960887991",
@@ -95,7 +95,7 @@
    "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/6e93c75c-ebaa-4bfb-a1a9-3571a8f23999_fixing_v2_1751346510416.png",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6960887991&itemId=18566924182&vendorItemId=5118205758&traceid=V0-143-7d2f4bc4b6236f2b&pt=0&slot=23",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "8880370591",
@@ -104,10 +104,38 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/30/15/5/a158ea37-6c3a-4695-887a-a24f7ed18220.jpg",
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/30/15/5/a158ea37-6c3a-4695-887a-a24f7ed18220.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8880370591&itemId=25916626056&vendorItemId=92902197204&traceid=V0-143-74be07eae7ee4cc8&pt=0&slot=24",
    "source": "골드박스",
-   "checked_at": "2026-11-24T14:57+09:00"
+   "checked_at": "2026-11-24T15:25+09:00"
+  },
+  {
+   "id": "9724226088",
+   "name": "삼성 갤럭시 버즈4프로 무선 블루투스 이어폰 노이즈캔슬링 SM-R640",
+   "price": 359000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/WLrRBEzaNLvU3AMUWA3zUute0VCP4l4oTiNIwJukgAS4-Ra8__YCk0VYr8MrFZ114ka5YnDdNCFY2kEGqn6nnLk2dl8b0aHpvbFriujTJX11pVKRKn7mb2bOutdERDUHdOjWCP6IT2ghz3WIl68qv2HiyKos-st6CgprHKXYcpE7FEn790w_qlQWhPGMCUwR97NHXQam5_Q4ZVS-hWNIC05P6htn4fKbXVdB02ZiJggfPToxg8-A3Io63bmMn5v_-JQ8IVfFSshjtYotbumta_xlAlgi0dPsaHOtvZdWdmW1ATmkcKZrhCuJBl5UpRQMFWxIgzUPStzFV42xbrBwNYSxI2N-8Coue0rl7Jqhk3GwRg7fmQI2wXOlRpfq8R3lcXXIqiYSypJlybiW-4NDmaTaXhwr-wz1LPLrYCCtmV2Zq4WbWyYXrdLnMApZhP8y8_8Qqe8CNxjHv7ASOfghaRsVqTiZgbfZU4a_mR3f5rhl2Qz-7MZicjY7jLK9CbGyuPVVgDyPJNJM_XG_lEstfe0Aq8gabXmmNFQ8LuD66g6uCINyqawr9dwgfNs=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9724226088&itemId=29100140933&vendorItemId=96025340372&traceid=V0-153-6c8c7934ad4b3c3f&requestid=20261124152509377109299403&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:갤럭시 버즈4 프로 SM-R640",
+   "danawa_pcode": "106702589",
+   "model": "SM-R640",
+   "checked_at": "2026-11-24T15:25+09:00"
+  },
+  {
+   "id": "9785528611",
+   "name": "삼성 갤럭시 버즈4 무선 블루투스 이어폰 노이즈캔슬링 SM-R540",
+   "price": 259000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/7M3bqq8QjRKXXzY_7AoM6LtGvVO1vXkzyyvy7QWA7QjyiLzxf5BJbwWyDNKTxFO64BL_MgYSfFokqRDvw0XPtnQB581exSWJUN_KkWPq-JjwnXjzdbrKDFBZV2NdgsPbkoFdNkOPGuxBzl3lWkie8S6hWH4s2Y10E2eFghH6M2NYcwoOLUdyVFNMwmvNzrAXpvaWQV5cvE6U6pRukeZvl00ZwekvkKWdzCrBfI03i1bgAtCupFyTKNPzJ9Mc3lCycAr6d5cH4nEj1XwY4mAXD1ZzIclkLJ9-p9ZeWEmdRfTRWejCU2gXW__f25dS0cV_qntm9MPJX-XQiXOhx5xhjOl4y_T8ty-cfQezW0Ea1kd58YVbVYEZaLhyvR7Hyxxc0t4rKuCRl9WxAP9MX38R9_8rQgZijl5O3IL1nxhCWuKxaYhE1G61Y5lz0rMLAFC0Z58PCklBtV8SVfOH4Jp_HsxH-qSpedcxlqwtHQy2RQhwb-cr6jQPTNYJwBy2YDfvTmTAu2muQuz3iV7-3BCEBfQ_olZ_FXWQwENxwJQa8_X0bOAFMCe3xlyoj_BYGxte__icItgBgxkb2e7n13cA7OolW8TiAoJOYtUdg03xQ72czYes6TfNc6E-",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9785528611&itemId=29292588752&vendorItemId=96025340375&traceid=V0-153-9f7066617c6349fd&requestid=20261124152511752324672780&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:갤럭시 버즈4 SM-R540",
+   "danawa_pcode": "106702613",
+   "model": "SM-R540",
+   "checked_at": "2026-11-24T15:25+09:00"
   },
   {
    "id": "9609807293",
