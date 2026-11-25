@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-25T11:21+09:00",
+ "collected_at": "2026-11-25T14:02+09:00",
  "items": [
   {
    "id": "9793781147",
@@ -8,10 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/27/9/7/1cdb45b7-9728-4839-bb0b-99e8385c2d80.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793781147&itemId=29323508499&vendorItemId=96237973533&traceid=V0-143-041ac8e8c471bc53&pt=0&slot=7",
+   "image": "https://thumbnail7.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/3acgfbif/bf20014ff8804c12bfad03c2ac7ee815.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9793781147&itemId=29323508497&vendorItemId=96237973530&traceid=V0-143-041ac8e8c471bc53&pt=0&slot=9",
    "source": "골드박스",
-   "checked_at": "2026-11-25T11:21+09:00"
+   "checked_at": "2026-11-25T14:02+09:00"
   },
   {
    "id": "9485256179",
@@ -20,10 +20,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/486e/1e6c9d8708cfe42cf671d7890f522daa7d2db8772189a96def048d5ebcb0.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9485256179&itemId=28245050787&vendorItemId=95198602734&traceid=V0-143-b1341c8e4699d280&pt=0&slot=19",
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/486e/1e6c9d8708cfe42cf671d7890f522daa7d2db8772189a96def048d5ebcb0.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9485256179&itemId=28245050787&vendorItemId=95198602734&traceid=V0-143-b1341c8e4699d280&pt=0&slot=20",
    "source": "골드박스",
-   "checked_at": "2026-11-25T11:21+09:00"
+   "checked_at": "2026-11-25T14:02+09:00"
   },
   {
    "id": "7994155471",
@@ -32,10 +32,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "뷰티",
-   "image": "https://thumbnail13.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/784768460484275-85742f55-ee3b-4514-8eef-16fd3964b2f5.jpg",
+   "image": "https://t3c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/784768460484275-85742f55-ee3b-4514-8eef-16fd3964b2f5.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7994155471&itemId=335285978&vendorItemId=3822597178&traceid=V0-143-fd95958728e95f72&pt=0&slot=21",
    "source": "골드박스",
-   "checked_at": "2026-11-25T11:21+09:00"
+   "checked_at": "2026-11-25T14:02+09:00"
   },
   {
    "id": "4919086945",
@@ -44,10 +44,92 @@
    "rocket": true,
    "free_ship": false,
    "category": "반려/애완용품",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/e7e4a1a9-b4f9-4d5b-a87e-5aac966e9676_fixing_v2.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=4919086945&itemId=6442466353&vendorItemId=73736966772&traceid=V0-143-879abf3434b0e9e7&pt=0&slot=25",
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/prod/e7e4a1a9-b4f9-4d5b-a87e-5aac966e9676_fixing_v2.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=4919086945&itemId=6442466353&vendorItemId=73736966772&traceid=V0-143-879abf3434b0e9e7&pt=0&slot=22",
    "source": "골드박스",
-   "checked_at": "2026-11-25T11:21+09:00"
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "7694333017",
+   "name": "제니퍼룸 전자동 에스프레소 커피머신",
+   "price": 320540,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/608696590633355-990f0e64-5262-4dce-860b-aa3043d91c6e.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7694333017&itemId=20583800400&vendorItemId=88754480619&traceid=V0-143-7c26b32556ff3cfd&pt=0&slot=24",
+   "source": "골드박스",
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "9800440813",
+   "name": "쿠쿠 CRP-RKE0615FBR 패킹세트 (고무손잡이+압력+분리형커버패킹)",
+   "price": 30400,
+   "rocket": false,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/6zvQuTkPZ_DENmmT6z9uW9Oya1mVdhngXj3wOQcRGuw3E3fNIPBIqFWM1TtV_HLliy7MBw8pWYrawoqqZ4zGYuiP6vAGwDrllEbVov-798E4QrZUHRUkJrnUsgVUbmIXL8AEcgpsseUEVDikKqyOwTaLPiTNSmVodgByyhZixK8HF3V2BP4_d5_fJaHc8oatvIE8yzaBrADmNR4fbFfERS44-TVpvfP9012JdX9WWWU4fFsN2KuVbMmZze3PsU8itMscgg_aOD1sVN5eJvByhTkBScSWzNyIO4LjHjn4fi5MlbGDVFGG_TCtO_PpeOgz9wsbwSAd9jwxCor0ehEWKtNqXpyePUZWvDPIBf7z2GHsoRq8eX6r0j9rYe0JQhSgCeWfQ_BVcBoe5U9adqQi5WxNeMXOCf-N-RuWi1t6lBk8tZ3A1daEw7ZKw3n0bxJ0w9OeDPSZCSgBGW4vgK_p02Z5OWtNanViYor1J7CsVxTm5RKk6zunPa1FXV_XSH2VY5m8xEMejU5vKk4j-ugjBokmY1BMahKhpM3g9L-Jy4BPcKmgZY2fYtc=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9800440813&itemId=29346175324&vendorItemId=96259470628&traceid=V0-153-74fbdc00a377c73a&requestid=20261125140216179111332147&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:쿠쿠 CRP-RKE0615FBR",
+   "danawa_pcode": "122728347",
+   "model": "CRP-RKE0615FBR",
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "9836783880",
+   "name": "쿠쿠 CRP-RKE0615FBR 압력패킹 셋트",
+   "price": 47000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/SFE_q26-GXw-5vOtSMcJiU45B1_S1XPQFwe7SHQkYfCCt06Nw4MNnd5Q8YDCKm30uWjTv2ZeD-6oSEky46BezOW9-9CcBjOo0YnbvCmw8hWk7U-WjhdZ4Ub0shFCuDnRuKOG8U0kDR2Fw8XVE8D8l8PNadYyv3h4u5PXWd3DBgcPzVcqdFWjWrVgPwm1rBIIZ59IP1KNd1OyNfHs_1KHUH8lhI0xvgMLfNPoWQ_68a-AXeI5865Ju3LC423pD-XAtc-i1m08Vgid0rq-Iy-Hg7tn5cVDY9vE40Z7VWkEZbZ8ASxGRbQJdHKYBBOWkN67klq34LlaPYxRl6pr0bkH3tAMEL06AD5Zv0bZM_PjW-cFT4jkQwoTGEcJ-Nuoe2u9bvjeNiAuqUOJNrZBeUj6XrvxsGOu4dqnchGSD-wPkIxJxQJwwWM5nhP7npTy1B7H1hmmRI6EtI3V956j5lxKjgLTYW3P-zuhmmxNMIEfYU0aIGi8_9ZAq2X5_S9fkdtoe7WrZjBWdtddzOfXKszqabWqR3CPGJ9kLoYeC7475TX-W2Je43GfFb9b4A==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9836783880&itemId=29464795403&vendorItemId=96373693063&traceid=V0-153-fe7c259bdd1b7ad1&requestid=20261125140216179111332147&token=31850C%7CGM&pt=0&slot=2",
+   "source": "관심:쿠쿠 CRP-RKE0615FBR",
+   "danawa_pcode": "122728347",
+   "model": "CRP-RKE0615FBR",
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "9804821734",
+   "name": "쿠쿠 올스텐 내솥 10인용 + 주걱 CRP-CHP1010FD, 1세트, 쿠쿠내솥 + 티씨유 주걱",
+   "price": 179000,
+   "rocket": false,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/u-td-f7c5T1V3l45u00apWW7MFZJ6Z6e_GIi9VYrLP14H7PnOMYPfkZv9M1hm70BnCVanN26owARvOLhaRh5K_aRvKfb4Cpbd2Ur4UjnzhEc0evIzS9z66MgvfasccUAbtGyLV72cAUtb8Z4d2TJoU3L5VntlPG1GfotPX13XLpABME5MX-DO-IBOpkyx76pplA6x9Z6QMzhiOzB4waZiN6QFcdO9BaJyP3C66w7bDSxzJ0dOP1tecCTpzSgOGC3yYKbMX9lPq_KXAqfz_0A4WYkauAjL8U1g_p0bsIUdSHNgjJX3n_1wj3_ZAoNsqqhx_17bFJ8VrZWDrb1pI3FhNP4GATw2eLdEwHqywdm8hpjnUW5OxQ2FN4zHSz9VBSN3QsFPtvjMx2IHINdYQ1n5mZCcxm5e39eViHer6N1kQKAkl2f-DRFfqms-rwcWYXJd7q-3liz56NqFDYdttTIBMcaX5p_G5uoOfhs7t5rvZ5OqflJU6ugxDeMzUNmsBtMKz3eV9cqxsY9u1f1N-7lcMWuT6AbPSus6RSZClAI0KD5CQ==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9804821734&itemId=29361325721&vendorItemId=96273955403&traceid=V0-153-41c3071ede69ab8e&clickBeacon=63c9ac30-e88d-11f1-9b97-f1ed347b91fb%7E3&requestid=20261125140218676014629708&token=31850C%7CMIXED&pt=1&slot=1",
+   "source": "관심:쿠쿠 CRP-CHP1010FD",
+   "danawa_pcode": "7280086",
+   "model": "CRP-CHP1010FD",
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "9805048156",
+   "name": "쿠쿠 내솥 10인용 + 주걱 CRP-CHP1010FD, 1세트, 쿠쿠내솥 + 티씨유 주걱",
+   "price": 147000,
+   "rocket": false,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/LD4gfQeHqXiZLqyCLNogheot0eFttRYn5ePbOrdK37bv1QOPISeJzS2B7atenJnxe69gU5M5fcM6lNI5lTyGOXV7zlxNe5ICRHIFjcHRGueVFiHpO6qID1l0MKif2Eu2O1AzY6U4mOn8RuuKz6A-5Kq6cMfa7GOZRWer8UQJ1dxqTLet3JbrxQr9-brR9boot8AStwXaxBqFmuiBOPTBeuc6pbPatKzpxUvfLuIWlHALcZtYVcX4tLWK3CDgKQeLLV3ESYXMc4pK1GW3f3jGUxmYtfHHCN07jQW2BlF1QNMoHiQkP1urjCr1SmBBX_sbSNbBE-9Nt5eQymCyl1r1M4y2QgAQZICACtVDx3MwaQeNxDp82RW6hnEMX0MdAydHziRX1okd2htk27fLAJTHkuAmTVuwallSKkhQRxM8MgDcq-QRl-29FH48SkfR0YRrsDG8htf8CQH7nsHw1mzNvZT6mb7ZQGNzxHhDyzFimZsYeJ4q9yvP-ABfZ-OAVr79sv-P2VMwE6abRrc0VlLxjCuXbd_eufhQrSqGQ5hAikvjZw==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9805048156&itemId=29362160517&vendorItemId=96274768604&traceid=V0-153-880d7352baf6befc&clickBeacon=63c9ac30-e88d-11f1-b13d-42f83b7da849%7E3&requestid=20261125140218676014629708&token=31850C%7CMIXED&pt=1&slot=2",
+   "source": "관심:쿠쿠 CRP-CHP1010FD",
+   "danawa_pcode": "7280086",
+   "model": "CRP-CHP1010FD",
+   "checked_at": "2026-11-25T14:02+09:00"
+  },
+  {
+   "id": "9425919826",
+   "name": "LG 퓨리케어 360 공기청정기 Hit AS156HWWC",
+   "price": 303830,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/F6OS9QW5KwYGL_vBF79oyfYJUZP9x-E0P0R_46xbKCaW40R4-XClI1jdZcc0lGJnTSs9QUoRYfSbouKE_SYO-m-TybPkNyQBO0zz_ExVlmCkoF1I0VqcER9JwXpOhphxLr866UbbHvrjYBw0Xdj2psfhuWWQebmZzjjGIvd9KHivG6WLXjUXl62H_peLKnUlbwdhz04rIGZt4g9gpkKH4l91JBSmhx2NFPJ3k8k6Z7DuunKdo7nPjfysMghrSYXNVD2JaOyna5zDYtMehLzdgHObhcUX8vuTg3X2uvl3HRcJ9oncOOS-RCr5M7roaUP7VTAzDQpoX4hs-0Pp0Nvwn96pu2pr381XGnaq1uuQGqCh4Nye_QFZSAXsOvSTr7bcSsSl8mmjZgYGLNMvP4niRFL27RJJoKxhmfUtCweIuRsz5txTN1gzIx8YR2KnVE64L9zqqXUWe_W6GT3p9wAkqHEaUV-GQfrd7lo0HF2WM9TMZCecr9YuA3e__awTJLvpfi5Pucz5uYvvOcEKpsvLQoUH3A3d061XGfexyBBkC0DKdb6RKg8TIdQRwGY=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9425919826&itemId=28953913656&vendorItemId=95283512304&traceid=V0-153-c2947ea3fcd8eb1b&requestid=20261125140223608178322824&token=31850C%7CMIXED&pt=0&slot=2",
+   "source": "관심:LG 퓨리케어 AS156HWWC",
+   "danawa_pcode": "123436549",
+   "model": "AS156HWWC",
+   "checked_at": "2026-11-25T14:02+09:00"
   },
   {
    "id": "9823963170",
