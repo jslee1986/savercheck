@@ -1565,7 +1565,7 @@
   "other_min_shop": null
  },
  "9797526416": {
-  "checked_at": "2026-11-21T19:56+09:00",
+  "checked_at": "2026-11-26T07:56+09:00",
   "coupang_price_at_check": 695000,
   "danawa": {
    "pcode": "99837338",
@@ -1580,50 +1580,50 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 336420,
+    "price": 349830,
     "delivery": 0,
-    "total": 336420,
+    "total": 349830,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "필립스 1200 시리즈 라떼클래식 전자동 에스프레소 커피머신 + 밀크스팀봉 매트블랙 EP1220/19 /더가전",
+    "product_name": "필립스 1200 전자동 에스프레소 커피머신 밀크스팀봉 매트블랙 EP1220/19 /더가전",
     "match": "높음"
    },
    {
-    "shop": "옥션",
-    "price": 336430,
+    "shop": "G마켓",
+    "price": 349840,
     "delivery": 0,
-    "total": 336430,
-    "card_price": null,
-    "card_name": "",
+    "total": 349840,
+    "card_price": 348340,
+    "card_name": "NH농협카드",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
     "match": "높음"
    },
    {
-    "shop": "G마켓",
-    "price": 336430,
+    "shop": "옥션",
+    "price": 349840,
     "delivery": 0,
-    "total": 336430,
-    "card_price": 334430,
-    "card_name": "하나카드",
+    "total": 349840,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
     "match": "높음"
    },
    {
     "shop": "롯데ON",
-    "price": 366590,
-    "delivery": 0,
-    "total": 366590,
+    "price": 359930,
+    "delivery": 3000,
+    "total": 362930,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[온누리상품] 필립스 전자동 원두 커피머신 가정용 에스프레소머신 라떼클래식 EP1220/19",
+    "product_name": "필립스 1200시리즈 EP1220/19",
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "신세계몰",
     "price": 366640,
     "delivery": 0,
     "total": 366640,
@@ -1634,7 +1634,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "SSG.COM",
     "price": 366640,
     "delivery": 0,
     "total": 366640,
@@ -1660,15 +1660,15 @@
     "price": 382700,
     "delivery": 0,
     "total": 382700,
-    "card_price": 355911,
-    "card_name": "롯데카드",
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙 H",
     "match": "높음"
    }
   ],
   "dropped": 3,
-  "other_min": 336420,
+  "other_min": 349830,
   "other_min_shop": "11번가"
  },
  "9452921570": {
@@ -2341,7 +2341,7 @@
   "other_min_shop": null
  },
  "9831004676": {
-  "checked_at": "2026-11-21T19:56+09:00",
+  "checked_at": "2026-11-26T07:56+09:00",
   "coupang_price_at_check": 422400,
   "danawa": {
    "pcode": "99745514",
@@ -2356,35 +2356,13 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 282150,
+    "price": 281470,
     "delivery": 0,
-    "total": 282150,
+    "total": 281470,
     "card_price": null,
     "card_name": "",
     "member_price": null,
     "product_name": "필립스생활가전 라떼클래식 EP0820/00 국내정품(새제품)",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 282160,
-    "delivery": 0,
-    "total": 282160,
-    "card_price": 280160,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 정품 KJ",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 282160,
-    "delivery": 0,
-    "total": 282160,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 정품 KJ",
     "match": "높음"
    },
    {
@@ -2399,6 +2377,28 @@
     "match": "높음"
    },
    {
+    "shop": "옥션",
+    "price": 286540,
+    "delivery": 0,
+    "total": 286540,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 정품 KJ",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 288300,
+    "delivery": 0,
+    "total": 288300,
+    "card_price": 286800,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 디지털샵",
+    "match": "높음"
+   },
+   {
     "shop": "하이마트",
     "price": 289000,
     "delivery": 0,
@@ -2410,7 +2410,7 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "신세계몰",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2432,7 +2432,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "SSG.COM",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2444,7 +2444,7 @@
    }
   ],
   "dropped": 1,
-  "other_min": 282150,
+  "other_min": 281470,
   "other_min_shop": "11번가"
  },
  "9831549160": {
@@ -3304,5 +3304,112 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "9833788381": {
+  "checked_at": "2026-11-26T07:56+09:00",
+  "coupang_price_at_check": 353300,
+  "danawa": {
+   "pcode": "3521947",
+   "name": "HW500DAS",
+   "cate": [
+    118,
+    11420,
+    37137,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "옥션",
+    "price": 246660,
+    "delivery": 0,
+    "total": 246660,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "퓨리케어 LG전자 퓨리케어 자연식가습기 5L(HW500DAS) 전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 246660,
+    "delivery": 0,
+    "total": 246660,
+    "card_price": 245160,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 퓨리케어 자연식가습기 5L(HW500DAS)  전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 246666,
+    "delivery": 0,
+    "total": 246666,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(SSG)LG 퓨리케어 프리미엄 자연기화 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 254280,
+    "delivery": 0,
+    "total": 254280,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG]전자 퓨리케어 에어워셔 가습기 HW500DAS 스카이블루",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 254294,
+    "delivery": 0,
+    "total": 254294,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(SSG)LG 퓨리케어 프리미엄 자연기화 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 254294,
+    "delivery": 0,
+    "total": 254294,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(SSG)LG 퓨리케어 프리미엄 자연기화 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 257670,
+    "delivery": 0,
+    "total": 257670,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG 퓨리케어 프리미엄 에어워셔 자연식 가습기 HW500DAS",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 260001,
+    "delivery": 0,
+    "total": 260001,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG 퓨리케어 자연기화가습기 HW500DAS",
+    "match": "높음"
+   }
+  ],
+  "dropped": 4,
+  "other_min": 246660,
+  "other_min_shop": "옥션"
  }
 }
