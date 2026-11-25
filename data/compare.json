@@ -1,49 +1,4 @@
 {
- "9715023816": {
-  "checked_at": "2026-11-16T16:33+09:00",
-  "coupang_price_at_check": 42000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9455025725": {
-  "checked_at": "2026-11-16T16:33+09:00",
-  "coupang_price_at_check": 73710,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8072638913": {
-  "checked_at": "2026-11-16T16:33+09:00",
-  "coupang_price_at_check": 77900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9649375563": {
-  "checked_at": "2026-11-16T16:33+09:00",
-  "coupang_price_at_check": 349000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9542730594": {
-  "checked_at": "2026-11-16T16:33+09:00",
-  "coupang_price_at_check": 179000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9494361908": {
   "checked_at": "2026-11-21T19:56+09:00",
   "coupang_price_at_check": 151900,
@@ -257,33 +212,6 @@
   "dropped": 3,
   "other_min": 116290,
   "other_min_shop": "옥션"
- },
- "6344348969": {
-  "checked_at": "2026-11-17T07:55+09:00",
-  "coupang_price_at_check": 127000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8565816072": {
-  "checked_at": "2026-11-17T07:55+09:00",
-  "coupang_price_at_check": 309000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8974056437": {
-  "checked_at": "2026-11-17T07:55+09:00",
-  "coupang_price_at_check": 113900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
  },
  "7855749856": {
   "checked_at": "2026-11-21T19:56+09:00",
@@ -615,60 +543,6 @@
   "other_min": null,
   "other_min_shop": null
  },
- "7047286046": {
-  "checked_at": "2026-11-17T10:56+09:00",
-  "coupang_price_at_check": 1620700,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8327575463": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 121900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9793755524": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 198000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8608656696": {
-  "checked_at": "2026-11-17T16:56+09:00",
-  "coupang_price_at_check": 35350,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "6646249078": {
-  "checked_at": "2026-11-17T19:56+09:00",
-  "coupang_price_at_check": 40720,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9535854247": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 47900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9724972673": {
   "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 569000,
@@ -775,15 +649,6 @@
   "dropped": 2,
   "other_min": 482200,
   "other_min_shop": "11번가"
- },
- "9783076381": {
-  "checked_at": "2026-11-17T19:56+09:00",
-  "coupang_price_at_check": 33600,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
  },
  "9794843855": {
   "checked_at": "2026-11-20T07:57+09:00",
@@ -1008,24 +873,6 @@
   "other_min": null,
   "other_min_shop": null
  },
- "148610843": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 31900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9414837375": {
-  "checked_at": "2026-11-17T19:56+09:00",
-  "coupang_price_at_check": 57900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9072150510": {
   "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 262200,
@@ -1076,15 +923,6 @@
   "other_min": 341050,
   "other_min_shop": "롯데홈쇼핑"
  },
- "9796584807": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 96000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9309807813": {
   "checked_at": "2026-11-20T16:57+09:00",
   "coupang_price_at_check": 211770,
@@ -1103,15 +941,6 @@
   "other_min": null,
   "other_min_shop": null
  },
- "9218185667": {
-  "checked_at": "2026-11-18T07:56+09:00",
-  "coupang_price_at_check": 32900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9769362134": {
   "checked_at": "2026-11-18T13:57+09:00",
   "coupang_price_at_check": 82900,
@@ -1124,15 +953,6 @@
  "7821881474": {
   "checked_at": "2026-11-19T07:57+09:00",
   "coupang_price_at_check": 118100,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8744681903": {
-  "checked_at": "2026-11-18T10:56+09:00",
-  "coupang_price_at_check": 179100,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1283,16 +1103,25 @@
   "other_min_shop": null
  },
  "9720959145": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-25T13:57+09:00",
   "coupang_price_at_check": 397600,
-  "danawa": null,
+  "danawa": {
+   "pcode": "91560128",
+   "name": "DELL AW2725DM",
+   "cate": [
+    860,
+    13735,
+    14883,
+    58972
+   ]
+  },
   "malls": [],
-  "dropped": 0,
+  "dropped": 11,
   "other_min": null,
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-25T13:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -1322,7 +1151,7 @@
   "other_min_shop": "하이마트"
  },
  "9823963170": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-25T13:57+09:00",
   "coupang_price_at_check": 170000,
   "danawa": null,
   "malls": [],
@@ -1376,7 +1205,7 @@
   "other_min_shop": null
  },
  "7442148926": {
-  "checked_at": "2026-11-21T07:57+09:00",
+  "checked_at": "2026-11-25T13:57+09:00",
   "coupang_price_at_check": 354960,
   "danawa": {
    "pcode": "9401703",
@@ -1390,36 +1219,69 @@
   },
   "malls": [
    {
-    "shop": "G마켓",
-    "price": 308060,
+    "shop": "11번가",
+    "price": 320310,
     "delivery": 0,
-    "total": 308060,
-    "card_price": 306060,
-    "card_name": "하나카드",
+    "total": 320310,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
+    "product_name": "쿠쿠 트윈프레셔 마스터셰프 CRP-LHTR0610FW IH압력밥솥 6인용 - BNS",
     "match": "높음"
    },
    {
     "shop": "옥션",
-    "price": 308060,
+    "price": 320320,
     "delivery": 0,
-    "total": 308060,
+    "total": 320320,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
+    "product_name": "쿠쿠 쿠쿠 6인용 트윈프레셔 마스터셰프 IH압력밥솥 CRP-LHTR0610FW /L",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 320320,
+    "delivery": 0,
+    "total": 320320,
+    "card_price": 318820,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 6인용 트윈프레셔 마스터셰프 IH압력밥솥 CRP-LHTR0610FW /L",
     "match": "높음"
    },
    {
     "shop": "SSG.COM",
-    "price": 321729,
+    "price": 321374,
     "delivery": 0,
-    "total": 321729,
+    "total": 321374,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 324620,
+    "delivery": 0,
+    "total": 324620,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 324620,
+    "delivery": 0,
+    "total": 324620,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 화이트 6인용",
     "match": "높음"
    },
    {
@@ -1427,10 +1289,10 @@
     "price": 328060,
     "delivery": 0,
     "total": 328060,
-    "card_price": 311660,
-    "card_name": "롯데카드",
+    "card_price": 305100,
+    "card_name": "삼성카드",
     "member_price": null,
-    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW LE1214358524",
     "match": "높음"
    },
    {
@@ -1443,44 +1305,11 @@
     "member_price": null,
     "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
     "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 331679,
-    "delivery": 0,
-    "total": 331679,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 331679,
-    "delivery": 0,
-    "total": 331679,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 338530,
-    "delivery": 0,
-    "total": 338530,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[하이마트] [고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥 CRP-LHTR0610FW",
-    "match": "높음"
    }
   ],
-  "dropped": 4,
-  "other_min": 308060,
-  "other_min_shop": "G마켓"
+  "dropped": 3,
+  "other_min": 320310,
+  "other_min_shop": "11번가"
  },
  "9774007596": {
   "checked_at": "2026-11-19T07:57+09:00",
@@ -3010,7 +2839,7 @@
   "other_min_shop": "옥션"
  },
  "9620652411": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-25T13:57+09:00",
   "coupang_price_at_check": 169000,
   "danawa": {
    "pcode": "122710907",
@@ -3024,6 +2853,17 @@
   },
   "malls": [
    {
+    "shop": "이마트몰",
+    "price": 169000,
+    "delivery": 0,
+    "total": 169000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
+    "match": "높음"
+   },
+   {
     "shop": "옥션",
     "price": 169000,
     "delivery": 0,
@@ -3031,7 +2871,18 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "AOC 알파스캔 AOC Q27B30E QHD 고화질 75Hz IPS 지싱크 HDR 무결점모니터 행사 예약배송",
+    "product_name": "알파스캔 알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 169000,
+    "delivery": 0,
+    "total": 169000,
+    "card_price": 167500,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "알파스캔 알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
     "match": "높음"
    },
    {
@@ -3057,17 +2908,6 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
-    "price": 169000,
-    "delivery": 0,
-    "total": 169000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
-    "match": "높음"
-   },
-   {
     "shop": "롯데ON",
     "price": 174220,
     "delivery": 0,
@@ -3080,9 +2920,9 @@
    },
    {
     "shop": "11번가",
-    "price": 168830,
+    "price": 168990,
     "delivery": 5500,
-    "total": 174330,
+    "total": 174490,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -3090,9 +2930,9 @@
     "match": "높음"
    }
   ],
-  "dropped": 2,
+  "dropped": 1,
   "other_min": 169000,
-  "other_min_shop": "옥션"
+  "other_min_shop": "이마트몰"
  },
  "9808158300": {
   "checked_at": "2026-11-22T19:57+09:00",
@@ -3227,6 +3067,372 @@
  "9707152238": {
   "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 87000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9788478049": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 309000,
+  "danawa": {
+   "pcode": "123730422",
+   "name": "쿠쿠전자 CRP-CHPNL1015FGW",
+   "cate": [
+    1,
+    46,
+    48,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "G마켓",
+    "price": 254890,
+    "delivery": 0,
+    "total": 254890,
+    "card_price": 253390,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (grk)",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 254890,
+    "delivery": 0,
+    "total": 254890,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (Alg)",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 254900,
+    "delivery": 0,
+    "total": 254900,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (1srr)",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 268940,
+    "delivery": 0,
+    "total": 268940,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (Lkn)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 276432,
+    "delivery": 0,
+    "total": 276432,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 279224,
+    "delivery": 0,
+    "total": 279224,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 279224,
+    "delivery": 0,
+    "total": 279224,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 298080,
+    "delivery": 0,
+    "total": 298080,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트 공식판매점",
+    "match": "높음"
+   }
+  ],
+  "dropped": 6,
+  "other_min": 254890,
+  "other_min_shop": "G마켓"
+ },
+ "9833101883": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 236900,
+  "danawa": {
+   "pcode": "123682936",
+   "name": "쿠쿠전자 CRP-DHPNL0615FGG",
+   "cate": [
+    1,
+    46,
+    48,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "옥션",
+    "price": 228320,
+    "delivery": 0,
+    "total": 228320,
+    "card_price": 212330,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 228330,
+    "delivery": 0,
+    "total": 228330,
+    "card_price": 212350,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 239382,
+    "delivery": 0,
+    "total": 239382,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 241800,
+    "delivery": 0,
+    "total": 241800,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 241800,
+    "delivery": 0,
+    "total": 241800,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 246230,
+    "delivery": 0,
+    "total": 246230,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 247100,
+    "delivery": 0,
+    "total": 247100,
+    "card_price": 234750,
+    "card_name": "KB국민카드",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 247680,
+    "delivery": 0,
+    "total": 247680,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 6인용 IH전기압력밥솥 CRP-DHPNL0615FGG 공식판매점",
+    "match": "높음"
+   }
+  ],
+  "dropped": 5,
+  "other_min": 228320,
+  "other_min_shop": "옥션"
+ },
+ "7263933189": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 378000,
+  "danawa": {
+   "pcode": "9401703",
+   "name": "쿠쿠전자 CRP-LHTR0610FW",
+   "cate": [
+    1,
+    46,
+    48,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 320310,
+    "delivery": 0,
+    "total": 320310,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 트윈프레셔 마스터셰프 CRP-LHTR0610FW IH압력밥솥 6인용 - BNS",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 320320,
+    "delivery": 0,
+    "total": 320320,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 6인용 트윈프레셔 마스터셰프 IH압력밥솥 CRP-LHTR0610FW /L",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 320320,
+    "delivery": 0,
+    "total": 320320,
+    "card_price": 318820,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 6인용 트윈프레셔 마스터셰프 IH압력밥솥 CRP-LHTR0610FW /L",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 321374,
+    "delivery": 0,
+    "total": 321374,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 324620,
+    "delivery": 0,
+    "total": 324620,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 324620,
+    "delivery": 0,
+    "total": 324620,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 화이트 6인용",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데백화점",
+    "price": 328060,
+    "delivery": 0,
+    "total": 328060,
+    "card_price": 305100,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW LE1214358524",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 328920,
+    "delivery": 0,
+    "total": 328920,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
+    "match": "높음"
+   }
+  ],
+  "dropped": 3,
+  "other_min": 320310,
+  "other_min_shop": "11번가"
+ },
+ "9793781147": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 208000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9485256179": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 213200,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7994155471": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 66580,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "4919086945": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 34000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9832816187": {
+  "checked_at": "2026-11-25T13:57+09:00",
+  "coupang_price_at_check": 165000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
