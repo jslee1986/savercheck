@@ -1,6 +1,6 @@
 {
  "9494361908": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 151900,
   "danawa": {
    "pcode": "124568601",
@@ -36,7 +36,7 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "신세계몰",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -58,7 +58,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "SSG.COM",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -320,119 +320,12 @@
   "other_min": 325710,
   "other_min_shop": "SSG.COM"
  },
- "9753794706": {
-  "checked_at": "2026-11-19T19:57+09:00",
-  "coupang_price_at_check": 119000,
-  "danawa": {
-   "pcode": "124469402",
-   "name": "KAEK-ST0604S",
-   "cate": [
-    1,
-    28320,
-    221512,
-    0
-   ]
-  },
-  "malls": [
-   {
-    "shop": "오늘의집",
-    "price": 119000,
-    "delivery": 0,
-    "total": 119000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 대용량 에어프라이어 6L + 4L 2in1 글라스볼 KAEK-ST0604S",
-    "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 138140,
-    "delivery": 0,
-    "total": 138140,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 139000,
-    "delivery": 0,
-    "total": 139000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 139000,
-    "delivery": 0,
-    "total": 139000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 139000,
-    "delivery": 0,
-    "total": 139000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 키친아트 라팔 에어프라이어 6리터 오븐 KAEK-ST0604S",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 150420,
-    "delivery": 0,
-    "total": 150420,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 150420,
-    "delivery": 0,
-    "total": 150420,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 150420,
-    "delivery": 0,
-    "total": 150420,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "키친아트 라팔 KAEK-ST0604S 에어프라이어 에어오븐 멀티오븐 전기오븐 4L+6L용기2종",
-    "match": "높음"
-   }
-  ],
-  "dropped": 1,
-  "other_min": 119000,
-  "other_min_shop": "오늘의집"
- },
  "9801631057": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 593100,
   "danawa": {
    "pcode": "123774957",
-   "name": "LG전자 코드제로 A7 Core A720WA",
+   "name": "코드제로 A7 Core A720WA",
    "cate": [
     72,
     80,
@@ -449,7 +342,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "S][LG전자 직영] LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -460,7 +353,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -471,7 +364,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -534,21 +427,12 @@
   "other_min": 579540,
   "other_min_shop": "주식회사 신세계라이브쇼핑"
  },
- "9787523527": {
-  "checked_at": "2026-11-19T19:57+09:00",
-  "coupang_price_at_check": 41200,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9724972673": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 569000,
   "danawa": {
    "pcode": "124298640",
-   "name": "LG전자 코드제로 A5 A520HC",
+   "name": "코드제로 A5 A520HC",
    "cate": [
     72,
     80,
@@ -558,43 +442,10 @@
   },
   "malls": [
    {
-    "shop": "11번가",
-    "price": 482200,
-    "delivery": 0,
-    "total": 482200,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG전자 코드제로 A5 A520HC 컴팩트타워 에센스화이트 물류 또는 택배 레몬",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 482210,
-    "delivery": 0,
-    "total": 482210,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG 코드제로 A5 A520HC (YM)",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 482210,
-    "delivery": 0,
-    "total": 482210,
-    "card_price": 480210,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "LG 코드제로 A5 A520HC (YM)",
-    "match": "높음"
-   },
-   {
     "shop": "SSG.COM",
-    "price": 484001,
+    "price": 473326,
     "delivery": 0,
-    "total": 484001,
+    "total": 473326,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -602,10 +453,43 @@
     "match": "높음"
    },
    {
-    "shop": "롯데ON",
-    "price": 493570,
+    "shop": "롯데홈쇼핑",
+    "price": 475970,
     "delivery": 0,
-    "total": 493570,
+    "total": 475970,
+    "card_price": 452170,
+    "card_name": "BC카드",
+    "member_price": null,
+    "product_name": "LG전자 [엘지전자] LG전자 코드제로 A5 A520HC (S2)",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 483150,
+    "delivery": 0,
+    "total": 483150,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 코드제로 무선청소기 A5 흡입전용 A520HC 자동 먼지 비움 에센스 화이트 (A+) 무료배송/택배빠른배송",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 483150,
+    "delivery": 0,
+    "total": 483150,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 코드제로 무선청소기 A5 흡입전용 A520HC 자동 먼지 비움 에센스 화이트 (A+) 무료배송/택배빠른배송",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 484250,
+    "delivery": 0,
+    "total": 484250,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -613,10 +497,10 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
-    "price": 498970,
+    "shop": "이마트몰",
+    "price": 487964,
     "delivery": 0,
-    "total": 498970,
+    "total": 487964,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -624,10 +508,10 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
-    "price": 498970,
+    "shop": "신세계몰",
+    "price": 487964,
     "delivery": 0,
-    "total": 498970,
+    "total": 487964,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -636,9 +520,9 @@
    },
    {
     "shop": "전자랜드",
-    "price": 560000,
+    "price": 646800,
     "delivery": 0,
-    "total": 560000,
+    "total": 646800,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -646,9 +530,9 @@
     "match": "높음"
    }
   ],
-  "dropped": 2,
-  "other_min": 482200,
-  "other_min_shop": "11번가"
+  "dropped": 3,
+  "other_min": 473326,
+  "other_min_shop": "SSG.COM"
  },
  "9794843855": {
   "checked_at": "2026-11-20T07:57+09:00",
@@ -865,11 +749,20 @@
   "other_min_shop": "G마켓"
  },
  "9445151005": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 2900000,
-  "danawa": null,
+  "danawa": {
+   "pcode": "108367196",
+   "name": "AI 스팀 울트라 직배수 VR90F01SAG",
+   "cate": [
+    72,
+    80,
+    88,
+    0
+   ]
+  },
   "malls": [],
-  "dropped": 0,
+  "dropped": 16,
   "other_min": null,
   "other_min_shop": null
  },
@@ -1523,24 +1416,6 @@
   "other_min": 854670,
   "other_min_shop": "롯데홈쇼핑"
  },
- "9477725743": {
-  "checked_at": "2026-11-19T19:57+09:00",
-  "coupang_price_at_check": 35000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "7810065193": {
-  "checked_at": "2026-11-19T19:57+09:00",
-  "coupang_price_at_check": 34600,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9580820581": {
   "checked_at": "2026-11-20T07:57+09:00",
   "coupang_price_at_check": 88700,
@@ -1560,11 +1435,11 @@
   "other_min_shop": null
  },
  "9807871048": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 469000,
   "danawa": {
    "pcode": "123803664",
-   "name": "LG전자 코드제로 A5 AS520HA",
+   "name": "코드제로 A5 AS520HA",
    "cate": [
     72,
     80,
@@ -2215,7 +2090,7 @@
   "other_min_shop": "옥션"
  },
  "9831549160": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 192700,
   "danawa": {
    "pcode": "124568601",
@@ -2251,7 +2126,7 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "신세계몰",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -2273,7 +2148,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "SSG.COM",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -3305,7 +3180,7 @@
   "other_min_shop": "롯데백화점"
  },
  "9842073982": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 215080,
   "danawa": {
    "pcode": "62164070",
@@ -3421,7 +3296,7 @@
   "other_min_shop": null
  },
  "9633585405": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 161260,
   "danawa": null,
   "malls": [],
@@ -3439,7 +3314,7 @@
   "other_min_shop": null
  },
  "9803268517": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 81000,
   "danawa": null,
   "malls": [],
@@ -3448,7 +3323,7 @@
   "other_min_shop": null
  },
  "8709610613": {
-  "checked_at": "2026-11-26T19:57+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 56000,
   "danawa": null,
   "malls": [],
@@ -3457,11 +3332,11 @@
   "other_min_shop": null
  },
  "9840747578": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 1014200,
   "danawa": {
    "pcode": "123436555",
-   "name": "LG전자 코드제로 A9 AX920BWE",
+   "name": "코드제로 A9 AX920BWE",
    "cate": [
     72,
     80,
@@ -3472,9 +3347,9 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 697880,
+    "price": 697820,
     "delivery": 0,
-    "total": 697880,
+    "total": 697820,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -3483,9 +3358,9 @@
    },
    {
     "shop": "G마켓",
-    "price": 697890,
+    "price": 697830,
     "delivery": 0,
-    "total": 697890,
+    "total": 697830,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -3537,7 +3412,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 731737,
     "delivery": 0,
     "total": 731737,
@@ -3548,7 +3423,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 731737,
     "delivery": 0,
     "total": 731737,
@@ -3560,15 +3435,15 @@
    }
   ],
   "dropped": 2,
-  "other_min": 697880,
+  "other_min": 697820,
   "other_min_shop": "11번가"
  },
  "9036540204": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 967900,
   "danawa": {
    "pcode": "123436555",
-   "name": "LG전자 코드제로 A9 AX920BWE",
+   "name": "코드제로 A9 AX920BWE",
    "cate": [
     72,
     80,
@@ -3579,9 +3454,9 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 697880,
+    "price": 697820,
     "delivery": 0,
-    "total": 697880,
+    "total": 697820,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -3590,9 +3465,9 @@
    },
    {
     "shop": "G마켓",
-    "price": 697890,
+    "price": 697830,
     "delivery": 0,
-    "total": 697890,
+    "total": 697830,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -3644,7 +3519,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 731737,
     "delivery": 0,
     "total": 731737,
@@ -3655,7 +3530,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 731737,
     "delivery": 0,
     "total": 731737,
@@ -3667,15 +3542,15 @@
    }
   ],
   "dropped": 2,
-  "other_min": 697880,
+  "other_min": 697820,
   "other_min_shop": "11번가"
  },
  "8955812055": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 599000,
   "danawa": {
    "pcode": "123774957",
-   "name": "LG전자 코드제로 A7 Core A720WA",
+   "name": "코드제로 A7 Core A720WA",
    "cate": [
     72,
     80,
@@ -3692,7 +3567,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "S][LG전자 직영] LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -3703,7 +3578,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -3714,7 +3589,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -3778,11 +3653,11 @@
   "other_min_shop": "주식회사 신세계라이브쇼핑"
  },
  "9836861089": {
-  "checked_at": "2026-11-26T16:56+09:00",
+  "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 432000,
   "danawa": {
    "pcode": "123803664",
-   "name": "LG전자 코드제로 A5 AS520HA",
+   "name": "코드제로 A5 AS520HA",
    "cate": [
     72,
     80,
@@ -3883,5 +3758,160 @@
   "dropped": 1,
   "other_min": 382149,
   "other_min_shop": "SSG.COM"
+ },
+ "9794843242": {
+  "checked_at": "2026-11-27T07:57+09:00",
+  "coupang_price_at_check": 1740000,
+  "danawa": {
+   "pcode": "108229415",
+   "name": "AI 스팀 울트라 VR90F01AAG",
+   "cate": [
+    72,
+    80,
+    88,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 1431000,
+    "delivery": 0,
+    "total": 1431000,
+    "card_price": 1359450,
+    "card_name": "NH농협카드",
+    "member_price": null,
+    "product_name": "(프리스탠딩) 삼성 BESPOKE AI 스팀 울트라 로봇청소기 [VR90F01AAG/ VR90F01AAH]",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 1542870,
+    "delivery": 0,
+    "total": 1542870,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "비스포크 VR90F01AAG o클릭o 삼성전자 Bespoke AI 로봇청소기 스팀 울트라 새틴그레이지 전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 1542870,
+    "delivery": 0,
+    "total": 1542870,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성전자 VR90F01AAG o클릭o 삼성전자 Bespoke AI 로봇청소기 스팀 울트라 새틴그레이지 전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 1567039,
+    "delivery": 0,
+    "total": 1567039,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성 로봇청소기 VR90F01AAG 새틴그레이지",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 1571200,
+    "delivery": 0,
+    "total": 1571200,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "VR90F01AAG o클릭o 삼성전자 Bespoke AI 로봇청소기 스팀 울트라 새틴그레이지 전국무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 1578370,
+    "delivery": 0,
+    "total": 1578370,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성 로봇청소기 VR90F01AAG 무료배송",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 1582039,
+    "delivery": 0,
+    "total": 1582039,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성 로봇청소기 VR90F01AAG 새틴그레이지",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 1582039,
+    "delivery": 0,
+    "total": 1582039,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성 로봇청소기 VR90F01AAG 새틴그레이지",
+    "match": "높음"
+   }
+  ],
+  "dropped": 2,
+  "other_min": 1431000,
+  "other_min_shop": "롯데홈쇼핑"
+ },
+ "9572595068": {
+  "checked_at": "2026-11-27T07:57+09:00",
+  "coupang_price_at_check": 356680,
+  "danawa": {
+   "pcode": "123235646",
+   "name": "모멘텀 3X",
+   "cate": [
+    1825,
+    10731,
+    58540,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 364370,
+    "delivery": 0,
+    "total": 364370,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "베벨로 바이크 모멘텀 3X 실내자전거",
+    "match": "보통"
+   }
+  ],
+  "dropped": 0,
+  "other_min": 364370,
+  "other_min_shop": "11번가"
+ },
+ "8710122036": {
+  "checked_at": "2026-11-27T07:57+09:00",
+  "coupang_price_at_check": 162540,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8869279257": {
+  "checked_at": "2026-11-27T07:57+09:00",
+  "coupang_price_at_check": 124000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
