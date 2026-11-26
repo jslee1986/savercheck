@@ -1,53 +1,17 @@
 {
- "collected_at": "2026-11-26T13:58+09:00",
+ "collected_at": "2026-11-27T00:04+09:00",
  "items": [
   {
-   "id": "8952462222",
-   "name": "캐리어 클라윈드 슬림 255L 2도어 냉장고 방문설치",
-   "price": 319000,
-   "rocket": true,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/bf7f/b5e4a7cbbb09d7b7791051bb85e695084994c46f71e0d6dc255db56808f2.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8952462222&itemId=26187768673&vendorItemId=85160350624&traceid=V0-143-ef29f66478771d61&pt=0&slot=5",
-   "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
-  },
-  {
-   "id": "9633585405",
-   "name": "Lydsto 자동 분수 스마트 창문 로봇청소기 수납 케이스 증정",
-   "price": 161260,
+   "id": "8710122036",
+   "name": "설화수 탄력 3종 세트",
+   "price": 162540,
    "rocket": true,
    "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://thumbnail14.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/ef35bea5-67fa-49a0-8319-32a92717b96a_fixing_v2_1791276644585.png",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9633585405&itemId=28778026694&vendorItemId=96031636875&traceid=V0-143-186020c3014c0141&pt=0&slot=7",
+   "category": "뷰티",
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/599620146374208-0e5fb283-b4ac-495b-90fb-b5011a7338d2.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8710122036&itemId=25295342741&vendorItemId=91955712190&traceid=V0-143-13e1dffbbb3c1c11&pt=0&slot=10",
    "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
-  },
-  {
-   "id": "8992160748",
-   "name": "네오플램 인덕션 드래곤 팬&웍 3종 세트",
-   "price": 48900,
-   "rocket": true,
-   "free_ship": false,
-   "category": "주방용품",
-   "image": "https://thumbnail1.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/08/15/15/9/3f97d8e1-4647-4938-bd30-1aaf09cf1501.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8992160748&itemId=26341608199&vendorItemId=93318674667&traceid=V0-143-154c21e4463249a9&pt=0&slot=15",
-   "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
-  },
-  {
-   "id": "45184835",
-   "name": "대일엠앤쿡 팬선생 생선구이 팬 + 뚜껑",
-   "price": 31500,
-   "rocket": true,
-   "free_ship": false,
-   "category": "주방용품",
-   "image": "https://thumbnail5.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/6592013013045-8df111f3-0d0d-4819-9a56-fe24ea3a7f39.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=45184835&itemId=161675442&vendorItemId=3381255036&traceid=V0-143-51967d97889e2be1&pt=0&slot=17",
-   "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
+   "checked_at": "2026-11-27T00:04+09:00"
   },
   {
    "id": "9803268517",
@@ -56,10 +20,34 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/11/03/14/8/6e4791bd-3bc5-4e23-937e-71d8137ab692.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9803268517&itemId=29355821132&vendorItemId=96268778877&traceid=V0-143-b264508e81c95382&pt=0&slot=19",
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/11/03/14/2/70a01997-c37f-4821-84eb-0906712c1cfb.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9803268517&itemId=29355821125&vendorItemId=96268778867&traceid=V0-143-b264508e81c95382&pt=0&slot=11",
    "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
+   "checked_at": "2026-11-27T00:04+09:00"
+  },
+  {
+   "id": "8869279257",
+   "name": "브라이튼 엘론 확장형 전면오픈 경량 캐리어 20인치, 24인치, 28인치",
+   "price": 124000,
+   "rocket": true,
+   "free_ship": false,
+   "category": "패션잡화",
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2025/06/25/17/6/ae333c59-a3a8-4491-9684-02f98a532feb.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8869279257&itemId=25873004944&vendorItemId=92859119073&traceid=V0-143-b36e16f0f0d4badd&pt=0&slot=12",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T00:04+09:00"
+  },
+  {
+   "id": "9633585405",
+   "name": "Lydsto 자동 분수 스마트 창문 로봇청소기 수납 케이스 증정",
+   "price": 161260,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/image_audit/stage/manual/ef35bea5-67fa-49a0-8319-32a92717b96a_fixing_v2_1791276644585.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9633585405&itemId=28778026694&vendorItemId=96031636875&traceid=V0-143-186020c3014c0141&pt=0&slot=14",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T00:04+09:00"
   },
   {
    "id": "8709610613",
@@ -68,22 +56,64 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션잡화",
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/uezorxmu/19e195e083ba47e39fedf1d3e9993aa3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8709610613&itemId=25294029506&vendorItemId=92289403757&traceid=V0-143-0586a4bf44801bc3&pt=0&slot=21",
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/uezorxmu/19e195e083ba47e39fedf1d3e9993aa3.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8709610613&itemId=25294029506&vendorItemId=92289403757&traceid=V0-143-0586a4bf44801bc3&pt=0&slot=19",
    "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
+   "checked_at": "2026-11-27T00:04+09:00"
   },
   {
-   "id": "9837465360",
-   "name": "샥즈 오픈 런 프로2 S820 골전도 블루투스 이어폰 OpenRun Pro 2",
-   "price": 139000,
+   "id": "9572595068",
+   "name": "베벨로 바이크 모멘텀 3X 실내자전거",
+   "price": 356680,
+   "rocket": true,
+   "free_ship": false,
+   "category": "스포츠/레저용품",
+   "image": "https://thumbnail2.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2026/10/16/16/7/3c781ad1-23b3-483f-a531-ed053a2965d1.png",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9572595068&itemId=28572417035&vendorItemId=96194987088&traceid=V0-143-fdea4e28f7963296&pt=0&slot=21",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T00:04+09:00"
+  },
+  {
+   "id": "9724972673",
+   "name": "LG전자 코드제로 A5 A520HC 흡입전용+컴팩트타워포함 에센스화이트 / W",
+   "price": 569000,
    "rocket": false,
    "free_ship": true,
    "category": "가전디지털",
-   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/97ad/ffeb1fc2e9844b9c16bdd0a3b5499b49c717a66b4a75e3e3b891e131e780.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9837465360&itemId=29466906055&vendorItemId=91778307055&traceid=V0-143-dc300aab8cb665a5&pt=0&slot=23",
-   "source": "골드박스",
-   "checked_at": "2026-11-26T13:58+09:00"
+   "image": "https://ads-partners.coupang.com/image1/TZDRxh3r0KGHa3GDTW9fOl8_hL99QToK3AmlV8MVhnjnrmQONUfxyd-a7vO8GBGcQQFdIzcCTgCgY15m1YhK5mlm4gDZloU9ibEnlvI9E340IOkqFEbB75R1zoMRjOGllpMeOd_YjV52ohnf4Coag44I7XjPmszVNUEHhvc9I47KtTBOWqT9bffe_T3nDRXNTYUQFbYnTd5c7pg5bKrALSBzufRf-r3h3RFdZ5rsUTgFB5EuBfuMRWcLZuw0Y5ScvHO5NJhd8gfITWBg9QSME_PxKwavDVyAUWoK0eCf2lAolVaaMtpKVCchtzU9RgiEynvngNHNmVb7bOeLCGnsnTjwOaiVb1az3sj-Th1NAl45B5hbAqi5e3VfsgQfxcI-c6Uzk6tStYZQFY8lYXfNtGoISLVCyuv2nIllqpwoYR7MtUuE3n3BJy236C400FeTwx2s-tDatL0KwHfSl1OJCeTRDIq4fYcDLMW56hyphHR6gJE039zGpj3U4X-EXQdO57glOctCmX6Lctnh56sM032ImjAdGpPslZPS2XGoioYnCF2cLPPOCnU=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9724972673&itemId=29102321874&vendorItemId=96085517310&traceid=V0-153-36b0a187f719c7a1&requestid=20261127000446657194651878&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:LG 코드제로 A520HC",
+   "danawa_pcode": "124298640",
+   "model": "A520HC",
+   "checked_at": "2026-11-27T00:04+09:00"
+  },
+  {
+   "id": "9794843242",
+   "name": "삼성전자 비스포크 AI 스팀 울트라 로봇청소기 VR90F01AAG 새틴 그레이지 일반 스테이션",
+   "price": 1740000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/WaANXnXmqL5gFa_LWYDK3gRSdEIfiCLvCQ_6q6SuTq6SFk8GzITX2M8vPJyybG5BuV0K1Yr9Br5AsEsd3zlCgUMTuLGRaa2P_AxY355Oq0DUbJvL9raBCgRnFg94Wxj3ZS30OPAK4M85y7g7jplcPrBhrsKsDWBkRtoyNeFBX1dlUbNYhBifc7Ug9JnudYowGcrSchTqaY2xRbL7XBWGOh0GlKaA8eq8rvtZmmEEUM5wNnrjzeVgHI2RcrBBXvLjsuCfy-bxLk_deYBB7dzjZ84Z4ypaWUD_ziN84Dt9hKXptVabfhVTE6ohubcZ1jBB8e7K9Bb0ILqdo3y4tOoyDA_Az3Mzg3dcrfh7xw7J6niKBqVHz0IiRe337EyY_Xlx5PYU-R4nRaU_tMbzh3PHbcAo54Ni5eM06uTd7TyGMlvRd31T7OBj6JKZmdugT-GvuC5fdUrFHXmSwpJHSDmaBuypX_ZThNOdlySb3-enQrNNSZTyTvIdxKZ1ehfioId8FW8KzKcuBZzLnrF3TKiM4yWSR1SkNFQthFgbmSoaNjU7poquMlxfstCFrRkumK9Ckd6LzzJRb-Pe6wd5YSlZdhAqzoXoeSOrVX-76fDtp0GBSxCZskI=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9794843242&itemId=29327395196&vendorItemId=96241693335&traceid=V0-153-4c1dd63447a85a14&requestid=20261127000451499250726021&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:삼성 로봇청소기 VR90F01AAG",
+   "danawa_pcode": "108229415",
+   "model": "VR90F01AAG",
+   "checked_at": "2026-11-27T00:04+09:00"
+  },
+  {
+   "id": "9445151005",
+   "name": "삼성전자 비스포크 스팀 로봇청소기+액세서리 키트 VR90F01SAG98AS",
+   "price": 2900000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/Le3WKFCGfVLT7_WzLbXLkwd_KL4EfHVeecGqEm0U2T76sQK8Bmd-Xt8yQXzulw6b7dE3fo9Drfd613z8pl9ccvPr_Nbl-JbYvEFy4ZJZojQxB0-5Xwk5GwhGbv6SUNGlllA7CuTGUJFBY-OZhoVF41gzFviyWJ4Rufo1cak3Eto76teruhq2eNWTJW0gxkUGTariTjcg7gxYeVEPnI1DJuk6nX_itBXJZd_tl3tkGVZDHcwyYIzalZ06_CQriq3uXMHXtktxfAOUJFCtwrRAmYQKTya8qtTNdcrdCAHVFcPpr62HI4sXvbUBitCB6F6B8mfzb3-J8-pcp60ybFwviAW_HgcJBBSFXulI88oeoIctOzftRv1vk75QWR2gJG1G5o8fivC-4gF-egS8l7iHvgg3glRLncYhjKysLNlsTiG-1TQMv3j5TT1KtD4wDXIBG0l11xuf9kiNPeKOxYvUD-0VXXFI3AAhrEM8O_ZE0WQK9xoC6FKLiL7odc4tLrhlaVrJM7nj7vKVm2pqZtYXrHPVVueTo80jyosR9zFdllawa9J7418dMPwL99a5U1xaE1FkJsmDitc4X0JUtQcK1aCe1umtLrprEqKqaMx3OC_bs3f9vQYh",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9445151005&itemId=28094657152&vendorItemId=95050263155&traceid=V0-153-2f579b84c3dbfe51&requestid=20261127000454140323548868&token=31850C%7CGM&pt=0&slot=1",
+   "source": "관심:삼성 로봇청소기 VR90F01SAG",
+   "danawa_pcode": "108367196",
+   "model": "VR90F01SAG",
+   "checked_at": "2026-11-27T00:04+09:00"
   },
   {
    "id": "9840747578",
@@ -210,34 +240,6 @@
    "danawa_pcode": "62164070",
    "model": "CAFO-C1810EDG",
    "checked_at": "2026-11-26T13:24+09:00"
-  },
-  {
-   "id": "9831004676",
-   "name": "필립스 1000 시리즈 전자동 커피머신 EP0820/00 가정용 에스프레소 머신",
-   "price": 422400,
-   "rocket": false,
-   "free_ship": false,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/XUyaD0RMiToYzi1TXa4lpfp0wgX5-VgxVxVaY0ZKs-pldE-wTzeLotHT3P2azXjNBgZcq0PSL3wc3eN4nww_hm4_gelwptMweF2yUJYqrN_JJzKtUHuMRt9fZdm92UdEy49nY4SX3HuiMDjo1Tq7YZcQ7bi6mEtk8zayve9UF-etiysL7icZH0qyqKY7IuPnbu021V3cheWAYikkFm3q76IAGLcoooYhOqs0tXG8hE0UlBKNMI86Zzx6xd7CLOPbet72ZW5jwroz2vr9-R4SYQw0bqMf4ae9SofIUFvBtm6bsbROzLYcEYDSowXydXy_9MJj2uZhfIzjtMP84sZJaugmHZFoEkrJtX5TQ3ap6548eTxBjrYjx1hbsdB55raIv1KstZ9CgYTL0TAtoH0f2D7xMfvsiAHP3CrgctpfVY95610h9037WtmczOTudCSSrSvxFRlwqey7OmjG4jjv2ukR7HZSZ0TM8nGeDQdSOuTPhJ9OVGdWLnhlJtAKrGoNrBu6x0KOli583TG7UfVqqCdpzuMGGcrRua4sA5cp6WLvCe9vXa1npThP6NuI",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9831004676&itemId=29445887852&vendorItemId=96355244274&traceid=V0-153-a09080a5afebaa12&requestid=20261126072743446323545885&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:필립스 EP0820/00",
-   "danawa_pcode": "99745514",
-   "model": "EP0820/00",
-   "checked_at": "2026-11-26T07:27+09:00"
-  },
-  {
-   "id": "9797526416",
-   "name": "필립스생활가전 필립스 1200시리즈 라떼클래식 EP1220/19 매트블랙",
-   "price": 695000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/rjjlSJSO92qtERp1rhJ4MlTeZDo8oHNTTiOQ5T7-ApQGQ1x9kDc0ZbEJoL6z7PzPnuRhb9oZP7-An8Cyuab33NKXghPXtCMPUIxoJH5aWJn4d1ehJ7_1rNdHLpCQNhEJV_UJkbipvqahqQ_KXxhsuCOwvtmUKNF3blb1dXawLnDkR2-THsaz2owWwn2rjElO6NCk3rHR4ErLCVdNPzZa2ejsSHSxhNLdPRONRhoePU5Ck_K0WNaWx5h0wHWL2fv54lDZ1xoOQFcUIVTx66icRiaJpzqAltqVly96VAv_-KdxCe5dyRr_tpJPM9INxReRElNj_-2U38He_jYJ7g6L_PWtg-hnNsBA746dz0E_54H0HtU_56CP9PWsDYaDbELZ88eLnOcmgdkaZOYRXROf3FhbG8SixFvK4jgkOmFZQl-7fs0nXMChxPbZv7rTU6gsE1_BqjXhGwhbFkbwlIWc6-vN7Ksad2tU9QcscL1Hg2GvYJE3PFBAzAsu9RyZIdFmnqPzuockRdb6Df2bnMB3M2BG-BAhL2Q2kKUnKpvxFw7Nosyxe0QrR15FK6ywpQ==",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9797526416&itemId=29336912647&vendorItemId=96250522108&traceid=V0-153-0d5669cebb99256f&requestid=20261126072745888283013267&token=31850C%7CMIXED&pt=0&slot=3",
-   "source": "관심:필립스 EP1220/19",
-   "danawa_pcode": "99837338",
-   "model": "EP1220/19",
-   "checked_at": "2026-11-26T07:27+09:00"
   }
  ]
 }
