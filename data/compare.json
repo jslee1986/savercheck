@@ -428,7 +428,7 @@
   "other_min_shop": "오늘의집"
  },
  "9801631057": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-26T16:56+09:00",
   "coupang_price_at_check": 593100,
   "danawa": {
    "pcode": "123774957",
@@ -443,79 +443,57 @@
   "malls": [
    {
     "shop": "주식회사 신세계라이브쇼핑",
-    "price": 566660,
+    "price": 579540,
     "delivery": 0,
-    "total": 566660,
+    "total": 579540,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(11/26이후 순차배송) S][LG전자 직영] LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "S][LG전자 직영] LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
     "shop": "SSG.COM",
-    "price": 569174,
+    "price": 582451,
     "delivery": 0,
-    "total": 569174,
+    "total": 582451,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점](11/26이후 순차배송) S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
     "shop": "신세계몰",
-    "price": 584174,
+    "price": 597451,
     "delivery": 0,
-    "total": 584174,
+    "total": 597451,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[신세계백화점](11/26이후 순차배송) S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
     "shop": "이마트몰",
-    "price": 594937,
+    "price": 609627,
     "delivery": 0,
-    "total": 594937,
+    "total": 609627,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(11/24이후 순차배송) S][LG전자 직영] LG 코드제로 오브제컬렉션 A7 Core 청소기 A720WA",
+    "product_name": "S][LG전자 직영] LG 코드제로 오브제컬렉션 A7 Core 청소기 A720WA",
     "match": "높음"
    },
    {
     "shop": "11번가",
-    "price": 597870,
+    "price": 618250,
     "delivery": 0,
-    "total": 597870,
+    "total": 618250,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "[LG] (11/26이후 순차배송) S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 625480,
-    "delivery": 0,
-    "total": 625480,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[신세계백화점](LG)(11/26이후 순차배송) SLG전자 직영_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 625480,
-    "delivery": 0,
-    "total": 625480,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[신세계백화점](LG)(11/26이후 순차배송) SLG전자 직영_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "product_name": "[LG] S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
     "match": "높음"
    },
    {
@@ -528,10 +506,32 @@
     "member_price": null,
     "product_name": "LG 코드제로 오브제 A7 Core 청소기 카밍베이지 [A720WA]",
     "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 631450,
+    "delivery": 0,
+    "total": 631450,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]LG전자 (LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 631450,
+    "delivery": 0,
+    "total": 631450,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점](LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
    }
   ],
   "dropped": 1,
-  "other_min": 566660,
+  "other_min": 579540,
   "other_min_shop": "주식회사 신세계라이브쇼핑"
  },
  "9787523527": {
@@ -1188,131 +1188,6 @@
   "other_min": 291778,
   "other_min_shop": "오늘의집"
  },
- "9786915907": {
-  "checked_at": "2026-11-19T13:56+09:00",
-  "coupang_price_at_check": 112000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9781659423": {
-  "checked_at": "2026-11-19T13:56+09:00",
-  "coupang_price_at_check": 353300,
-  "danawa": {
-   "pcode": "3521947",
-   "name": "LG전자 퓨리케어 HW500DAS",
-   "cate": [
-    118,
-    11420,
-    37199,
-    0
-   ]
-  },
-  "malls": [
-   {
-    "shop": "G마켓",
-    "price": 248310,
-    "delivery": 0,
-    "total": 248310,
-    "card_price": 246310,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "LG전자 LG전자 HW500DAS (세븐-운송료상이)",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 248731,
-    "delivery": 0,
-    "total": 248731,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG전자 퓨리케어 에어워셔 가습기 HW500DAS 스카이블루",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 248750,
-    "delivery": 0,
-    "total": 248750,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "퓨리케어 LG전자 퓨리케어 자연식가습기 5L(HW500DAS) 전국무료배송",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 256423,
-    "delivery": 0,
-    "total": 256423,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG전자 퓨리케어 에어워셔 가습기 HW500DAS 스카이블루",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 256423,
-    "delivery": 0,
-    "total": 256423,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG전자 퓨리케어 자연기화식 가습기 HW500DAS",
-    "match": "높음"
-   },
-   {
-    "shop": "11번가",
-    "price": 256430,
-    "delivery": 0,
-    "total": 256430,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "[LG](S)LG 퓨리케어 프리미엄 자연기화 가습기 HW500DAS",
-    "match": "높음"
-   },
-   {
-    "shop": "주식회사 신세계라이브쇼핑",
-    "price": 256730,
-    "delivery": 0,
-    "total": 256730,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "(11/26이후 순차배송) S][LG전자 직영] 퓨리케어 가습기 HW500DAS",
-    "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 257670,
-    "delivery": 0,
-    "total": 257670,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "LG전자 LG 퓨리케어 프리미엄 에어워셔 자연식 가습기 HW500DAS",
-    "match": "높음"
-   }
-  ],
-  "dropped": 4,
-  "other_min": 248310,
-  "other_min_shop": "G마켓"
- },
- "7045581898": {
-  "checked_at": "2026-11-19T13:56+09:00",
-  "coupang_price_at_check": 134200,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "6714055840": {
   "checked_at": "2026-11-21T16:56+09:00",
   "coupang_price_at_check": 509000,
@@ -1712,11 +1587,11 @@
   "other_min_shop": null
  },
  "9807871048": {
-  "checked_at": "2026-11-20T07:57+09:00",
+  "checked_at": "2026-11-26T16:56+09:00",
   "coupang_price_at_check": 469000,
   "danawa": {
    "pcode": "123803664",
-   "name": "LG전자 코드 제로 A5 AS520HA",
+   "name": "LG전자 코드제로 A5 AS520HA",
    "cate": [
     72,
     80,
@@ -3607,5 +3482,433 @@
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "9840747578": {
+  "checked_at": "2026-11-26T16:56+09:00",
+  "coupang_price_at_check": 1014200,
+  "danawa": {
+   "pcode": "123436555",
+   "name": "LG전자 코드제로 A9 AX920BWE",
+   "cate": [
+    72,
+    80,
+    81,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 697880,
+    "delivery": 0,
+    "total": 697880,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 697890,
+    "delivery": 0,
+    "total": 697890,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 704780,
+    "delivery": 0,
+    "total": 704780,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 716500,
+    "delivery": 0,
+    "total": 716500,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 [LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 716737,
+    "delivery": 0,
+    "total": 716737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 729440,
+    "delivery": 0,
+    "total": 729440,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 731737,
+    "delivery": 0,
+    "total": 731737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 731737,
+    "delivery": 0,
+    "total": 731737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   }
+  ],
+  "dropped": 2,
+  "other_min": 697880,
+  "other_min_shop": "11번가"
+ },
+ "9036540204": {
+  "checked_at": "2026-11-26T16:56+09:00",
+  "coupang_price_at_check": 967900,
+  "danawa": {
+   "pcode": "123436555",
+   "name": "LG전자 코드제로 A9 AX920BWE",
+   "cate": [
+    72,
+    80,
+    81,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 697880,
+    "delivery": 0,
+    "total": 697880,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 697890,
+    "delivery": 0,
+    "total": 697890,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 704780,
+    "delivery": 0,
+    "total": 704780,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 716500,
+    "delivery": 0,
+    "total": 716500,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 [LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 716737,
+    "delivery": 0,
+    "total": 716737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 729440,
+    "delivery": 0,
+    "total": 729440,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 LG전자 오브제컬렉션 코드제로 A9 AX920BWE  포유",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 731737,
+    "delivery": 0,
+    "total": 731737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 731737,
+    "delivery": 0,
+    "total": 731737,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "TS][LG전자 직영] LG 코드제로 오브제컬렉션 A9 청소기 AX920BWE",
+    "match": "높음"
+   }
+  ],
+  "dropped": 2,
+  "other_min": 697880,
+  "other_min_shop": "11번가"
+ },
+ "8955812055": {
+  "checked_at": "2026-11-26T16:56+09:00",
+  "coupang_price_at_check": 599000,
+  "danawa": {
+   "pcode": "123774957",
+   "name": "LG전자 코드제로 A7 Core A720WA",
+   "cate": [
+    72,
+    80,
+    81,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 579540,
+    "delivery": 0,
+    "total": 579540,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 582451,
+    "delivery": 0,
+    "total": 582451,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 597451,
+    "delivery": 0,
+    "total": 597451,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 609627,
+    "delivery": 0,
+    "total": 609627,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 오브제컬렉션 A7 Core 청소기 A720WA",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 618250,
+    "delivery": 0,
+    "total": 618250,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG] S][LG전자 직영]_LG 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 630000,
+    "delivery": 0,
+    "total": 630000,
+    "card_price": 598500,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "LG 코드제로 오브제 A7 Core 청소기 카밍베이지 [A720WA]",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 631450,
+    "delivery": 0,
+    "total": 631450,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]LG전자 (LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 631450,
+    "delivery": 0,
+    "total": 631450,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점](LG)SLG전자 직영 코드제로 A7 Core 청소기 A720WA (흡입전용)",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 579540,
+  "other_min_shop": "주식회사 신세계라이브쇼핑"
+ },
+ "9836861089": {
+  "checked_at": "2026-11-26T16:56+09:00",
+  "coupang_price_at_check": 432000,
+  "danawa": {
+   "pcode": "123803664",
+   "name": "LG전자 코드제로 A5 AS520HA",
+   "cate": [
+    72,
+    80,
+    81,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "SSG.COM",
+    "price": 382149,
+    "delivery": 0,
+    "total": 382149,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 382170,
+    "delivery": 0,
+    "total": 382170,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 393968,
+    "delivery": 0,
+    "total": 393968,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]S][LG전자 직영] 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 400660,
+    "delivery": 0,
+    "total": 400660,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 [LG전자 직영]LG 코드제로 A5 AS520HA",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 403082,
+    "delivery": 0,
+    "total": 403082,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 코드제로 A5 청소기 AS520HA",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 406180,
+    "delivery": 0,
+    "total": 406180,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점](LG)SLG전자 직영 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 406180,
+    "delivery": 0,
+    "total": 406180,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점]LG전자 (LG)SLG전자 직영 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 407690,
+    "delivery": 0,
+    "total": 407690,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG] S][LG전자 직영] 코드제로 A5 청소기 AS520HA (흡입전용)",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 382149,
+  "other_min_shop": "SSG.COM"
  }
 }
