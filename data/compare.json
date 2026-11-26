@@ -1,6 +1,6 @@
 {
  "9494361908": {
-  "checked_at": "2026-11-21T19:56+09:00",
+  "checked_at": "2026-11-26T13:56+09:00",
   "coupang_price_at_check": 151900,
   "danawa": {
    "pcode": "124568601",
@@ -15,28 +15,50 @@
   "malls": [
    {
     "shop": "옥션",
-    "price": 123710,
+    "price": 131070,
     "delivery": 0,
-    "total": 123710,
+    "total": 131070,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "G마켓",
-    "price": 123710,
+    "price": 131080,
     "delivery": 0,
-    "total": 123710,
-    "card_price": 121710,
-    "card_name": "하나카드",
+    "total": 131080,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 133130,
+    "delivery": 0,
+    "total": 133130,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "신세계몰",
+    "price": 133130,
+    "delivery": 0,
+    "total": 133130,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -74,36 +96,14 @@
     "delivery": 0,
     "total": 140140,
     "card_price": 133140,
-    "card_name": "현대카드",
-    "member_price": null,
-    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
-   },
-   {
-    "shop": "GS SHOP",
-    "price": 144530,
-    "delivery": 0,
-    "total": 144530,
-    "card_price": 137310,
     "card_name": "삼성카드",
     "member_price": null,
     "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 156000,
-    "delivery": 0,
-    "total": 156000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 (현대Hmall) 필립스 에어프라이어  NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
    }
   ],
-  "dropped": 4,
-  "other_min": 123710,
+  "dropped": 2,
+  "other_min": 131070,
   "other_min_shop": "옥션"
  },
  "9795251783": {
@@ -941,24 +941,6 @@
   "other_min": null,
   "other_min_shop": null
  },
- "7821881474": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 118100,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9673782597": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 119000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9720959145": {
   "checked_at": "2026-11-25T19:57+09:00",
   "coupang_price_at_check": 397600,
@@ -1010,15 +992,6 @@
  "9823963170": {
   "checked_at": "2026-11-25T19:57+09:00",
   "coupang_price_at_check": 170000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "1063848597": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 31000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -1141,33 +1114,6 @@
   "other_min": 320290,
   "other_min_shop": "11번가"
  },
- "9774007596": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 51900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9254886289": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 47900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9447629043": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 37200,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9425919826": {
   "checked_at": "2026-11-25T16:56+09:00",
   "coupang_price_at_check": 303830,
@@ -1241,33 +1187,6 @@
   "dropped": 0,
   "other_min": 291778,
   "other_min_shop": "오늘의집"
- },
- "9716350572": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 35100,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9680432735": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 97900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9027063483": {
-  "checked_at": "2026-11-19T07:57+09:00",
-  "coupang_price_at_check": 64900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
  },
  "9786915907": {
   "checked_at": "2026-11-19T13:56+09:00",
@@ -1565,7 +1484,7 @@
   "other_min_shop": null
  },
  "9797526416": {
-  "checked_at": "2026-11-26T07:56+09:00",
+  "checked_at": "2026-11-26T13:56+09:00",
   "coupang_price_at_check": 695000,
   "danawa": {
    "pcode": "99837338",
@@ -1594,8 +1513,8 @@
     "price": 349840,
     "delivery": 0,
     "total": 349840,
-    "card_price": 348340,
-    "card_name": "NH농협카드",
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "필립스 필립스 1200시리즈 전자동 에스프레소 커피머신 (EP1200/03) 후속모델 EP1220/19 밀크스팀봉 /더가전",
     "match": "높음"
@@ -1613,13 +1532,24 @@
    },
    {
     "shop": "롯데ON",
-    "price": 359930,
-    "delivery": 3000,
-    "total": 362930,
+    "price": 366590,
+    "delivery": 0,
+    "total": 366590,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "필립스 1200시리즈 EP1220/19",
+    "product_name": "[온누리상품] 필립스 전자동 원두 커피머신 가정용 에스프레소머신 라떼클래식 EP1220/19",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 366640,
+    "delivery": 0,
+    "total": 366640,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
     "match": "높음"
    },
    {
@@ -1641,18 +1571,7 @@
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "(K)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 366640,
-    "delivery": 0,
-    "total": 366640,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "(K)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
+    "product_name": "(H)필립스 1200 전자동 에스프레소 커피머신 EP1220/19 매트블랙",
     "match": "높음"
    },
    {
@@ -2341,7 +2260,7 @@
   "other_min_shop": null
  },
  "9831004676": {
-  "checked_at": "2026-11-26T07:56+09:00",
+  "checked_at": "2026-11-26T13:56+09:00",
   "coupang_price_at_check": 422400,
   "danawa": {
    "pcode": "99745514",
@@ -2356,9 +2275,9 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 281470,
+    "price": 281390,
     "delivery": 0,
-    "total": 281470,
+    "total": 281390,
     "card_price": null,
     "card_name": "",
     "member_price": null,
@@ -2392,8 +2311,8 @@
     "price": 288300,
     "delivery": 0,
     "total": 288300,
-    "card_price": 286800,
-    "card_name": "NH농협카드",
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "필립스 필립스 전자동 에스프레소 커피머신 EP0820/00 라떼 카푸치노 디지털샵",
     "match": "높음"
@@ -2421,7 +2340,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "SSG.COM",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2432,7 +2351,7 @@
     "match": "높음"
    },
    {
-    "shop": "SSG.COM",
+    "shop": "이마트몰",
     "price": 291290,
     "delivery": 0,
     "total": 291290,
@@ -2444,11 +2363,11 @@
    }
   ],
   "dropped": 1,
-  "other_min": 281470,
+  "other_min": 281390,
   "other_min_shop": "11번가"
  },
  "9831549160": {
-  "checked_at": "2026-11-21T19:56+09:00",
+  "checked_at": "2026-11-26T13:56+09:00",
   "coupang_price_at_check": 192700,
   "danawa": {
    "pcode": "124568601",
@@ -2463,28 +2382,50 @@
   "malls": [
    {
     "shop": "옥션",
-    "price": 123710,
+    "price": 131070,
     "delivery": 0,
-    "total": 123710,
+    "total": 131070,
     "card_price": null,
     "card_name": "",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "G마켓",
-    "price": 123710,
+    "price": 131080,
     "delivery": 0,
-    "total": 123710,
-    "card_price": 121710,
-    "card_name": "하나카드",
+    "total": 131080,
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
-    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230 화이트 6.2L 전면투명창",
+    "product_name": "필립스 필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 133130,
+    "delivery": 0,
+    "total": 133130,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
    },
    {
     "shop": "신세계몰",
+    "price": 133130,
+    "delivery": 0,
+    "total": 133130,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
     "price": 133130,
     "delivery": 0,
     "total": 133130,
@@ -2522,36 +2463,14 @@
     "delivery": 0,
     "total": 140140,
     "card_price": 133140,
-    "card_name": "현대카드",
-    "member_price": null,
-    "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
-   },
-   {
-    "shop": "GS SHOP",
-    "price": 144530,
-    "delivery": 0,
-    "total": 144530,
-    "card_price": 137310,
     "card_name": "삼성카드",
     "member_price": null,
     "product_name": "필립스 에어프라이어 2000시리즈 NA230/10 화이트 6.2L 전면투명창",
     "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 156000,
-    "delivery": 0,
-    "total": 156000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "필립스 (현대Hmall) 필립스 에어프라이어  NA230/10 화이트 6.2L 전면투명창",
-    "match": "높음"
    }
   ],
-  "dropped": 4,
-  "other_min": 123710,
+  "dropped": 2,
+  "other_min": 131070,
   "other_min_shop": "옥션"
  },
  "9507114885": {
@@ -3411,5 +3330,282 @@
   "dropped": 4,
   "other_min": 246660,
   "other_min_shop": "옥션"
+ },
+ "45184835": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 31500,
+  "danawa": {
+   "pcode": "101654528",
+   "name": "팬 선생 생선 구이 사각 팬 + 뚜껑",
+   "cate": [
+    1985,
+    227119,
+    227131,
+    227218
+   ]
+  },
+  "malls": [],
+  "dropped": 2,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9837465360": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 139000,
+  "danawa": {
+   "pcode": "65303006",
+   "name": "오픈 런 프로 2 S820",
+   "cate": [
+    224,
+    49729,
+    49740,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "롯데백화점",
+    "price": 211650,
+    "delivery": 0,
+    "total": 211650,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[롯데백화점] 샥즈 오픈런 프로2 S820 LE1220334445",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 221610,
+    "delivery": 0,
+    "total": 221610,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점][공식 파트너] [샥즈] 오픈런프로2 듀얼드라이버(골전도+공기전도) 블루투스 이어폰 S820 2년 AS",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 221610,
+    "delivery": 0,
+    "total": 221610,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[신세계백화점][공식 파트너] [샥즈] 오픈런프로2 듀얼드라이버(골전도+공기전도) 블루투스 이어폰 S820 2년 AS",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 221300,
+    "delivery": 3000,
+    "total": 224300,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "샥즈 오픈런 프로 2 S820 블랙 골전도 무선 블루투스 이어폰 듀얼드라이버 국내정품 So",
+    "match": "높음"
+   },
+   {
+    "shop": "11번가",
+    "price": 225720,
+    "delivery": 0,
+    "total": 225720,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[쉿 비밀특가] [공식 파트너] [샥즈] 오픈런프로2 듀얼드라이버(골전도+공기전도) 블루투스 이어폰 S820...",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 236550,
+    "delivery": 0,
+    "total": 236550,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[공식 파트너] 오픈런프로2 듀얼드라이버(골전도+공기전도) 블루투스 이어폰 S820 2년 AS",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 236550,
+    "delivery": 0,
+    "total": 236550,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "공식 오픈런 프로 2 S820 골전도 헬스 운동 러닝 마라톤 자전거 이어폰 애프터샥",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데홈쇼핑",
+    "price": 236850,
+    "delivery": 3000,
+    "total": 239850,
+    "card_price": 225010,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "셀러허브(하프클럽) [하프클럽/셀러허브 가전]샥즈 오픈런 프로 2 S820 오렌지 골전도 무선 블루투스 이어폰 듀얼드라이버 국내정품 Ss",
+    "match": "높음"
+   }
+  ],
+  "dropped": 6,
+  "other_min": 211650,
+  "other_min_shop": "롯데백화점"
+ },
+ "9842073982": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 215080,
+  "danawa": {
+   "pcode": "62164070",
+   "name": "CAFO-C1810EDG",
+   "cate": [
+    1,
+    28320,
+    221512,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 178350,
+    "delivery": 0,
+    "total": 178350,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 스테인레스 오븐형 에어프라이어 18L 노블 다크 그레이 CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "옥션",
+    "price": 181260,
+    "delivery": 0,
+    "total": 181260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 스테인레스 오븐형 에어프라이어 18L 노블 다크 그레이 CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "G마켓",
+    "price": 181260,
+    "delivery": 0,
+    "total": 181260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 쿠쿠 스테인레스 오븐형 에어프라이어 18L 노블 다크 그레이 CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 188670,
+    "delivery": 0,
+    "total": 188670,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 스테인레스 오븐형 에어프라이어 18L 노블 다크 그레이 CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "현대Hmall",
+    "price": 190670,
+    "delivery": 0,
+    "total": 190670,
+    "card_price": 181140,
+    "card_name": "삼성카드",
+    "member_price": null,
+    "product_name": "10%쿠폰 쿠쿠 오븐형 에어프라이어 18L CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "오늘의집",
+    "price": 191040,
+    "delivery": 0,
+    "total": 191040,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 오븐형 에어프라이어 18L CAFO-C1810EDG 공식판매점",
+    "match": "높음"
+   },
+   {
+    "shop": "홈&쇼핑",
+    "price": 192920,
+    "delivery": 0,
+    "total": 192920,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "본사직영) 쿠쿠 오븐형 에어프라이어 18L CAFO-C1810EDG",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 195135,
+    "delivery": 0,
+    "total": 195135,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 오븐형 에어프라이어 18L 다크그레이 CAFO-C1810EDG[36183370]",
+    "match": "높음"
+   }
+  ],
+  "dropped": 6,
+  "other_min": 178350,
+  "other_min_shop": "11번가"
+ },
+ "8952462222": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 319000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9633585405": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 161260,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8992160748": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 48900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9803268517": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 81000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8709610613": {
+  "checked_at": "2026-11-26T13:56+09:00",
+  "coupang_price_at_check": 56000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
  }
 }
