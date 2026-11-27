@@ -534,113 +534,6 @@
   "other_min": 473326,
   "other_min_shop": "SSG.COM"
  },
- "9794843855": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 1689900,
-  "danawa": {
-   "pcode": "108229415",
-   "name": "삼성전자 AI 스팀 울트라 VR90F01AAG",
-   "cate": [
-    72,
-    80,
-    88,
-    0
-   ]
-  },
-  "malls": [
-   {
-    "shop": "11번가",
-    "price": 1493580,
-    "delivery": 0,
-    "total": 1493580,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "|B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 1493590,
-    "delivery": 0,
-    "total": 1493590,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성전자 |H| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 1493590,
-    "delivery": 0,
-    "total": 1493590,
-    "card_price": 1491590,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "삼성전자 |B| 삼성전자 비스포크 AI 스팀 울트라 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 1505200,
-    "delivery": 0,
-    "total": 1505200,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성전자 정품판매점 비스포크 AI 스팀 울트라 프리스탠딩 로봇청소기 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 1519660,
-    "delivery": 0,
-    "total": 1519660,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "(K)삼성전자 비스포크 AI 스팀 울트라 로봇청소기 VR90F01AAG 새틴그레이지",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 1519660,
-    "delivery": 0,
-    "total": 1519660,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "(K)삼성전자 비스포크 AI 스팀 울트라 로봇청소기 VR90F01AAG 새틴그레이지",
-    "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 1553730,
-    "delivery": 0,
-    "total": 1553730,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성전자 (현대Hmall) 삼성전자 정품판매점 비스포크 AI 스팀 울트라 프리스탠딩 로봇청소기 VR90F01AAG",
-    "match": "높음"
-   },
-   {
-    "shop": "주식회사 신세계라이브쇼핑",
-    "price": 1578370,
-    "delivery": 0,
-    "total": 1578370,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "삼성 로봇청소기 VR90F01AAG 무료배송",
-    "match": "높음"
-   }
-  ],
-  "dropped": 2,
-  "other_min": 1493580,
-  "other_min_shop": "11번가"
- },
  "9609807293": {
   "checked_at": "2026-11-22T19:57+09:00",
   "coupang_price_at_check": 1690000,
@@ -767,7 +660,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-27T10:56+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -776,7 +669,7 @@
   "other_min_shop": null
  },
  "9724226088": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-27T10:56+09:00",
   "coupang_price_at_check": 359000,
   "danawa": {
    "pcode": "106702589",
@@ -795,7 +688,7 @@
     "delivery": 0,
     "total": 341050,
     "card_price": 324000,
-    "card_name": "KB국민카드",
+    "card_name": "NH농협카드",
     "member_price": null,
     "product_name": "삼성전자 삼성전자 갤럭시 버즈4 프로 ANC 무선 블루투스 이어폰 SM-R640",
     "match": "높음"
@@ -812,13 +705,13 @@
     "match": "높음"
    }
   ],
-  "dropped": 12,
+  "dropped": 13,
   "other_min": 341050,
   "other_min_shop": "롯데홈쇼핑"
  },
  "9309807813": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 211770,
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 214900,
   "danawa": {
    "pcode": "106702613",
    "name": "삼성전자 갤럭시 버즈4 SM-R540",
@@ -830,7 +723,7 @@
    ]
   },
   "malls": [],
-  "dropped": 14,
+  "dropped": 15,
   "other_min": null,
   "other_min_shop": null
  },
@@ -1206,24 +1099,6 @@
   "other_min": null,
   "other_min_shop": null
  },
- "8771465367": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 64190,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9721533704": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 119270,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9797526416": {
   "checked_at": "2026-11-26T19:57+09:00",
   "coupang_price_at_check": 695000,
@@ -1416,24 +1291,6 @@
   "other_min": 854670,
   "other_min_shop": "롯데홈쇼핑"
  },
- "9580820581": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 88700,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9804487301": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 39300,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9807871048": {
   "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 469000,
@@ -1452,68 +1309,9 @@
   "other_min": null,
   "other_min_shop": null
  },
- "6344480058": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 71580,
-  "danawa": {
-   "pcode": "13155924",
-   "name": "보국전자 에어셀 오트밀라떼 전기요 BKB-1625",
-   "cate": [
-    118,
-    11104,
-    11105,
-    0
-   ]
-  },
-  "malls": [
-   {
-    "shop": "G마켓",
-    "price": 71570,
-    "delivery": 0,
-    "total": 71570,
-    "card_price": 70070,
-    "card_name": "하나카드",
-    "member_price": null,
-    "product_name": "보국 보국 에어셀 워셔블 오트밀 전기요 침대 전기장판 BKB-1625S 싱글사이즈 알러지인증",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 71570,
-    "delivery": 0,
-    "total": 71570,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "보국 보국 에어셀 워셔블 오트밀 전기요 침대 전기장판 BKB-1625S 싱글사이즈 알러지인증",
-    "match": "높음"
-   }
-  ],
-  "dropped": 7,
-  "other_min": 71570,
-  "other_min_shop": "G마켓"
- },
- "8583164804": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 189000,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9728359198": {
-  "checked_at": "2026-11-20T07:57+09:00",
-  "coupang_price_at_check": 103200,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
  "9309807812": {
-  "checked_at": "2026-11-22T19:57+09:00",
-  "coupang_price_at_check": 303670,
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 312970,
   "danawa": {
    "pcode": "106702589",
    "name": "삼성전자 갤럭시 버즈4 프로 SM-R640",
@@ -1524,10 +1322,22 @@
     0
    ]
   },
-  "malls": [],
+  "malls": [
+   {
+    "shop": "이마트몰",
+    "price": 352800,
+    "delivery": 0,
+    "total": 352800,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "삼성전자 갤럭시 버즈4 프로 SM-R640N",
+    "match": "높음"
+   }
+  ],
   "dropped": 14,
-  "other_min": null,
-  "other_min_shop": null
+  "other_min": 352800,
+  "other_min_shop": "이마트몰"
  },
  "9779817165": {
   "checked_at": "2026-11-20T16:57+09:00",
@@ -3908,6 +3718,92 @@
  "8869279257": {
   "checked_at": "2026-11-27T07:57+09:00",
   "coupang_price_at_check": 124000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "8261224400": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 35100,
+  "danawa": {
+   "pcode": "60711794",
+   "name": "쥬시쥬디 J스냅포인트골지티셔츠 ON JYTS62AA",
+   "cate": [
+    1822,
+    228091,
+    228550,
+    230563
+   ]
+  },
+  "malls": [
+   {
+    "shop": "SSG.COM",
+    "price": 33345,
+    "delivery": 2500,
+    "total": 35845,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "J스냅포인트골지티셔츠(ON) JYTS62AA",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 33345,
+    "delivery": 2500,
+    "total": 35845,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "J스냅포인트골지티셔츠(ON) JYTS62AA",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 35845,
+  "other_min_shop": "SSG.COM"
+ },
+ "5546189150": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 72040,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7365909164": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 34670,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "7657684704": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 300000,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9654381905": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 108900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "9653068980": {
+  "checked_at": "2026-11-27T10:56+09:00",
+  "coupang_price_at_check": 83810,
   "danawa": null,
   "malls": [],
   "dropped": 0,
