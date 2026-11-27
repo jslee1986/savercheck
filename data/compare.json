@@ -746,11 +746,11 @@
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-25T19:57+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
-   "name": "LG전자 울트라기어 27G 610A",
+   "name": "LG전자 울트라기어 27G610A",
    "cate": [
     860,
     13735,
@@ -1339,24 +1339,6 @@
   "other_min": 352800,
   "other_min_shop": "이마트몰"
  },
- "9779817165": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 299000,
-  "danawa": {
-   "pcode": "124480907",
-   "name": "삼성전자 갤럭시 버즈 온 SM-U600",
-   "cate": [
-    224,
-    49729,
-    49740,
-    0
-   ]
-  },
-  "malls": [],
-  "dropped": 5,
-  "other_min": null,
-  "other_min_shop": null
- },
  "8431298730": {
   "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 109900,
@@ -1378,42 +1360,6 @@
  "9640908860": {
   "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 37830,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "8882805356": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 489150,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "7074592247": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 141300,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9634243031": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 113750,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9815750126": {
-  "checked_at": "2026-11-20T16:57+09:00",
-  "coupang_price_at_check": 71600,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -2103,7 +2049,7 @@
   "other_min_shop": "옥션"
  },
  "9620652411": {
-  "checked_at": "2026-11-27T13:56+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 169000,
   "danawa": {
    "pcode": "122710907",
@@ -2116,6 +2062,17 @@
    ]
   },
   "malls": [
+   {
+    "shop": "SSG.COM",
+    "price": 169000,
+    "delivery": 0,
+    "total": 169000,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
+    "match": "높음"
+   },
    {
     "shop": "이마트몰",
     "price": 169000,
@@ -2143,25 +2100,14 @@
     "price": 169000,
     "delivery": 0,
     "total": 169000,
-    "card_price": null,
-    "card_name": "",
+    "card_price": 157170,
+    "card_name": "삼성카드",
     "member_price": null,
-    "product_name": "알파스캔 알파스캔 AOC Q27B30E QHD 고화질 75Hz IPS 지싱크 HDR 무결점모니터 행사 예약배송",
+    "product_name": "알파스캔 알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
     "match": "높음"
    },
    {
     "shop": "신세계몰",
-    "price": 169000,
-    "delivery": 0,
-    "total": 169000,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
     "price": 169000,
     "delivery": 0,
     "total": 169000,
@@ -2196,14 +2142,14 @@
   ],
   "dropped": 1,
   "other_min": 169000,
-  "other_min_shop": "이마트몰"
+  "other_min_shop": "SSG.COM"
  },
  "9808158300": {
-  "checked_at": "2026-11-22T19:57+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
-   "name": "LG전자 울트라기어 27G 610A",
+   "name": "LG전자 울트라기어 27G610A",
    "cate": [
     860,
     13735,
@@ -2338,7 +2284,7 @@
   "other_min_shop": null
  },
  "9788478049": {
-  "checked_at": "2026-11-25T19:57+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 309000,
   "danawa": {
    "pcode": "123730422",
@@ -2353,35 +2299,13 @@
   "malls": [
    {
     "shop": "11번가",
-    "price": 254910,
+    "price": 265000,
     "delivery": 0,
-    "total": 254910,
+    "total": 265000,
     "card_price": null,
     "card_name": "",
     "member_price": null,
     "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (1srr)",
-    "match": "높음"
-   },
-   {
-    "shop": "옥션",
-    "price": 254920,
-    "delivery": 0,
-    "total": 254920,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (Alg)",
-    "match": "높음"
-   },
-   {
-    "shop": "G마켓",
-    "price": 254920,
-    "delivery": 0,
-    "total": 254920,
-    "card_price": 253420,
-    "card_name": "NH농협카드",
-    "member_price": null,
-    "product_name": "쿠쿠 10인용 CRP-CHPNL1015FGW IH 전기 압력 밥솥 (grk)",
     "match": "높음"
    },
    {
@@ -2438,10 +2362,32 @@
     "member_price": null,
     "product_name": "쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트 공식판매점",
     "match": "높음"
+   },
+   {
+    "shop": "GS SHOP",
+    "price": 299200,
+    "delivery": 0,
+    "total": 299200,
+    "card_price": 278260,
+    "card_name": "KB국민카드",
+    "member_price": null,
+    "product_name": "본사직영) 쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트 (택1)",
+    "match": "높음"
+   },
+   {
+    "shop": "홈&쇼핑",
+    "price": 300300,
+    "delivery": 0,
+    "total": 300300,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "본사직영) 쿠쿠 10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트",
+    "match": "높음"
    }
   ],
-  "dropped": 6,
-  "other_min": 254910,
+  "dropped": 8,
+  "other_min": 265000,
   "other_min_shop": "11번가"
  },
  "9833101883": {
@@ -3793,7 +3739,7 @@
   "other_min_shop": null
  },
  "6764152921": {
-  "checked_at": "2026-11-27T13:56+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 31120,
   "danawa": null,
   "malls": [],
@@ -3802,8 +3748,17 @@
   "other_min_shop": null
  },
  "8394671274": {
-  "checked_at": "2026-11-27T13:56+09:00",
+  "checked_at": "2026-11-27T19:56+09:00",
   "coupang_price_at_check": 38900,
+  "danawa": null,
+  "malls": [],
+  "dropped": 0,
+  "other_min": null,
+  "other_min_shop": null
+ },
+ "192148200": {
+  "checked_at": "2026-11-27T19:56+09:00",
+  "coupang_price_at_check": 30670,
   "danawa": null,
   "malls": [],
   "dropped": 0,
