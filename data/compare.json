@@ -746,7 +746,7 @@
   "other_min_shop": null
  },
  "9811283353": {
-  "checked_at": "2026-11-27T19:56+09:00",
+  "checked_at": "2026-11-28T07:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -771,7 +771,7 @@
     "match": "높음"
    }
   ],
-  "dropped": 9,
+  "dropped": 10,
   "other_min": 353950,
   "other_min_shop": "하이마트"
  },
@@ -794,7 +794,7 @@
   "other_min_shop": null
  },
  "7442148926": {
-  "checked_at": "2026-11-25T19:57+09:00",
+  "checked_at": "2026-11-28T07:57+09:00",
   "coupang_price_at_check": 354960,
   "danawa": {
    "pcode": "9401703",
@@ -807,39 +807,6 @@
    ]
   },
   "malls": [
-   {
-    "shop": "11번가",
-    "price": 320290,
-    "delivery": 0,
-    "total": 320290,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 트윈프레셔 마스터셰프 CRP-LHTR0610FW IH압력밥솥 6인용 - BNS",
-    "match": "높음"
-   },
-   {
-    "shop": "롯데ON",
-    "price": 320290,
-    "delivery": 0,
-    "total": 320290,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
-    "match": "높음"
-   },
-   {
-    "shop": "SSG.COM",
-    "price": 321374,
-    "delivery": 0,
-    "total": 321374,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
-    "match": "높음"
-   },
    {
     "shop": "옥션",
     "price": 321390,
@@ -856,32 +823,10 @@
     "price": 321390,
     "delivery": 0,
     "total": 321390,
-    "card_price": 319890,
-    "card_name": "NH농협카드",
+    "card_price": null,
+    "card_name": "",
     "member_price": null,
     "product_name": "쿠쿠 CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /DS",
-    "match": "높음"
-   },
-   {
-    "shop": "신세계몰",
-    "price": 324620,
-    "delivery": 0,
-    "total": 324620,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용",
-    "match": "높음"
-   },
-   {
-    "shop": "이마트몰",
-    "price": 324620,
-    "delivery": 0,
-    "total": 324620,
-    "card_price": null,
-    "card_name": "",
-    "member_price": null,
-    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 화이트 6인용",
     "match": "높음"
    },
    {
@@ -890,15 +835,70 @@
     "delivery": 0,
     "total": 328060,
     "card_price": 305100,
-    "card_name": "삼성카드",
+    "card_name": "롯데카드",
     "member_price": null,
-    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW LE1214358524",
+    "product_name": "[롯데백화점] 쿠쿠 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 328920,
+    "delivery": 0,
+    "total": 328920,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠전자 CUCKOO CRP-LHTR0610FW 트윈프레셔 -hsm",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 338201,
+    "delivery": 0,
+    "total": 338201,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "쿠쿠 IH 전기압력밥솥 CRP-LHTR0610FW 6인용 화이트",
+    "match": "높음"
+   },
+   {
+    "shop": "홈&쇼핑",
+    "price": 342020,
+    "delivery": 0,
+    "total": 342020,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[고효율가전][하이마트 특가] 6인용트윈프레셔 IH압력밥솥  CRP-LHTR0610FW",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 343990,
+    "delivery": 0,
+    "total": 343990,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /D",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 343990,
+    "delivery": 0,
+    "total": 343990,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "CRP-LHTR0610FW 쿠쿠 IH전기압력밥솥 트윈프레셔 6인용 /D",
     "match": "높음"
    }
   ],
-  "dropped": 3,
-  "other_min": 320290,
-  "other_min_shop": "11번가"
+  "dropped": 5,
+  "other_min": 321390,
+  "other_min_shop": "옥션"
  },
  "9425919826": {
   "checked_at": "2026-11-25T16:56+09:00",
@@ -1360,24 +1360,6 @@
  "9640908860": {
   "checked_at": "2026-11-21T07:57+09:00",
   "coupang_price_at_check": 37830,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "1826522566": {
-  "checked_at": "2026-11-20T19:56+09:00",
-  "coupang_price_at_check": 36900,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "9259964173": {
-  "checked_at": "2026-11-20T19:56+09:00",
-  "coupang_price_at_check": 37000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -2145,7 +2127,7 @@
   "other_min_shop": "SSG.COM"
  },
  "9808158300": {
-  "checked_at": "2026-11-27T19:56+09:00",
+  "checked_at": "2026-11-28T07:57+09:00",
   "coupang_price_at_check": 332000,
   "danawa": {
    "pcode": "97307420",
@@ -2170,7 +2152,7 @@
     "match": "높음"
    }
   ],
-  "dropped": 9,
+  "dropped": 10,
   "other_min": 353950,
   "other_min_shop": "하이마트"
  },
@@ -2284,7 +2266,7 @@
   "other_min_shop": null
  },
  "9788478049": {
-  "checked_at": "2026-11-27T19:56+09:00",
+  "checked_at": "2026-11-28T07:57+09:00",
   "coupang_price_at_check": 309000,
   "danawa": {
    "pcode": "123730422",
@@ -2331,7 +2313,7 @@
     "match": "높음"
    },
    {
-    "shop": "신세계몰",
+    "shop": "이마트몰",
     "price": 279224,
     "delivery": 0,
     "total": 279224,
@@ -2342,7 +2324,7 @@
     "match": "높음"
    },
    {
-    "shop": "이마트몰",
+    "shop": "신세계몰",
     "price": 279224,
     "delivery": 0,
     "total": 279224,
@@ -3739,8 +3721,8 @@
   "other_min_shop": null
  },
  "6764152921": {
-  "checked_at": "2026-11-27T19:56+09:00",
-  "coupang_price_at_check": 31120,
+  "checked_at": "2026-11-28T07:57+09:00",
+  "coupang_price_at_check": 31110,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -3748,8 +3730,8 @@
   "other_min_shop": null
  },
  "8394671274": {
-  "checked_at": "2026-11-27T19:56+09:00",
-  "coupang_price_at_check": 38900,
+  "checked_at": "2026-11-28T07:57+09:00",
+  "coupang_price_at_check": 59800,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -3757,12 +3739,119 @@
   "other_min_shop": null
  },
  "192148200": {
-  "checked_at": "2026-11-27T19:56+09:00",
+  "checked_at": "2026-11-28T07:57+09:00",
   "coupang_price_at_check": 30670,
   "danawa": null,
   "malls": [],
   "dropped": 0,
   "other_min": null,
   "other_min_shop": null
+ },
+ "8690572432": {
+  "checked_at": "2026-11-28T07:57+09:00",
+  "coupang_price_at_check": 809000,
+  "danawa": {
+   "pcode": "123436513",
+   "name": "LG전자 퓨리케어 360˚ 플러스 AS305DWWA",
+   "cate": [
+    118,
+    11420,
+    37175,
+    0
+   ]
+  },
+  "malls": [
+   {
+    "shop": "11번가",
+    "price": 687730,
+    "delivery": 0,
+    "total": 687730,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "[LG]전자 퓨리케어 360 공기청정기 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "주식회사 신세계라이브쇼핑",
+    "price": 689330,
+    "delivery": 0,
+    "total": 689330,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 퓨리케어 공기청정기 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "SSG.COM",
+    "price": 697266,
+    "delivery": 0,
+    "total": 697266,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 퓨리케어 360 공기청정기 플러스 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "더현대닷컴",
+    "price": 697612,
+    "delivery": 0,
+    "total": 697612,
+    "card_price": 648782,
+    "card_name": "롯데카드, H.Point Pay롯데카드",
+    "member_price": null,
+    "product_name": "[현대백화점] [롯데카드, H.Point Pay롯데카드7%할인~11/30][LIVE] LG 퓨리케어 AI 360 공기청정기 플러스 AS305DWWA +할인쿠폰",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데ON",
+    "price": 712260,
+    "delivery": 0,
+    "total": 712260,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "LG전자 [LG전자 직영]LG 퓨리케어 360 공기청정기 플러스 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "신세계몰",
+    "price": 712266,
+    "delivery": 0,
+    "total": 712266,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 퓨리케어 360 공기청정기 플러스 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "이마트몰",
+    "price": 712266,
+    "delivery": 0,
+    "total": 712266,
+    "card_price": null,
+    "card_name": "",
+    "member_price": null,
+    "product_name": "S][LG전자 직영] LG 퓨리케어 360 공기청정기 플러스 AS305DWWA",
+    "match": "높음"
+   },
+   {
+    "shop": "롯데백화점",
+    "price": 764720,
+    "delivery": 0,
+    "total": 764720,
+    "card_price": 657660,
+    "card_name": "롯데카드",
+    "member_price": null,
+    "product_name": "[롯데백화점] LG전자 [LG전자 직영] LG 퓨리케어 AI 360˚ 공기청정기 플러스 AS305DWWA",
+    "match": "높음"
+   }
+  ],
+  "dropped": 1,
+  "other_min": 687730,
+  "other_min_shop": "11번가"
  }
 }
