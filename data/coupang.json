@@ -1,18 +1,6 @@
 {
- "collected_at": "2026-11-27T08:47+09:00",
+ "collected_at": "2026-11-27T13:33+09:00",
  "items": [
-  {
-   "id": "5546189150",
-   "name": "퀘스트뉴트리션 프로틴 바 프로틴 쿠키 & 크림 맛 12개입",
-   "price": 72040,
-   "rocket": false,
-   "free_ship": false,
-   "category": "식품",
-   "image": "https://thumbnail9.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/497c/4c4f44743029643f3e982ba08b921c1b7a5096ae4efe5d2afcec20486246.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=5546189150&itemId=24246764520&vendorItemId=81956609132&traceid=V0-143-d6c0bb608564503c&pt=0&slot=8",
-   "source": "골드박스",
-   "checked_at": "2026-11-27T08:47+09:00"
-  },
   {
    "id": "8261224400",
    "name": "쥬시쥬디 여성용 J스냅 포인트 골지 긴소매 티셔츠 ON JYTS62AA",
@@ -20,34 +8,72 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://thumbnail3.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/nfpyxabn/f39511506abf4f2b9f9a5c588ec0fae3.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8261224400&itemId=23799033296&vendorItemId=90822977730&traceid=V0-143-b3a684b46d843e6a&pt=0&slot=10",
+   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/yw31jeqt/83078d7b78ff411e970719af53f615ee.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8261224400&itemId=23799033293&vendorItemId=90822977719&traceid=V0-143-b3a684b46d843e6a&pt=0&slot=4",
    "source": "골드박스",
-   "checked_at": "2026-11-27T08:47+09:00"
-  },
-  {
-   "id": "7365909164",
-   "name": "일본 산토리 펩시 빅 제로 생 콜라",
-   "price": 34670,
-   "rocket": false,
-   "free_ship": false,
-   "category": "식품",
-   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/57ed/4343eb5c5577f66fab78e677c6bd75b9be1d223ea6991c40a0213ce3c92c.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7365909164&itemId=21655220954&vendorItemId=92375626123&traceid=V0-143-7909301fd8fcaea2&pt=0&slot=12",
-   "source": "골드박스",
-   "checked_at": "2026-11-27T08:47+09:00"
+   "checked_at": "2026-11-27T13:33+09:00"
   },
   {
    "id": "7657684704",
    "name": "삼익가구 에클레르 프리미엄 3인용 가죽 소파 + 쿠션 방문설치",
-   "price": 300000,
+   "price": 319000,
    "rocket": true,
    "free_ship": true,
    "category": "가구/홈인테리어",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1288486071485931-608f5f0f-7caa-4599-bfa8-94fbf6d3e785.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7657684704&itemId=20392549515&vendorItemId=87475269145&traceid=V0-143-c6f6d5dbc243d6e5&pt=0&slot=13",
+   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1810272899428441-a470bfff-4e8d-4347-b620-5f4ce5b43dcc.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7657684704&itemId=20392549517&vendorItemId=87475269159&traceid=V0-143-c6f6d5dbc243d6e5&pt=0&slot=6",
    "source": "골드박스",
-   "checked_at": "2026-11-27T08:47+09:00"
+   "checked_at": "2026-11-27T13:33+09:00"
+  },
+  {
+   "id": "5546189150",
+   "name": "퀘스트뉴트리션 프로틴 바 프로틴 쿠키 & 크림 맛 12개입",
+   "price": 37640,
+   "rocket": false,
+   "free_ship": false,
+   "category": "식품",
+   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f30c/2dee9d8c2a6dd89495be8f0706c1d29f516a0fdbb49e8e4b42934ab1c7f0.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=5546189150&itemId=18091064928&vendorItemId=3273022253&traceid=V0-143-d6c0bb608564503c&pt=0&slot=15",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T13:33+09:00"
+  },
+  {
+   "id": "6764152921",
+   "name": "아망떼 소울메이트 플란넬 극세사 침대패드",
+   "price": 31120,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가구/홈인테리어",
+   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63316526771047-9b99eff9-977c-4fc1-bca8-1336d34dcaca.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6764152921&itemId=15860416138&vendorItemId=87269130279&traceid=V0-143-6c0e4a5f8d9d17f6&pt=0&slot=23",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T13:33+09:00"
+  },
+  {
+   "id": "8394671274",
+   "name": "Hanil 온열 찜질기 블랙 레귤러 HP-3560B",
+   "price": 38900,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가전디지털",
+   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/05/9/2/c0a66b6d-2e84-49f0-bfbe-3f011a43e031.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8394671274&itemId=20698135670&vendorItemId=90199798269&traceid=V0-143-11fcbea058d9c3f1&pt=0&slot=26",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T13:33+09:00"
+  },
+  {
+   "id": "9620652411",
+   "name": "알파스캔 AOC Q27B30E QHD 보더리스 IPS 시력보호 HDR 무결점 27인치 사무용 듀얼 가성비 모니터",
+   "price": 169000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/A6GU2MkevjCcPidzAwrj4ePV-CWtW2yj3j9B5DNwyCZK60SeGJ8KCPSLUqcDjQkb2OJi0Ry5c72VU-zBbWnejYjRTD2IjF_OOX_FHjsmhLgiIAQdWlflApqTxq2nYuopgJLUzCMJl9km0rVYkPE20XjqYKss6a03-icDeVRJl3b5g2IMDPw9c_DkcGzobE52XRLlgIrBRUtlpxPDZkiI-GnsMA_YbWgss8ala6JqjJ4DfqYWlUwCvJkVnwP1Fr8Ayx6mnCNicVv071s_cjywCdXvH99ZzrEg1TZX-Up-JBir7j9rHXaypE85qqsftRfVugp5pLvi8c_5ramNOseO6rEy3n2MORE9YoTJQioRV1zYlLL65uDQYavdSFjQ75_yziD8bgFYOFH9RgNuK_3W75oW7M1DFydNKbJ7Q4VwkWsfolGBKHaqTk1FUr7SsSeFI5eKXT534itmiN2dGiLMLBBIwTL5i6gVXHooFM6MCrGphnLLZBKEQPxxyhBB7LhvDjGlBwcXiFRN8i06EcS1xMagP3t4quIwG0VR484UFY01D-pV3qY-e3l53wHQ",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9620652411&itemId=28728608053&vendorItemId=96214368926&traceid=V0-153-d2c6e7186d6a72e2&requestid=20261127133300605005565310&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:AOC Q27B30E",
+   "danawa_pcode": "122710907",
+   "model": "Q27B30E",
+   "checked_at": "2026-11-27T13:33+09:00"
   },
   {
    "id": "9072150510",
@@ -132,48 +158,6 @@
    "danawa_pcode": "106702613",
    "model": "SM-R540",
    "checked_at": "2026-11-27T08:47+09:00"
-  },
-  {
-   "id": "9724972673",
-   "name": "LG전자 코드제로 A5 A520HC 흡입전용+컴팩트타워포함 에센스화이트 / W",
-   "price": 569000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/TZDRxh3r0KGHa3GDTW9fOl8_hL99QToK3AmlV8MVhnjnrmQONUfxyd-a7vO8GBGcQQFdIzcCTgCgY15m1YhK5mlm4gDZloU9ibEnlvI9E340IOkqFEbB75R1zoMRjOGllpMeOd_YjV52ohnf4Coag44I7XjPmszVNUEHhvc9I47KtTBOWqT9bffe_T3nDRXNTYUQFbYnTd5c7pg5bKrALSBzufRf-r3h3RFdZ5rsUTgFB5EuBfuMRWcLZuw0Y5ScvHO5NJhd8gfITWBg9QSME_PxKwavDVyAUWoK0eCf2lAolVaaMtpKVCchtzU9RgiEynvngNHNmVb7bOeLCGnsnTjwOaiVb1az3sj-Th1NAl45B5hbAqi5e3VfsgQfxcI-c6Uzk6tStYZQFY8lYXfNtGoISLVCyuv2nIllqpwoYR7MtUuE3n3BJy236C400FeTwx2s-tDatL0KwHfSl1OJCeTRDIq4fYcDLMW56hyphHR6gJE039zGpj3U4X-EXQdO57glOctCmX6Lctnh56sM032ImjAdGpPslZPS2XGoioYnCF2cLPPOCnU=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9724972673&itemId=29102321874&vendorItemId=96085517310&traceid=V0-153-36b0a187f719c7a1&requestid=20261127000446657194651878&token=31850C%7CGM&pt=0&slot=1",
-   "source": "관심:LG 코드제로 A520HC",
-   "danawa_pcode": "124298640",
-   "model": "A520HC",
-   "checked_at": "2026-11-27T00:04+09:00"
-  },
-  {
-   "id": "9794843242",
-   "name": "삼성전자 비스포크 AI 스팀 울트라 로봇청소기 VR90F01AAG 새틴 그레이지 일반 스테이션",
-   "price": 1740000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/WaANXnXmqL5gFa_LWYDK3gRSdEIfiCLvCQ_6q6SuTq6SFk8GzITX2M8vPJyybG5BuV0K1Yr9Br5AsEsd3zlCgUMTuLGRaa2P_AxY355Oq0DUbJvL9raBCgRnFg94Wxj3ZS30OPAK4M85y7g7jplcPrBhrsKsDWBkRtoyNeFBX1dlUbNYhBifc7Ug9JnudYowGcrSchTqaY2xRbL7XBWGOh0GlKaA8eq8rvtZmmEEUM5wNnrjzeVgHI2RcrBBXvLjsuCfy-bxLk_deYBB7dzjZ84Z4ypaWUD_ziN84Dt9hKXptVabfhVTE6ohubcZ1jBB8e7K9Bb0ILqdo3y4tOoyDA_Az3Mzg3dcrfh7xw7J6niKBqVHz0IiRe337EyY_Xlx5PYU-R4nRaU_tMbzh3PHbcAo54Ni5eM06uTd7TyGMlvRd31T7OBj6JKZmdugT-GvuC5fdUrFHXmSwpJHSDmaBuypX_ZThNOdlySb3-enQrNNSZTyTvIdxKZ1ehfioId8FW8KzKcuBZzLnrF3TKiM4yWSR1SkNFQthFgbmSoaNjU7poquMlxfstCFrRkumK9Ckd6LzzJRb-Pe6wd5YSlZdhAqzoXoeSOrVX-76fDtp0GBSxCZskI=",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9794843242&itemId=29327395196&vendorItemId=96241693335&traceid=V0-153-4c1dd63447a85a14&requestid=20261127000451499250726021&token=31850C%7CGM&pt=0&slot=1",
-   "source": "관심:삼성 로봇청소기 VR90F01AAG",
-   "danawa_pcode": "108229415",
-   "model": "VR90F01AAG",
-   "checked_at": "2026-11-27T00:04+09:00"
-  },
-  {
-   "id": "9445151005",
-   "name": "삼성전자 비스포크 스팀 로봇청소기+액세서리 키트 VR90F01SAG98AS",
-   "price": 2900000,
-   "rocket": false,
-   "free_ship": true,
-   "category": "가전디지털",
-   "image": "https://ads-partners.coupang.com/image1/Le3WKFCGfVLT7_WzLbXLkwd_KL4EfHVeecGqEm0U2T76sQK8Bmd-Xt8yQXzulw6b7dE3fo9Drfd613z8pl9ccvPr_Nbl-JbYvEFy4ZJZojQxB0-5Xwk5GwhGbv6SUNGlllA7CuTGUJFBY-OZhoVF41gzFviyWJ4Rufo1cak3Eto76teruhq2eNWTJW0gxkUGTariTjcg7gxYeVEPnI1DJuk6nX_itBXJZd_tl3tkGVZDHcwyYIzalZ06_CQriq3uXMHXtktxfAOUJFCtwrRAmYQKTya8qtTNdcrdCAHVFcPpr62HI4sXvbUBitCB6F6B8mfzb3-J8-pcp60ybFwviAW_HgcJBBSFXulI88oeoIctOzftRv1vk75QWR2gJG1G5o8fivC-4gF-egS8l7iHvgg3glRLncYhjKysLNlsTiG-1TQMv3j5TT1KtD4wDXIBG0l11xuf9kiNPeKOxYvUD-0VXXFI3AAhrEM8O_ZE0WQK9xoC6FKLiL7odc4tLrhlaVrJM7nj7vKVm2pqZtYXrHPVVueTo80jyosR9zFdllawa9J7418dMPwL99a5U1xaE1FkJsmDitc4X0JUtQcK1aCe1umtLrprEqKqaMx3OC_bs3f9vQYh",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9445151005&itemId=28094657152&vendorItemId=95050263155&traceid=V0-153-2f579b84c3dbfe51&requestid=20261127000454140323548868&token=31850C%7CGM&pt=0&slot=1",
-   "source": "관심:삼성 로봇청소기 VR90F01SAG",
-   "danawa_pcode": "108367196",
-   "model": "VR90F01SAG",
-   "checked_at": "2026-11-27T00:04+09:00"
   }
  ]
 }
