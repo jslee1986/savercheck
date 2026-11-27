@@ -1,5 +1,5 @@
 {
- "collected_at": "2026-11-27T13:33+09:00",
+ "collected_at": "2026-11-27T17:16+09:00",
  "items": [
   {
    "id": "8261224400",
@@ -8,10 +8,10 @@
    "rocket": true,
    "free_ship": false,
    "category": "패션의류",
-   "image": "https://t2c.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/yw31jeqt/83078d7b78ff411e970719af53f615ee.jpg",
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/rs_quotation_api/yw31jeqt/83078d7b78ff411e970719af53f615ee.jpg",
    "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8261224400&itemId=23799033293&vendorItemId=90822977719&traceid=V0-143-b3a684b46d843e6a&pt=0&slot=4",
    "source": "골드박스",
-   "checked_at": "2026-11-27T13:33+09:00"
+   "checked_at": "2026-11-27T17:16+09:00"
   },
   {
    "id": "7657684704",
@@ -20,10 +20,10 @@
    "rocket": true,
    "free_ship": true,
    "category": "가구/홈인테리어",
-   "image": "https://thumbnail10.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1810272899428441-a470bfff-4e8d-4347-b620-5f4ce5b43dcc.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7657684704&itemId=20392549517&vendorItemId=87475269159&traceid=V0-143-c6f6d5dbc243d6e5&pt=0&slot=6",
+   "image": "https://thumbnail4.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/1810272899428441-a470bfff-4e8d-4347-b620-5f4ce5b43dcc.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=7657684704&itemId=20392549517&vendorItemId=87475269159&traceid=V0-143-c6f6d5dbc243d6e5&pt=0&slot=5",
    "source": "골드박스",
-   "checked_at": "2026-11-27T13:33+09:00"
+   "checked_at": "2026-11-27T17:16+09:00"
   },
   {
    "id": "5546189150",
@@ -32,22 +32,10 @@
    "rocket": false,
    "free_ship": false,
    "category": "식품",
-   "image": "https://t4c.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f30c/2dee9d8c2a6dd89495be8f0706c1d29f516a0fdbb49e8e4b42934ab1c7f0.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=5546189150&itemId=18091064928&vendorItemId=3273022253&traceid=V0-143-d6c0bb608564503c&pt=0&slot=15",
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/f30c/2dee9d8c2a6dd89495be8f0706c1d29f516a0fdbb49e8e4b42934ab1c7f0.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=5546189150&itemId=18091064928&vendorItemId=3273022253&traceid=V0-143-d6c0bb608564503c&pt=0&slot=19",
    "source": "골드박스",
-   "checked_at": "2026-11-27T13:33+09:00"
-  },
-  {
-   "id": "6764152921",
-   "name": "아망떼 소울메이트 플란넬 극세사 침대패드",
-   "price": 31120,
-   "rocket": true,
-   "free_ship": false,
-   "category": "가구/홈인테리어",
-   "image": "https://thumbnail15.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/63316526771047-9b99eff9-977c-4fc1-bca8-1336d34dcaca.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6764152921&itemId=15860416138&vendorItemId=87269130279&traceid=V0-143-6c0e4a5f8d9d17f6&pt=0&slot=23",
-   "source": "골드박스",
-   "checked_at": "2026-11-27T13:33+09:00"
+   "checked_at": "2026-11-27T17:16+09:00"
   },
   {
    "id": "8394671274",
@@ -56,10 +44,76 @@
    "rocket": true,
    "free_ship": false,
    "category": "가전디지털",
-   "image": "https://t5a.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/05/9/2/c0a66b6d-2e84-49f0-bfbe-3f011a43e031.jpg",
-   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8394671274&itemId=20698135670&vendorItemId=90199798269&traceid=V0-143-11fcbea058d9c3f1&pt=0&slot=26",
+   "image": "https://thumbnail8.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/2024/06/05/9/2/c0a66b6d-2e84-49f0-bfbe-3f011a43e031.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=8394671274&itemId=20698135670&vendorItemId=90199798269&traceid=V0-143-11fcbea058d9c3f1&pt=0&slot=20",
    "source": "골드박스",
-   "checked_at": "2026-11-27T13:33+09:00"
+   "checked_at": "2026-11-27T17:16+09:00"
+  },
+  {
+   "id": "6764152921",
+   "name": "아망떼 소울메이트 장모 극세사 침대패드",
+   "price": 31120,
+   "rocket": true,
+   "free_ship": false,
+   "category": "가구/홈인테리어",
+   "image": "https://thumbnail12.coupangcdn.com/thumbnails/remote/512x512ex/image/retail/images/118431179584557-b6a90036-8ae3-4205-bebb-93626bdfbd23.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=6764152921&itemId=24495244207&vendorItemId=83070399129&traceid=V0-143-6c0e4a5f8d9d17f6&pt=0&slot=22",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T17:16+09:00"
+  },
+  {
+   "id": "192148200",
+   "name": "젠와이즈 리포소멀 비타민 C 1500mg 베지테리안 캡슐",
+   "price": 30670,
+   "rocket": false,
+   "free_ship": false,
+   "category": "식품",
+   "image": "https://t4a.coupangcdn.com/thumbnails/remote/512x512ex/image/vendor_inventory/5530/1a95f1c17b191cfd8fb2727f3cb24af9db57a92885ef92a40bdbb2540b57.jpg",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=192148200&itemId=549695035&vendorItemId=4442407649&traceid=V0-143-1ed9b46238870959&pt=0&slot=23",
+   "source": "골드박스",
+   "checked_at": "2026-11-27T17:16+09:00"
+  },
+  {
+   "id": "9811283353",
+   "name": "LG전자 울트라기어 27G610A 27인치 게이밍모니터 IPS 200Hz 1ms FPS 컴퓨터 PC",
+   "price": 332000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/thU0WfnW09zPJxcatkRAbE4yXOy799d0JrF772i3ZuycXZeSIAQob4XUzFX0wSkUOiK4mOBrfLtNnKvMfphtWsa8RnrPLib3eHXN23dH5TgiHU3IG7zebN_Q_gDqVXmO8IphoVXJkrlNtUrhfraokeBXluhppN2jkWQyKe_gVi4DlWAsrnEDGz9br_pHFVX3ACZr2GnkWoM0SdQKRZcBKJFzwpn_Dy75awgfEYJ9GkhsoDcnNEOkU6srjmOdYDYAaQ0AtSAJKlhCWsA9aeEsT8oHklhX6NSaL2Y-ItmQHQaFQgihL2lspbwywgyjExsuLcXzBc8iHL4uxkIz8imqAKnI1gwD3nmvgEU-fNCajFrWI2L783u4gM_UVHwFziBvxs8SMi1O5T_nY5uvAyfVBrqN5q19yUfedZfnZMcEP3GxZu-cRa67lsmyd9_eB362B1KmTTPETLoz6OLe8LvwMnWqX0sX68dMQLxgD3-ujtDKaOsvUJRXgWkVhmLlJGAxzJbheVJxTz-heBWwY3TLkFn94jfpRHmzlf6JelRbQPnBdO3qCEQP-IRbDav5dw==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9811283353&itemId=29382742897&vendorItemId=95816704887&traceid=V0-153-f8e595b612ff6f72&requestid=20261127171634956005102100&token=31850C%7CMIXED&pt=0&slot=2",
+   "source": "관심:모니터 27G610A",
+   "danawa_pcode": "97307420",
+   "model": "27G610A",
+   "checked_at": "2026-11-27T17:16+09:00"
+  },
+  {
+   "id": "9808158300",
+   "name": "LG전자 울트라기어 27G610A 27인치 게이밍모니터 IPS 200Hz 1ms FPS 컴퓨터 PC",
+   "price": 332000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "가전디지털",
+   "image": "https://ads-partners.coupang.com/image1/LPhuPTtGkA9OiW_eLGkceH5XrVH2whCDctRE_fvYwBNSfJr22PmD2KNt9wSkFsb7-516MC0vmitl2T1WH8reuFd09KbCfl_MPSr4U-vwTwVfyfUik4L14Cg0BYif81q9155C0BfV1xR7vlqum-PSRlI3KXuZ3uQ4KTQBnDtFZ3YfHoFp8V2I_pzVkzLWXJxaUWLIgwL9E_CybHIC9LRRI4Iz7SIuYZ7178QGg-q9ictIOE_cGzKR_a1Mt24sNkxPkry-UaewEniF_3lAtp6mQan6HZCy7jaV-Zl47A2V61_2kN8j3hTLLxnvZh_HGzPabG49-2SCZK9H8K5dyhQdI3j0s-phXroMjRqrq2dn9XzqrmPsCSRWMQgkr7YhW-Pp38HfIb5-qImaVztHeTpUAytFIpQLLe4Cq9Loo-bvMO616YUQkDmmIiHPR_33CoIGOh7gobCSKWHmknHD7zgzr0OG23x5csOepn9X26K8-NYNyLFqZ9-5DAmLDZ9malTMng9h0BQQjEanrVPs1i3jreR7tuV5bVEdFq2bGl3rIT-XsbfqLsPdvKq5GZo=",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9808158300&itemId=29372512011&vendorItemId=95816704888&traceid=V0-153-c4f6d38167eb203e&requestid=20261127171634956005102100&token=31850C%7CMIXED&pt=0&slot=3",
+   "source": "관심:모니터 27G610A",
+   "danawa_pcode": "97307420",
+   "model": "27G610A",
+   "checked_at": "2026-11-27T17:16+09:00"
+  },
+  {
+   "id": "9788478049",
+   "name": "10인용 IH전기압력밥솥 CRP-CHPNL1015FGW 그레이스 화이트 공식판매점",
+   "price": 309000,
+   "rocket": false,
+   "free_ship": true,
+   "category": "주방용품",
+   "image": "https://ads-partners.coupang.com/image1/QPPLX9Jjk72ocAGGQLbnn5BXSG7imLMHV9Oc53FuH9dIWSTBo43bTcJmK_LfAxspa3YTyKyH0j8pSrWGYgy8F-OtFdUQNvZG48rqGpj9i4sdUarNswc0Z2omUPKXDklPBys3QmbJ9Ho18cJxL-XdwX_EjzeJOL00S3VPOAWxz-Moa2fTtT9X-bOtMQK_xTTNBed9nKJ8HjFcN2sufGMkqK3n5jUg_aN9-MV9_vJ-K3Ohx9wQ9If7mLMy6a-B3ODfTiLgwu-ypuTHhaNxGVz9Dl38xcH0RefNayG8lkdNuAnV_Cs5WsZXSKGRxeBHI_eR3Upjldi-4RPtJI8mAp9PHASCA0ccOISSYvW_CQEWt5GEA_UVI8tswiy75lLYiTd2QBRXUdwg6yISVDU3fURBPcTZUGzYDkKjSw4ICFKYjuX-IHgkB3sIOZmM67bVCQkHmutYHMklgLP7s8vmzCmAA1j-4BSTgIEkKh942vqmU3_EFCVf1a-7BmQ17_tWI6ar4Kn_vjgJ1KQaawMaa6FQoaXqiNCEOH7_0y3jhsCYF52BpQbFBYAWaQcOWg==",
+   "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8331009&subid=savercheck&pageKey=9788478049&itemId=29306833196&vendorItemId=96247357050&traceid=V0-153-4e1df9c3ed715ab1&requestid=20261127171639625181847291&token=31850C%7CGM&pt=0&slot=2",
+   "source": "관심:쿠쿠 CRP-CHPNL1015FGW",
+   "danawa_pcode": "123730422",
+   "model": "CRP-CHPNL1015FGW",
+   "checked_at": "2026-11-27T17:16+09:00"
   },
   {
    "id": "9620652411",
