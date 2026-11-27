@@ -660,7 +660,7 @@
   "other_min_shop": null
  },
  "9072150510": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 262200,
   "danawa": null,
   "malls": [],
@@ -669,7 +669,7 @@
   "other_min_shop": null
  },
  "9724226088": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 359000,
   "danawa": {
    "pcode": "106702589",
@@ -710,7 +710,7 @@
   "other_min_shop": "롯데홈쇼핑"
  },
  "9309807813": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 214900,
   "danawa": {
    "pcode": "106702613",
@@ -1310,7 +1310,7 @@
   "other_min_shop": null
  },
  "9309807812": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 312970,
   "danawa": {
    "pcode": "106702589",
@@ -1414,15 +1414,6 @@
  "9815750126": {
   "checked_at": "2026-11-20T16:57+09:00",
   "coupang_price_at_check": 71600,
-  "danawa": null,
-  "malls": [],
-  "dropped": 0,
-  "other_min": null,
-  "other_min_shop": null
- },
- "7621724421": {
-  "checked_at": "2026-11-20T13:56+09:00",
-  "coupang_price_at_check": 227050,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -3716,7 +3707,7 @@
   "other_min_shop": null
  },
  "8261224400": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 35100,
   "danawa": {
    "pcode": "60711794",
@@ -3757,8 +3748,8 @@
   "other_min_shop": "SSG.COM"
  },
  "5546189150": {
-  "checked_at": "2026-11-27T10:56+09:00",
-  "coupang_price_at_check": 72040,
+  "checked_at": "2026-11-27T16:57+09:00",
+  "coupang_price_at_check": 37640,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -3775,8 +3766,8 @@
   "other_min_shop": null
  },
  "7657684704": {
-  "checked_at": "2026-11-27T10:56+09:00",
-  "coupang_price_at_check": 300000,
+  "checked_at": "2026-11-27T16:57+09:00",
+  "coupang_price_at_check": 319000,
   "danawa": null,
   "malls": [],
   "dropped": 0,
@@ -3784,7 +3775,7 @@
   "other_min_shop": null
  },
  "9654381905": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 108900,
   "danawa": null,
   "malls": [],
@@ -3793,7 +3784,7 @@
   "other_min_shop": null
  },
  "9653068980": {
-  "checked_at": "2026-11-27T10:56+09:00",
+  "checked_at": "2026-11-27T16:57+09:00",
   "coupang_price_at_check": 83810,
   "danawa": null,
   "malls": [],
